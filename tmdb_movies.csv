@@ -1,0 +1,1959 @@
+id,title,release_date,genres,budget,revenue,vote_average,vote_count,imdb_id
+2,Ariel,1988-10-21,"['Drama', 'Romance', 'Crime']",0,0,7.115,384,tt0094675
+3,Shadows in Paradise,1986-10-17,"['Drama', 'Romance']",0,0,7.264,449,tt0092149
+5,Four Rooms,1995-12-09,['Comedy'],4000000,4257354,5.919,2909,tt0113101
+6,Judgment Night,1993-10-15,"['Action', 'Crime', 'Drama', 'Thriller']",21000000,12136938,6.446,389,tt0107286
+8,Life in Loops (A Megacities RMX),2006-01-01,['Documentary'],42000,0,7.3,34,tt0825671
+9,Sunday in August,2004-09-02,['Drama'],0,0,7.156,32,tt0425473
+11,Star Wars,1977-05-25,"['Adventure', 'Action', 'Science Fiction']",11000000,775398007,8.207,22914,tt0076759
+12,Finding Nemo,2003-05-30,"['Animation', 'Family', 'Adventure']",94000000,940335536,7.821,21020,tt0266543
+13,Forrest Gump,1994-06-23,"['Comedy', 'Drama', 'Romance']",55000000,677387716,8.461,30530,tt0109830
+14,American Beauty,1999-09-15,['Drama'],15000000,356296601,7.997,13387,tt0169547
+15,Citizen Kane,1941-04-17,"['Mystery', 'Drama']",839727,23218000,7.967,6242,tt0033467
+16,Dancer in the Dark,2000-09-01,"['Drama', 'Crime']",12500000,40061153,7.8,2077,tt0168629
+17,The Dark,2005-09-28,"['Horror', 'Thriller', 'Mystery']",0,6593579,5.666,299,tt0411267
+18,The Fifth Element,1997-05-02,"['Science Fiction', 'Action', 'Adventure']",90000000,263920180,7.591,12179,tt0119116
+19,Metropolis,1927-01-10,"['Drama', 'Science Fiction']",5300000,1350322,8.084,3209,tt0017136
+20,My Life Without Me,2003-03-07,"['Drama', 'Romance']",2500000,12300000,6.1,515,tt0314412
+21,The Endless Summer,1966-06-15,['Documentary'],50000,0,7.2,139,tt0060371
+22,Pirates of the Caribbean: The Curse of the Black Pearl,2003-07-09,"['Adventure', 'Fantasy', 'Action']",140000000,655011224,7.834,22818,tt0325980
+24,Kill Bill: Vol. 1,2003-10-10,"['Action', 'Crime']",30000000,180906076,7.97,19453,tt0266697
+25,Jarhead,2005-11-04,"['Drama', 'War']",72000000,97076152,6.69,3279,tt0418763
+26,Walk on Water,2004-02-05,['Drama'],1400000,444,6.894,95,tt0352994
+27,9 Songs,2004-07-16,"['Drama', 'Music', 'Romance']",1000000,1574623,5.531,602,tt0411705
+28,Apocalypse Now,1979-05-19,"['Drama', 'War']",31500000,150000000,8.261,9403,tt0078788
+33,Unforgiven,1992-08-07,['Western'],14400000,159157447,7.914,5122,tt0105695
+35,The Simpsons Movie,2007-07-25,"['Animation', 'Comedy', 'Family']",75000000,527068851,7.023,8741,tt0462538
+38,Eternal Sunshine of the Spotless Mind,2004-03-19,"['Science Fiction', 'Drama', 'Romance']",20000000,72258126,8.089,16771,tt0338013
+55,Amores Perros,2000-06-16,"['Drama', 'Thriller']",2000000,20908467,7.646,3014,tt0245712
+58,Pirates of the Caribbean: Dead Man's Chest,2006-07-06,"['Adventure', 'Fantasy', 'Action']",200000000,1066179747,7.39,17629,tt0383574
+59,A History of Violence,2005-09-23,"['Drama', 'Thriller', 'Crime']",32000000,61477797,7.164,3887,tt0399146
+62,2001: A Space Odyssey,1968-04-02,"['Science Fiction', 'Mystery', 'Adventure']",12000000,71923560,8.043,12972,tt0062622
+63,Twelve Monkeys,1995-12-29,"['Science Fiction', 'Thriller', 'Mystery']",29000000,168841459,7.614,9413,tt0114746
+64,Talk to Her,2002-03-15,"['Drama', 'Romance']",6500000,64826117,7.561,1486,tt0287467
+65,8 Mile,2002-11-08,"['Drama', 'Music']",41000000,242875078,7.148,7999,tt0298203
+66,Absolute Power,1997-02-14,"['Crime', 'Drama', 'Action']",50000000,50100000,6.66,1298,tt0118548
+67,Paradise Now,2005-09-07,"['Crime', 'Thriller', 'Drama', 'War']",2000000,3395627,6.899,297,tt0445620
+68,Brazil,1985-02-20,"['Comedy', 'Science Fiction']",15000000,9953708,7.66,3837,tt0088846
+69,Walk the Line,2005-09-13,"['Drama', 'Music', 'Romance']",28000000,186800000,7.499,3220,tt0358273
+70,Million Dollar Baby,2004-12-05,['Drama'],30000000,216763646,8.0,10608,tt0405159
+71,Billy Elliot,2000-09-28,"['Drama', 'Comedy', 'Music']",5000000,109280263,7.6,4179,tt0249462
+73,American History X,1998-07-01,['Drama'],20000000,23900000,8.323,12947,tt0120586
+74,War of the Worlds,2005-06-28,"['Adventure', 'Thriller', 'Science Fiction']",132000000,603873119,6.574,9562,tt0407304
+75,Mars Attacks!,1996-12-13,"['Comedy', 'Fantasy', 'Science Fiction']",70000000,101371017,6.433,6068,tt0116996
+76,Before Sunrise,1995-01-27,"['Drama', 'Romance']",2500000,5987386,7.968,4876,tt0112471
+77,Memento,2000-10-11,"['Mystery', 'Thriller']",9000000,40060108,8.173,16804,tt0209144
+78,Blade Runner,1982-06-25,"['Science Fiction', 'Drama', 'Thriller']",28000000,41722424,7.936,15436,tt0083658
+79,Hero,2002-12-19,"['Drama', 'Adventure', 'Action', 'History']",31000000,177394432,7.5,2600,tt0299977
+80,Before Sunset,2004-06-16,"['Drama', 'Romance']",2700000,15992615,7.807,3929,tt0381681
+81,Warriors of the Wind,1984-03-11,"['Adventure', 'Animation', 'Fantasy']",1000000,9016411,7.9,4212,tt0087544
+82,Miami Vice,2006-07-27,"['Action', 'Crime', 'Thriller']",135000000,163800000,6.05,2071,tt0430357
+83,Open Water,2004-08-06,"['Horror', 'Thriller', 'Adventure']",120000,54683487,5.55,1166,tt0374102
+85,Raiders of the Lost Ark,1981-06-12,"['Adventure', 'Action']",18000000,389925971,7.927,14025,tt0082971
+86,The Elementary Particles,2006-02-10,"['Drama', 'Romance']",6000000,0,6.155,152,tt0430051
+87,Indiana Jones and the Temple of Doom,1984-05-23,"['Adventure', 'Action']",28000000,333000000,7.309,10398,tt0087469
+88,Dirty Dancing,1987-08-21,"['Drama', 'Music', 'Romance']",6000000,214577242,7.324,6687,tt0092890
+89,Indiana Jones and the Last Crusade,1989-05-24,"['Adventure', 'Action']",48000000,474171806,7.856,11378,tt0097576
+90,Beverly Hills Cop,1984-12-05,"['Comedy', 'Crime', 'Action']",14000000,316360478,7.212,4750,tt0086960
+91,Land Without Bread,1933-12-01,['Documentary'],0,0,7.096,178,tt0023037
+92,Megacities,1998-08-12,['Documentary'],0,0,6.7,22,tt0169024
+93,Anatomy of a Murder,1959-07-01,"['Crime', 'Drama', 'Mystery']",2000000,8000000,7.8,1219,tt0052561
+94,Kunstgriff,2002-01-01,['Comedy'],0,0,7.7,6,tt0436488
+95,Armageddon,1998-07-01,"['Action', 'Science Fiction', 'Adventure']",140000000,553799566,6.833,8856,tt0120591
+96,Beverly Hills Cop II,1987-05-18,"['Action', 'Comedy', 'Crime']",28000000,299965036,6.536,2918,tt0092644
+97,Tron,1982-07-09,"['Science Fiction', 'Action', 'Adventure']",17000000,33002371,6.624,2876,tt0084827
+98,Gladiator,2000-05-04,"['Action', 'Drama', 'Adventure']",103000000,465516248,8.23,21551,tt0172495
+99,All About My Mother,1999-04-16,"['Comedy', 'Drama']",5000000,67958231,7.605,2114,tt0185125
+100,"Lock, Stock and Two Smoking Barrels",1998-08-28,"['Comedy', 'Crime']",1350000,28356188,8.093,7417,tt0120735
+101,Léon: The Professional,1994-09-14,"['Crime', 'Drama', 'Action']",16000000,20330788,8.29,16565,tt0110413
+102,Open Hearts,2002-09-06,"['Drama', 'Romance']",0,0,7.1,127,tt0315543
+103,Taxi Driver,1976-02-09,"['Crime', 'Drama']",1900000,28579636,8.12,13818,tt0075314
+104,Run Lola Run,1998-08-20,"['Action', 'Drama', 'Thriller']",1530000,7660911,7.305,2673,tt0130827
+105,Back to the Future,1985-07-03,"['Adventure', 'Comedy', 'Science Fiction']",19000000,391546852,8.33,22457,tt0088763
+106,Predator,1987-06-12,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",15000000,98267558,7.582,9536,tt0093773
+107,Snatch,2000-09-01,"['Crime', 'Comedy']",100000000,83557872,7.83,10309,tt0208092
+108,Three Colors: Blue,1993-09-08,['Drama'],0,1527572,7.614,1954,tt0108394
+109,Three Colors: White,1994-01-26,"['Comedy', 'Drama', 'Mystery']",0,1273525,7.431,1372,tt0111507
+110,Three Colors: Red,1994-05-12,"['Drama', 'Mystery', 'Romance']",0,4127033,7.885,1600,tt0111495
+111,Scarface,1983-12-09,"['Action', 'Crime', 'Drama']",25000000,66023329,8.152,13471,tt0086250
+112,Italian for Beginners,2000-12-07,"['Comedy', 'Drama', 'Romance']",1000000,16350876,6.4,158,tt0243862
+113,"Spring, Summer, Fall, Winter... and Spring",2003-09-19,['Drama'],0,8945072,7.802,1244,tt0374546
+114,Pretty Woman,1990-03-23,"['Romance', 'Comedy']",14000000,463406268,7.44,9197,tt0100405
+115,The Big Lebowski,1998-03-06,"['Comedy', 'Crime']",15000000,47010480,7.835,12513,tt0118715
+116,Match Point,2005-10-26,"['Drama', 'Romance', 'Thriller']",15000000,85638656,7.357,4475,tt0416320
+117,The Untouchables,1987-06-03,"['Crime', 'History', 'Thriller']",25000000,76270454,7.752,6339,tt0094226
+118,Charlie and the Chocolate Factory,2005-07-13,"['Adventure', 'Comedy', 'Family', 'Fantasy']",150000000,475000000,7.037,16412,tt0367594
+120,The Lord of the Rings: The Fellowship of the Ring,2001-12-18,"['Adventure', 'Fantasy', 'Action']",93000000,871368364,8.445,28427,tt0120737
+121,The Lord of the Rings: The Two Towers,2002-12-18,"['Adventure', 'Fantasy', 'Action']",79000000,926287400,8.429,24635,tt0167261
+122,The Lord of the Rings: The Return of the King,2003-12-17,"['Adventure', 'Fantasy', 'Action']",94000000,1118888979,8.506,27427,tt0167260
+123,The Lord of the Rings,1978-11-15,"['Adventure', 'Animation', 'Fantasy']",4000000,30477175,6.586,1093,tt0077869
+124,No End,1985-06-17,['Drama'],0,0,6.98,124,tt0086961
+125,Railway Station,1980-01-01,['Documentary'],0,0,4.743,35,tt0080668
+126,Short Working Day,1995-11-02,"['Drama', 'TV Movie']",0,0,6.364,11,tt0082631
+127,Blind Chance,1987-01-10,['Drama'],0,0,7.5,252,tt0084549
+128,Princess Mononoke,1997-07-12,"['Adventure', 'Fantasy', 'Animation']",20000000,231379818,8.321,9317,tt0119698
+129,Spirited Away,2001-07-20,"['Animation', 'Family', 'Fantasy']",19000000,274925095,8.535,18947,tt0245429
+132,Gimme Shelter,1970-12-13,"['Documentary', 'Music']",0,252570,7.353,201,tt0065780
+133,Primary,1960-11-08,['Documentary'],0,0,6.476,42,tt0054205
+134,"O Brother, Where Art Thou?",2000-08-30,"['Adventure', 'Comedy', 'Crime']",26000000,71877090,7.327,4765,tt0190590
+135,Bob Dylan – Don't Look Back,1967-05-17,"['Documentary', 'Music']",0,0,7.377,183,tt0061589
+136,Freaks,1932-01-01,"['Drama', 'Horror']",310607,0,7.77,1343,tt0022913
+137,Groundhog Day,1993-02-11,"['Romance', 'Fantasy', 'Comedy']",14600000,71108778,7.635,9196,tt0107048
+138,Dracula,1931-02-12,['Horror'],355000,700000,7.167,1415,tt0021814
+139,Mifune,1999-03-12,"['Drama', 'Comedy', 'Romance']",0,0,7.039,76,tt0164756
+140,Bad Education,2004-03-19,"['Drama', 'Crime']",5000000,40266982,7.4,1098,tt0275491
+141,Donnie Darko,2001-01-19,"['Fantasy', 'Drama', 'Mystery']",4500000,7500000,7.76,13779,tt0246578
+142,Brokeback Mountain,2005-10-22,"['Drama', 'Romance']",14000000,178043761,7.782,7745,tt0388795
+143,All Quiet on the Western Front,1930-04-29,"['Drama', 'War']",1448864,3270000,7.759,975,tt0020629
+144,Wings of Desire,1987-09-23,"['Drama', 'Fantasy', 'Romance']",2500000,3548590,7.762,1540,tt0093191
+145,Breaking the Waves,1996-07-05,"['Drama', 'Romance']",7500000,23000000,7.477,1149,tt0115751
+146,"Crouching Tiger, Hidden Dragon",2000-07-06,"['Adventure', 'Drama', 'Action']",17000000,213978518,7.438,3715,tt0190332
+147,The 400 Blows,1959-06-03,['Drama'],0,0,7.993,2393,tt0053198
+148,The Secret Life of Words,2005-12-15,"['Romance', 'Drama']",5000000,0,6.954,239,tt0430576
+149,Akira,1988-07-16,"['Animation', 'Science Fiction', 'Action']",5700000,56725538,7.94,5021,tt0094625
+150,48 Hrs.,1982-12-07,"['Crime', 'Action', 'Comedy']",12000000,78868508,6.676,1794,tt0083511
+152,Star Trek: The Motion Picture,1979-12-07,"['Science Fiction', 'Adventure', 'Mystery']",44000000,139346243,6.484,2013,tt0079945
+153,Lost in Translation,2003-09-18,"['Drama', 'Comedy', 'Romance']",4000000,119723856,7.377,8329,tt0335266
+154,Star Trek II: The Wrath of Khan,1982-06-04,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",12000000,96594943,7.452,2222,tt0084726
+155,The Dark Knight,2008-07-16,"['Action', 'Thriller', 'Crime']",185000000,1004558444,8.536,36818,tt0468569
+156,Wilbur Wants to Kill Himself,2002-11-08,"['Comedy', 'Drama', 'Romance']",0,0,6.55,110,tt0329767
+157,Star Trek III: The Search for Spock,1984-06-01,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",18000000,87000000,6.589,1590,tt0088170
+158,Knockin' on Heaven's Door,1997-02-20,"['Comedy', 'Crime', 'Action', 'Drama']",3500000,0,7.682,617,tt0119472
+159,Maybe... Maybe Not,1994-10-05,"['Comedy', 'Drama']",0,0,6.24,123,tt0109255
+160,The Arrival of a Train at La Ciotat,1896-06-30,"['History', 'Documentary']",0,0,7.1,553,tt0000012
+161,Ocean's Eleven,2001-12-07,"['Thriller', 'Crime']",85000000,450717150,7.465,12930,tt0240772
+162,Edward Scissorhands,1990-12-07,"['Fantasy', 'Drama', 'Romance']",20000000,86024005,7.719,14057,tt0099487
+163,Ocean's Twelve,2004-12-09,"['Thriller', 'Crime']",110000000,362744280,6.566,8145,tt0349903
+164,Breakfast at Tiffany's,1961-10-06,"['Comedy', 'Romance', 'Drama']",2500000,9500000,7.613,4578,tt0054698
+165,Back to the Future Part II,1989-11-22,"['Adventure', 'Comedy', 'Science Fiction']",40000000,332861197,7.784,14317,tt0096874
+166,The Party,1980-12-17,"['Drama', 'Romance', 'Comedy']",0,0,6.6,1233,tt0082100
+167,K-PAX,2001-10-26,"['Science Fiction', 'Drama', 'Mystery']",48000000,50315140,7.206,2872,tt0272152
+168,Star Trek IV: The Voyage Home,1986-11-26,"['Science Fiction', 'Adventure']",21000000,133000000,7.185,1726,tt0092007
+169,Predator 2,1990-11-21,"['Science Fiction', 'Action', 'Thriller']",35000000,57120318,6.315,4004,tt0100403
+170,28 Days Later,2002-10-31,"['Horror', 'Thriller', 'Science Fiction']",8000000,82784517,7.2,8903,tt0289043
+171,The Party 2,1982-12-08,"['Comedy', 'Romance', 'Drama']",0,0,6.4,666,tt0083686
+172,Star Trek V: The Final Frontier,1989-06-09,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",33000000,63000000,5.731,1361,tt0098382
+173,"20,000 Leagues Under the Sea",1954-12-23,"['Adventure', 'Science Fiction', 'Fantasy']",5000000,28200000,7.072,1026,tt0046672
+174,Star Trek VI: The Undiscovered Country,1991-12-06,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",27000000,96888996,7.043,1480,tt0102975
+175,The Big Blue,1988-05-10,"['Romance', 'Adventure', 'Drama']",13500000,4000000,7.442,1624,tt0095250
+176,Saw,2004-10-01,"['Horror', 'Mystery', 'Crime']",1200000,104045735,7.427,10358,tt0387564
+177,The Fisher King,1991-09-20,"['Comedy', 'Drama']",24000000,41895491,7.311,1528,tt0101889
+178,Blown Away,1994-07-01,['Action'],28000000,30156002,6.214,652,tt0109303
+179,The Interpreter,2005-04-08,"['Crime', 'Thriller']",80000000,162944923,6.315,1644,tt0373926
+180,Minority Report,2002-06-20,"['Science Fiction', 'Action', 'Thriller']",102000000,358372926,7.354,9962,tt0181689
+182,The Good German,2006-12-15,"['Drama', 'Mystery', 'Romance', 'Thriller', 'War']",32000000,5914908,5.8,365,tt0452624
+183,The Wizard,1989-12-15,"['Adventure', 'Comedy', 'Drama', 'Family']",6000000,14278900,6.035,362,tt0098663
+184,Jackie Brown,1997-12-25,"['Crime', 'Drama', 'Thriller']",12000000,74727492,7.359,7139,tt0119396
+185,A Clockwork Orange,1971-10-28,"['Science Fiction', 'Crime']",2200000,27033812,8.169,14152,tt0066921
+186,Lucky Number Slevin,2006-02-24,"['Drama', 'Thriller', 'Crime', 'Mystery']",27000000,56300000,7.475,4635,tt0425210
+187,Sin City,2005-04-01,"['Crime', 'Thriller']",40000000,158733820,7.464,9085,tt0401792
+189,Sin City: A Dame to Kill For,2014-08-20,"['Action', 'Crime', 'Thriller']",65000000,39407616,6.401,4276,tt0458481
+190,Das Dorf der Freundschaft,2001-08-25,['Documentary'],0,0,9.0,2,
+191,The State I Am In,2001-02-01,['Drama'],3000000,0,6.767,73,tt0248103
+192,The Name of the Rose,1986-09-24,"['Drama', 'Thriller', 'Mystery']",18000000,77200000,7.5,3408,tt0091605
+193,Star Trek: Generations,1994-11-18,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",38000000,118071125,6.524,1563,tt0111280
+194,Amélie,2001-04-25,"['Comedy', 'Romance']",10000000,173921954,7.92,12678,tt0211915
+195,Trouble in Paradise,1932-10-30,"['Comedy', 'Crime', 'Romance']",0,0,7.418,324,tt0023622
+196,Back to the Future Part III,1990-05-25,"['Adventure', 'Comedy', 'Science Fiction']",40000000,245077583,7.495,11852,tt0099088
+197,Braveheart,1995-05-24,"['Drama', 'History', 'War']",72000000,213216216,7.9,11460,tt0112573
+198,To Be or Not to Be,1942-03-06,"['Comedy', 'War', 'Romance']",1200000,1500000,7.818,864,tt0035446
+199,Star Trek: First Contact,1996-11-22,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",46000000,146027888,7.308,2038,tt0117731
+200,Star Trek: Insurrection,1998-12-11,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",70000000,112587658,6.457,1410,tt0120844
+201,Star Trek: Nemesis,2002-12-13,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",60000000,67336470,6.309,1655,tt0253754
+203,Mean Streets,1973-10-14,"['Drama', 'Crime']",500000,3000000,7.044,2368,tt0070379
+204,The Wages of Fear,1953-04-22,"['Drama', 'Thriller', 'Adventure']",0,0,8.004,1133,tt0046268
+205,Hotel Rwanda,2004-12-22,"['Drama', 'History', 'War']",17500000,38000000,7.72,3287,tt0395169
+206,Paradise Found,2003-01-01,['Drama'],0,0,6.452,31,tt0287624
+207,Dead Poets Society,1989-06-02,['Drama'],16400000,235860116,8.296,12990,tt0097165
+211,Berlin is in Germany,2001-11-01,"['Comedy', 'Drama']",0,0,5.528,18,tt0276820
+212,Arsenic and Old Lace,1944-09-01,"['Comedy', 'Crime']",1120175,0,7.6,1077,tt0036613
+213,North by Northwest,1959-08-06,"['Thriller', 'Adventure']",4000000,13275000,7.961,4649,tt0053125
+214,Saw III,2006-10-26,"['Horror', 'Thriller', 'Crime']",10000000,164874275,6.418,5095,tt0489270
+215,Saw II,2005-10-28,['Horror'],4000000,152925093,6.611,6065,tt0432348
+216,Ali: Fear Eats the Soul,1974-03-05,"['Romance', 'Drama']",130000,186757,7.741,468,tt0071141
+217,Indiana Jones and the Kingdom of the Crystal Skull,2008-05-21,"['Adventure', 'Action']",185000000,786636033,6.024,9261,tt0367882
+218,The Terminator,1984-10-26,"['Action', 'Thriller', 'Science Fiction']",6400000,78371200,7.696,15179,tt0088247
+219,Volver,2006-03-17,"['Comedy', 'Drama', 'Romance']",9400000,85605851,7.5,1971,tt0441909
+220,East of Eden,1955-04-10,['Drama'],2,5000000,7.525,838,tt0048028
+221,Rebel Without a Cause,1955-10-27,['Drama'],1500000,4500000,7.485,1825,tt0048545
+222,Berlin: Symphony of a Great City,1927-09-23,['Documentary'],0,0,7.5,131,tt0017668
+223,Rebecca,1940-03-23,"['Mystery', 'Romance', 'Thriller']",0,0,7.884,2034,tt0032976
+224,Man of Marble,1977-02-25,['Drama'],0,0,7.052,96,tt0075902
+225,Man of Iron,1981-07-27,"['Drama', 'History']",0,492035,6.995,95,tt0082222
+226,Boys Don't Cry,1999-09-02,"['Crime', 'Drama']",2000000,11540607,7.4,1508,tt0171804
+227,The Outsiders,1983-03-25,"['Crime', 'Drama']",10000000,33697647,7.2,1615,tt0086066
+228,The Blue Angel,1930-04-01,['Drama'],0,0,7.302,381,tt0020697
+229,Bride of Frankenstein,1935-04-20,"['Horror', 'Science Fiction']",393750,2000000,7.497,1144,tt0026138
+231,Syriana,2005-11-23,"['Drama', 'Thriller']",50000000,93974620,6.42,1547,tt0365737
+232,Rumble Fish,1983-10-09,"['Crime', 'Drama', 'Romance']",10000000,2494480,6.964,785,tt0086216
+233,The Wanderers,1979-07-13,['Drama'],0,23000000,7.0,236,tt0080117
+234,The Cabinet of Dr. Caligari,1920-02-27,"['Drama', 'Horror', 'Thriller', 'Crime']",18000,8811,7.93,1827,tt0010323
+235,Stand by Me,1986-08-08,"['Drama', 'Adventure']",8000000,52289686,7.835,6761,tt0092005
+236,Muriel's Wedding,1994-09-29,"['Comedy', 'Drama', 'Romance']",3000000,15119639,6.8,508,tt0110598
+237,Young Adam,2003-09-26,"['Drama', 'Thriller', 'Crime', 'Romance']",6400000,2500000,5.881,201,tt0289635
+238,The Godfather,1972-03-14,"['Drama', 'Crime']",6000000,245066411,8.688,23647,tt0068646
+239,Some Like It Hot,1959-03-19,"['Comedy', 'Romance', 'Crime']",2900000,25000000,8.078,4002,tt0053291
+240,The Godfather Part II,1974-12-20,"['Drama', 'Crime']",13000000,102600000,8.6,14376,tt0071562
+241,Natural Born Killers,1994-08-26,"['Crime', 'Thriller', 'Drama']",34000000,110000000,7.0,3926,tt0110632
+242,The Godfather Part III,1990-12-25,"['Crime', 'Drama', 'Thriller']",54000000,136766062,7.416,7076,tt0099674
+243,High Fidelity,2000-03-17,"['Drama', 'Comedy', 'Romance', 'Music']",30000000,47100000,7.13,2270,tt0146882
+244,King Kong,1933-04-07,"['Adventure', 'Fantasy', 'Horror']",672000,10001781,7.587,1670,tt0024216
+245,About a Boy,2002-04-26,"['Drama', 'Comedy', 'Romance']",27000000,129000000,6.697,2473,tt0276751
+246,Zatoichi,2003-09-06,"['Adventure', 'Drama', 'Action']",2500000,34196922,7.239,996,tt0363226
+247,The Killing,1956-06-06,"['Crime', 'Thriller', 'Drama']",320000,0,7.643,1770,tt0049406
+248,Pocketful of Miracles,1961-12-18,"['Comedy', 'Drama']",2900000,5000000,7.3,189,tt0055312
+249,The War of the Roses,1989-12-08,"['Comedy', 'Drama']",26000000,160188546,6.917,1293,tt0098621
+250,In China They Eat Dogs,1999-09-10,"['Action', 'Comedy', 'Crime']",0,0,7.3,309,tt0180748
+251,Ghost,1990-07-13,"['Fantasy', 'Romance', 'Thriller']",22000000,505000000,7.247,6215,tt0099653
+252,Willy Wonka & the Chocolate Factory,1971-06-29,"['Family', 'Fantasy', 'Comedy']",3000000,2361799,7.5,4088,tt0067992
+253,Live and Let Die,1973-06-27,"['Adventure', 'Action', 'Thriller']",7000000,126400000,6.504,2376,tt0070328
+254,King Kong,2005-12-12,"['Adventure', 'Drama', 'Action']",207000000,562363449,6.9,8745,tt0360717
+255,Stolen Kisses,1968-09-04,"['Comedy', 'Drama', 'Romance']",350000,1500000,7.3,473,tt0062695
+256,Antoine and Colette,1962-06-22,"['Romance', 'Drama', 'Comedy']",0,0,7.2,285,tt1180329
+257,Oliver Twist,2005-09-23,"['Crime', 'Drama', 'Family']",50000000,42580321,6.754,1265,tt0380599
+258,Bed and Board,1970-09-09,"['Comedy', 'Drama', 'Romance']",0,0,7.099,318,tt0065651
+259,Love on the Run,1979-01-24,"['Romance', 'Drama', 'Comedy']",0,0,7.039,219,tt0078771
+260,The 39 Steps,1935-06-06,"['Mystery', 'Thriller']",75000,0,7.3,1094,tt0026029
+261,Cat on a Hot Tin Roof,1958-08-29,['Drama'],3000000,17570324,7.627,868,tt0051459
+262,The King of Comedy,1982-12-18,"['Drama', 'Comedy']",19000000,2536000,7.771,2673,tt0085794
+265,Lili Marleen,1981-01-14,"['Drama', 'War', 'Romance']",0,8144,6.468,93,tt0082661
+266,Contempt,1963-10-29,"['Drama', 'Romance']",900000,528428,7.029,996,tt0057345
+267,Live Flesh,1997-10-10,"['Drama', 'Romance', 'Thriller']",1000000,4686844,7.015,766,tt0118819
+268,Batman,1989-06-21,"['Fantasy', 'Action', 'Crime']",35000000,411348924,7.234,8827,tt0096895
+269,Breathless,1960-03-16,"['Drama', 'Crime', 'Romance']",80000,0,7.481,2094,tt0053472
+270,Wir sagen Du! Schatz.,2007-11-01,"['Comedy', 'Drama', 'Fantasy']",350000,0,6.1,9,tt0997275
+271,Ronia: The Robber's Daughter,1984-12-14,"['Adventure', 'Drama', 'Fantasy', 'Family']",0,0,7.0,199,tt0088015
+272,Batman Begins,2005-06-10,"['Drama', 'Crime', 'Action']",150000000,374218673,7.73,23238,tt0372784
+273,The White Sound,2001-12-31,['Drama'],250000,0,6.945,64,tt0276617
+274,The Silence of the Lambs,1991-02-14,"['Crime', 'Thriller', 'Drama']",19000000,272742922,8.345,18555,tt0102926
+275,Fargo,1996-03-08,"['Crime', 'Drama', 'Thriller']",7000000,60611975,7.849,9412,tt0116282
+276,The Edukators,2004-10-25,"['Drama', 'Comedy']",0,0,7.161,394,tt0408777
+277,Underworld,2003-09-19,"['Fantasy', 'Action', 'Thriller']",22000000,95708457,6.861,6804,tt0320691
+278,The Shawshank Redemption,1994-09-23,"['Drama', 'Crime']",25000000,28341469,8.7,31424,tt0111161
+279,Amadeus,1984-09-19,"['Drama', 'History', 'Music']",18000000,90007557,8.025,4932,tt0086879
+280,Terminator 2: Judgment Day,1991-07-03,"['Action', 'Thriller', 'Science Fiction']",102000000,517814175,8.17,14904,tt0103064
+281,Strange Days,1995-10-13,"['Crime', 'Science Fiction', 'Thriller']",42000000,17000000,7.024,1617,tt0114558
+284,The Apartment,1960-06-21,"['Comedy', 'Drama', 'Romance']",3000000,25000000,8.184,2783,tt0053604
+285,Pirates of the Caribbean: At World's End,2007-05-19,"['Adventure', 'Fantasy', 'Action']",300000000,961691209,7.278,15865,tt0449088
+286,Germany: A Summer's Fairytale,2006-10-03,['Documentary'],0,0,6.853,58,tt0853060
+287,Bull Durham,1988-06-15,"['Comedy', 'Romance']",7000000,50888000,6.6,706,tt0094812
+288,High Noon,1952-06-09,['Western'],730000,8000000,7.7,1638,tt0044706
+289,Casablanca,1943-01-15,"['Drama', 'Romance']",878000,10462500,8.139,6240,tt0034583
+290,Barton Fink,1991-08-01,"['Comedy', 'Drama', 'Thriller']",9000000,6153939,7.458,1956,tt0101410
+291,Riding Giants,2004-07-09,['Documentary'],2600000,3166000,7.58,50,tt0389326
+292,Dave Chappelle's Block Party,2005-09-12,"['Comedy', 'Music', 'Documentary']",3000000,11718595,6.8,130,tt0425598
+293,A River Runs Through It,1992-10-09,['Drama'],12000000,43440294,7.0,1243,tt0105265
+294,Desert Hearts,1985-10-01,"['Drama', 'Romance']",350000,2400000,7.083,181,tt0089015
+296,Terminator 3: Rise of the Machines,2003-07-02,"['Action', 'Thriller', 'Science Fiction']",200000000,435000000,6.206,7503,tt0181852
+297,Meet Joe Black,1998-11-12,"['Fantasy', 'Drama', 'Romance']",90000000,142940100,7.37,5957,tt0119643
+298,Ocean's Thirteen,2007-06-05,"['Crime', 'Thriller']",85000000,311312624,6.733,7098,tt0496806
+299,Ocean's Eleven,1960-08-10,"['Crime', 'Comedy', 'Thriller']",0,2800000,6.4,423,tt0054135
+300,The Science of Sleep,2006-06-25,"['Comedy', 'Drama', 'Fantasy']",6000000,9524340,6.966,871,tt0354899
+301,Rio Bravo,1959-03-08,"['Western', 'Drama']",1200000,5750000,7.798,1300,tt0053221
+302,Swimming Pool,2003-05-21,"['Crime', 'Thriller']",7800000,22441323,6.488,818,tt0324133
+303,Notorious,1946-08-21,"['Drama', 'Crime', 'Mystery', 'Romance', 'Thriller']",2000000,24500000,7.714,1800,tt0038787
+306,Beverly Hills Cop III,1994-05-24,"['Action', 'Comedy', 'Crime']",50000000,119208989,5.869,2216,tt0109254
+307,"Rome, Open City",1945-10-08,"['Drama', 'War']",20000,1000000,8.01,1003,tt0038890
+308,Broken Flowers,2005-07-31,"['Comedy', 'Drama', 'Mystery', 'Romance']",10000000,46720491,6.931,1536,tt0412019
+309,The Celebration,1998-06-19,['Drama'],1300000,0,7.691,1322,tt0154420
+310,Bruce Almighty,2003-05-23,"['Fantasy', 'Comedy']",80000000,484592874,6.727,11757,tt0315327
+311,Once Upon a Time in America,1984-05-23,"['Drama', 'Crime']",30000000,5500000,8.4,6228,tt0087843
+312,Beyond Silence,1996-12-18,"['Drama', 'Music']",0,0,6.9,80,tt0116692
+313,Snow Cake,2006-09-08,"['Romance', 'Drama']",12000000,1381665,7.131,199,tt0448124
+314,Catwoman,2004-07-22,"['Action', 'Fantasy', 'Crime']",100000000,82102379,4.642,3707,tt0327554
+315,"Faster, Pussycat! Kill! Kill!",1965-08-06,"['Action', 'Crime', 'Comedy', 'Thriller']",45000,36122,6.354,379,tt0059170
+316,Grill Point,2002-02-12,"['Comedy', 'Drama']",600000,0,6.6,35,tt0304126
+317,Grbavica: The Land of My Dreams,2006-03-01,"['Drama', 'History']",0,0,6.853,92,tt0464029
+318,The Million Dollar Hotel,2000-02-09,"['Drama', 'Thriller']",8000000,105983,5.895,382,tt0120753
+319,True Romance,1993-09-09,"['Action', 'Crime', 'Romance']",12500000,12600000,7.538,3183,tt0108399
+320,Insomnia,2002-05-24,"['Thriller', 'Crime', 'Drama']",46000000,113714830,6.954,5551,tt0278504
+321,Mambo Italiano,2003-06-06,"['Comedy', 'Romance']",4361898,3031801,5.995,99,tt0330602
+322,Mystic River,2003-10-08,"['Thriller', 'Drama', 'Mystery', 'Crime']",25000000,156800000,7.743,7709,tt0327056
+326,Snakes on a Plane,2006-08-17,"['Action', 'Adventure', 'Crime', 'Thriller']",33000000,62022014,5.48,2060,tt0417148
+327,Brother,2000-12-13,"['Crime', 'Drama', 'Thriller']",12000000,15250000,7.094,546,tt0222851
+329,Jurassic Park,1993-06-11,"['Adventure', 'Science Fiction']",63000000,1058454230,7.976,18377,tt0107290
+330,The Lost World: Jurassic Park,1997-05-23,"['Adventure', 'Action', 'Science Fiction']",73000000,618638999,6.564,9489,tt0119567
+331,Jurassic Park III,2001-07-18,"['Adventure', 'Thriller', 'Science Fiction', 'Action']",93000000,368780809,6.177,8083,tt0163025
+332,Inspector Gadget,1999-07-23,"['Action', 'Adventure', 'Comedy', 'Family']",75000000,134403112,4.535,1370,tt0141369
+333,Bollywood/Hollywood,2002-10-25,"['Comedy', 'Drama', 'Music', 'Romance']",0,0,5.719,32,tt0303785
+334,Magnolia,1999-12-17,['Drama'],37000000,48451803,7.7,4165,tt0175880
+335,Once Upon a Time in the West,1968-12-21,"['Drama', 'Western']",5000000,5380118,8.263,5064,tt0064116
+336,"Duck, You Sucker",1971-10-29,['Western'],0,0,7.7,1224,tt0067140
+337,Monsieur Ibrahim,2003-09-17,['Drama'],0,11576431,7.0,172,tt0329388
+338,"Good Bye, Lenin!",2003-02-13,"['Comedy', 'Drama']",4800000,79384880,7.532,2706,tt0301357
+339,Night on Earth,1991-12-12,"['Comedy', 'Drama']",3500000,2015810,7.509,1094,tt0102536
+340,Everything Is Illuminated,2005-09-05,"['Comedy', 'Drama']",7000000,3601974,7.252,842,tt0404030
+341,A Crime,2006-09-11,['Crime'],0,0,5.581,43,tt0489010
+342,Summer Storm,2004-09-02,"['Comedy', 'Drama']",2700000,2085166,6.8,217,tt0420206
+343,Harold and Maude,1971-12-20,"['Comedy', 'Drama', 'Romance']",1200000,0,7.583,1248,tt0067185
+344,"Bang, Boom, Bang",1999-08-26,"['Crime', 'Action', 'Comedy']",2888030,0,7.544,238,tt0135790
+345,Eyes Wide Shut,1999-07-16,"['Drama', 'Thriller', 'Mystery']",65000000,162517900,7.486,7333,tt0120663
+346,Seven Samurai,1954-04-26,"['Action', 'Drama']",2000000,105000000,8.452,4382,tt0047478
+347,People on Sunday,1930-02-04,['Drama'],0,0,7.205,117,tt0020163
+348,Alien,1979-05-25,"['Horror', 'Science Fiction']",11000000,104931801,8.174,16882,tt0078748
+349,Cockles and Muscles,2005-03-30,['Comedy'],0,0,5.952,42,tt0428430
+350,The Devil Wears Prada,2006-06-29,"['Drama', 'Comedy']",35000000,326588371,7.434,14267,tt0458352
+351,Longing,2006-09-07,['Drama'],1000000,0,6.2,26,tt0416213
+363,Head-On,2004-03-11,"['Drama', 'Romance']",0,11030861,7.489,648,tt0347048
+364,Batman Returns,1992-06-19,"['Action', 'Fantasy']",80000000,280000000,6.953,7309,tt0103776
+377,A Nightmare on Elm Street,1984-11-09,['Horror'],1800000,57004513,7.354,5955,tt0087800
+378,Raising Arizona,1987-03-13,"['Comedy', 'Crime']",6000000,29180280,7.055,2417,tt0093822
+379,Miller's Crossing,1990-09-21,"['Drama', 'Thriller', 'Crime']",14000000,5080409,7.444,1915,tt0100150
+380,Rain Man,1988-12-12,['Drama'],25000000,354825435,7.749,7347,tt0095953
+381,To Catch a Thief,1955-08-03,"['Mystery', 'Romance', 'Thriller']",2500000,8750000,7.3,1722,tt0048728
+383,Mala Noche,1987-06-19,"['Drama', 'Romance']",22500,0,6.1,123,tt0089537
+387,Das Boot,1981-09-17,"['Drama', 'History', 'War']",14000000,85000000,8.084,2644,tt0082096
+388,Inside Man,2006-03-17,"['Crime', 'Drama', 'Thriller']",45000000,186003591,7.408,6580,tt0454848
+389,12 Angry Men,1957-04-10,['Drama'],397751,4360000,8.572,10405,tt0050083
+390,Lisbon Story,1994-12-16,"['Drama', 'Music']",0,0,7.2,131,tt0110361
+391,A Fistful of Dollars,1964-09-12,['Western'],200000,14500000,7.823,4877,tt0058461
+392,Chocolat,2000-12-22,"['Comedy', 'Drama', 'Romance']",25000000,152700626,6.972,3578,tt0241303
+393,Kill Bill: Vol. 2,2004-04-16,"['Action', 'Crime', 'Thriller']",30000000,152159461,7.873,15474,tt0378194
+395,AVP: Alien vs. Predator,2004-08-12,"['Adventure', 'Science Fiction', 'Action', 'Horror']",70000000,177427090,5.961,5151,tt0370263
+396,Who's Afraid of Virginia Woolf?,1966-06-22,['Drama'],7500000,33736689,7.697,945,tt0061184
+397,French Kiss,1995-05-05,"['Comedy', 'Romance', 'Drama']",0,101982854,6.485,823,tt0113117
+398,Capote,2005-09-30,"['Crime', 'Drama']",7000000,49327405,6.969,1704,tt0379725
+400,Things to Do in Denver When You're Dead,1995-12-01,"['Drama', 'Crime']",8000000,529766,6.442,447,tt0114660
+401,Garden State,2004-07-28,"['Comedy', 'Drama', 'Romance']",2500000,26781723,7.074,2119,tt0333766
+402,Basic Instinct,1992-03-20,"['Thriller', 'Mystery']",49000000,352927224,6.951,4549,tt0103772
+403,Driving Miss Daisy,1989-12-13,['Drama'],7500000,145793296,7.227,1865,tt0097239
+404,The Straight Story,1999-10-15,"['Drama', 'Adventure']",10000000,6418028,7.737,1887,tt0166896
+405,La Strada,1954-09-23,['Drama'],0,0,7.908,1201,tt0047528
+406,La Haine,1995-05-31,['Drama'],2600000,15300000,8.1,4715,tt0113247
+407,Short Sharp Shock,1998-10-15,"['Crime', 'Drama']",500000,0,6.701,97,tt0162426
+408,Snow White and the Seven Dwarfs,1938-01-22,"['Fantasy', 'Animation', 'Family']",1488423,184925486,7.128,8137,tt0029583
+409,The English Patient,1996-11-14,"['Drama', 'Romance', 'War']",27000000,231976425,7.129,2468,tt0116209
+410,Summer in Berlin,2005-09-09,"['Comedy', 'Drama']",0,7718317,6.3,66,tt0477877
+411,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005-12-07,"['Adventure', 'Family', 'Fantasy']",180000000,745013115,7.145,11791,tt0363771
+414,Batman Forever,1995-06-16,"['Action', 'Crime', 'Fantasy']",100000000,336529144,5.464,5762,tt0112462
+415,Batman & Robin,1997-06-20,"['Action', 'Science Fiction', 'Adventure']",125000000,238207122,4.393,5567,tt0118688
+419,About the Looking for and the Finding of Love,2005-01-27,"['Comedy', 'Romance', 'Drama', 'Music']",0,0,4.7,19,tt0383041
+421,The Life Aquatic with Steve Zissou,2004-12-10,"['Adventure', 'Comedy', 'Drama']",50000000,34808403,7.072,3279,tt0362270
+422,8½,1963-02-14,['Drama'],0,0,8.1,2601,tt0056801
+423,The Pianist,2002-09-17,"['Drama', 'War']",35000000,120098945,8.371,10474,tt0253474
+424,Schindler's List,1993-12-15,"['Drama', 'History', 'War']",22000000,321365567,8.569,17951,tt0108052
+425,Ice Age,2002-03-14,"['Animation', 'Comedy', 'Family', 'Adventure']",59000000,383257136,7.4,14660,tt0268380
+426,Vertigo,1958-05-28,"['Mystery', 'Romance', 'Thriller']",2479000,7808900,8.13,6517,tt0052357
+427,Mon Oncle,1958-05-10,['Comedy'],0,0,7.428,635,tt0050706
+428,Summer '04,2006-10-11,"['Drama', 'Romance']",0,630464,5.673,26,tt0806679
+429,"The Good, the Bad and the Ugly",1966-12-23,['Western'],1200000,38900000,8.468,9971,tt0060196
+430,"One, Two, Three",1961-12-15,['Comedy'],3000000,4000000,7.499,439,tt0055256
+431,Cube,1998-07-11,"['Thriller', 'Science Fiction', 'Mystery']",257899,8969065,6.827,5392,tt0123755
+433,Mary Poppins,1964-12-17,"['Comedy', 'Family', 'Fantasy']",4650000,103100000,7.55,5117,tt0058331
+434,Tough Enough,2006-03-09,"['Drama', 'Thriller']",0,0,6.8,60,tt0475317
+435,The Day After Tomorrow,2004-05-26,"['Science Fiction', 'Thriller', 'Adventure']",125000000,552639571,6.567,9152,tt0319262
+436,Maria Full of Grace,2004-04-02,"['Drama', 'Thriller', 'Crime']",3000000,12450821,7.199,444,tt0390221
+437,Cube 2: Hypercube,2002-04-15,"['Thriller', 'Science Fiction', 'Mystery']",0,3563603,5.5,1683,tt0285492
+438,Cube Zero,2004-10-10,"['Mystery', 'Science Fiction', 'Thriller']",825000,0,5.7,1199,tt0377713
+439,La Dolce Vita,1960-02-05,"['Comedy', 'Drama']",0,19647000,8.023,2082,tt0053779
+440,Aliens vs Predator: Requiem,2007-12-25,"['Action', 'Science Fiction', 'Thriller', 'Horror']",40000000,130290885,5.156,3445,tt0758730
+441,Human Nature,2001-09-12,"['Drama', 'Comedy']",6000000,1600000,5.982,305,tt0219822
+442,Popular Music,2004-10-01,"['Comedy', 'Drama']",2224000,28000000,6.254,67,tt0314524
+445,Caché,2005-10-05,"['Mystery', 'Drama', 'Thriller']",8500000,16197824,7.012,1310,tt0387898
+446,Distant Lights,2003-02-11,['Drama'],0,0,7.4,32,tt0351238
+451,Leaving Las Vegas,1995-10-27,"['Drama', 'Romance']",3600000,49800000,7.249,1717,tt0113627
+452,The Idiots,1998-05-20,"['Comedy', 'Drama']",2500000,7200,6.467,672,tt0154421
+453,A Beautiful Mind,2001-12-14,"['Drama', 'Romance']",58000000,316791257,7.852,11420,tt0268978
+454,Romeo + Juliet,1996-11-01,"['Drama', 'Romance']",14500000,147298761,6.776,5464,tt0117509
+455,Bend It Like Beckham,2002-04-11,"['Comedy', 'Drama', 'Romance']",3500000,76585951,6.3,2079,tt0286499
+457,Sissi,1955-12-22,"['Comedy', 'Drama', 'Romance']",6000000,0,7.269,534,tt0048624
+458,Sissi: The Young Empress,1956-12-01,"['Drama', 'Comedy', 'Romance']",0,0,7.045,378,tt0049762
+459,Sissi: The Fateful Years of an Empress,1957-12-18,"['Romance', 'Drama', 'History']",0,0,7.119,361,tt0050974
+460,Go for Zucker,2004-12-31,['Comedy'],0,0,6.221,61,tt0416331
+462,Erin Brockovich,2000-03-17,['Drama'],52000000,256271286,7.427,3769,tt0195685
+464,As It Is in Heaven,2004-09-03,"['Romance', 'Drama', 'Comedy', 'Music']",0,0,7.132,197,tt0382330
+465,36 Fillette,1988-03-23,"['Drama', 'Romance']",0,0,5.023,43,tt0094596
+466,Klute,1971-06-23,"['Thriller', 'Crime', 'Drama']",2500000,12512637,6.77,539,tt0067309
+467,The Hole,2001-04-20,"['Crime', 'Drama', 'Horror', 'Thriller']",4158370,7819851,6.195,925,tt0242527
+468,My Own Private Idaho,1991-02-01,['Drama'],2500000,6400000,7.036,1279,tt0102494
+469,Stranger Than Paradise,1984-10-01,"['Comedy', 'Drama']",100000,2436000,7.152,629,tt0088184
+470,21 Grams,2003-11-18,"['Drama', 'Crime', 'Thriller']",20000000,60427839,7.316,3499,tt0315733
+471,Brute,1997-11-07,"['Drama', 'Crime']",0,0,5.7,29,tt0129774
+473,Pi,1998-07-10,"['Mystery', 'Drama', 'Thriller']",60000,3221152,7.119,2597,tt0138704
+475,Bonnie and Clyde,1967-08-13,"['Crime', 'Drama']",2500000,70000000,7.489,1856,tt0061418
+476,Drugstore Cowboy,1989-10-20,"['Drama', 'Crime']",2500000,4700000,7.077,640,tt0097240
+479,Shaft,2000-06-15,"['Action', 'Adventure', 'Crime', 'Thriller']",46000000,107626125,6.026,1509,tt0162650
+480,Monsoon Wedding,2001-08-30,"['Comedy', 'Drama', 'Romance']",1200000,30787356,6.808,226,tt0265343
+481,7 Virgins,2005-10-14,"['Drama', 'Crime']",0,0,6.096,109,tt0461894
+482,Shaft,1971-06-25,"['Crime', 'Thriller', 'Drama', 'Action']",1125000,12121618,6.433,439,tt0067741
+483,Wild at Heart,1990-08-17,"['Crime', 'Thriller', 'Romance']",9500000,14569027,7.021,1987,tt0100935
+488,The African Queen,1952-01-07,"['Adventure', 'Romance', 'War', 'Drama']",1000000,10750000,7.335,1096,tt0043265
+489,Good Will Hunting,1997-12-05,['Drama'],10000000,225933435,8.166,14345,tt0119217
+490,The Seventh Seal,1957-02-16,"['Fantasy', 'Drama']",150000,311212,8.135,3465,tt0050976
+491,Ghetto-Kids,2002-07-04,"['Drama', 'TV Movie']",0,0,8.3,7,tt0301343
+492,Being John Malkovich,1999-10-29,"['Comedy', 'Drama', 'Fantasy']",13000000,22863596,7.422,4970,tt0120601
+493,Shaft's Big Score!,1972-06-21,"['Crime', 'Thriller', 'Drama', 'Action']",1978000,10000000,6.076,86,tt0069257
+494,Shaft in Africa,1973-06-20,"['Adventure', 'Crime', 'Thriller', 'Action']",2142000,1458000,6.11,86,tt0070679
+496,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006-11-01,['Comedy'],18000000,262552893,6.8,6189,tt0443453
+497,The Green Mile,1999-12-10,"['Fantasy', 'Drama', 'Crime']",60000000,286801374,8.506,19860,tt0120689
+499,Cléo from 5 to 7,1962-04-11,['Drama'],0,0,7.662,806,tt0055852
+500,Reservoir Dogs,1992-09-02,"['Crime', 'Thriller']",1200000,2859750,8.11,15853,tt0105236
+501,Grizzly Man,2005-08-12,['Documentary'],0,0,7.5,992,tt0427312
+502,Fail Safe,1964-10-07,"['Thriller', 'Drama', 'War']",0,0,7.824,501,tt0058083
+503,Poseidon,2006-05-03,"['Adventure', 'Action', 'Drama', 'Thriller']",160000000,181700000,5.908,2409,tt0409182
+504,Monster,2003-12-24,"['Crime', 'Drama']",8000000,58469210,7.199,2633,tt0340855
+505,Johnny Handsome,1989-09-12,"['Crime', 'Drama', 'Thriller']",20000000,7237794,6.346,302,tt0097626
+506,Marnie,1964-07-17,"['Thriller', 'Mystery', 'Romance']",2135000,7000000,7.1,1259,tt0058329
+507,Killing Zoe,1993-10-01,"['Action', 'Crime', 'Drama', 'Thriller']",1500000,418961,6.201,383,tt0110265
+508,Love Actually,2003-09-07,"['Comedy', 'Romance', 'Drama']",40000000,250779876,7.097,7577,tt0314331
+509,Notting Hill,1999-05-21,"['Romance', 'Comedy']",42000000,363889678,7.262,6901,tt0125439
+510,One Flew Over the Cuckoo's Nest,1975-11-19,['Drama'],3000000,108981275,8.405,11792,tt0073486
+511,The Promised Land,1975-02-21,"['Drama', 'History']",0,0,7.372,90,tt0072446
+512,Scoop,2006-07-27,"['Comedy', 'Mystery']",4000000,39220946,6.597,1789,tt0457513
+513,Fire,1997-08-22,"['Drama', 'Romance']",0,501533,6.789,71,tt0116308
+521,Dial M for Murder,1954-05-29,"['Thriller', 'Crime', 'Drama']",1400000,3000000,8.0,2957,tt0046912
+522,Ed Wood,1994-09-28,"['Comedy', 'Drama', 'History']",18000000,5900000,7.478,2594,tt0109707
+523,Requiem,2006-03-02,['Drama'],0,99963,6.602,127,tt0454931
+524,Casino,1995-11-22,"['Crime', 'Drama']",50000000,116112375,7.998,6752,tt0112641
+525,The Blues Brothers,1980-06-16,"['Music', 'Comedy', 'Crime']",27000000,115229890,7.715,4688,tt0080455
+526,Ladyhawke,1985-03-27,"['Adventure', 'Comedy', 'Fantasy']",20000000,18432000,7.004,1299,tt0089457
+527,Once Were Warriors,1994-09-02,['Drama'],950000,6700000,7.375,514,tt0110729
+530,A Grand Day Out,1990-05-18,"['Family', 'Animation', 'Comedy', 'Science Fiction', 'Adventure']",17300,40118,7.49,1046,tt0104361
+531,The Wrong Trousers,1993-12-17,"['Animation', 'Comedy', 'Family']",832000,0,7.8,1206,tt0108598
+532,A Close Shave,1996-03-07,"['Family', 'Animation', 'Comedy']",0,4638,7.599,975,tt0112691
+533,Wallace & Gromit: The Curse of the Were-Rabbit,2005-09-15,"['Adventure', 'Animation', 'Comedy', 'Family']",30000000,192610372,7.1,3186,tt0312004
+534,Terminator Salvation,2009-05-20,"['Action', 'Science Fiction', 'Thriller']",200000000,371353001,6.102,7256,tt0438488
+535,Flashdance,1983-04-14,"['Drama', 'Romance']",7000000,201521203,6.493,1665,tt0085549
+536,Stuttgart Shanghai,2007-02-22,['Documentary'],0,0,5.0,1,tt0958195
+537,Not Here to Be Loved,2005-10-12,"['Romance', 'Drama']",0,0,6.7,32,tt0436445
+538,Janine F.,2005-02-01,['Documentary'],10000,0,6.0,2,tt0485662
+539,Psycho,1960-06-22,"['Horror', 'Thriller', 'Mystery']",806947,50000000,8.4,11279,tt0054215
+540,D.E.B.S.,2005-03-25,"['Action', 'Comedy', 'Romance']",3500000,97446,6.548,661,tt0367631
+541,The Man with the Golden Arm,1955-12-26,"['Drama', 'Crime']",1000000,4350000,7.125,263,tt0048347
+542,The Crime of Padre Amaro,2002-10-01,"['Drama', 'Romance']",1800000,0,6.64,314,tt0313196
+543,Blackmail,1929-07-28,"['Drama', 'Thriller', 'Crime']",0,0,6.54,290,tt0019702
+544,There's Something About Mary,1998-07-15,"['Romance', 'Comedy']",23000000,369900000,6.637,5522,tt0129387
+546,Transamerica,2005-02-14,"['Drama', 'Adventure', 'Comedy']",1000000,13350369,7.02,543,tt0407265
+547,The Horse Whisperer,1998-02-01,"['Adventure', 'Drama', 'Romance']",60000000,186883563,6.899,1218,tt0119314
+548,Rashomon,1950-08-26,"['Crime', 'Drama', 'Mystery']",250000,117668,8.032,2617,tt0042876
+549,Basquiat,1996-08-09,"['Drama', 'History']",3300000,3022292,6.612,327,tt0115632
+550,Fight Club,1999-10-15,"['Drama', 'Thriller']",63000000,100853753,8.437,32924,tt0137523
+551,The Poseidon Adventure,1972-12-01,"['Adventure', 'Drama', 'Thriller']",5000000,84563118,7.164,1061,tt0069113
+552,Bread and Tulips,2000-03-03,"['Comedy', 'Romance']",0,9735211,7.157,316,tt0237539
+553,Dogville,2003-05-21,"['Crime', 'Drama', 'Thriller']",10000000,16690617,7.7,2781,tt0276919
+554,The Cuckoo,2002-09-12,"['Drama', 'Romance', 'Comedy']",0,0,7.107,122,tt0308476
+555,Absolut,2005-04-20,['Thriller'],0,0,7.823,31,tt0442896
+557,Spider-Man,2002-05-01,"['Action', 'Science Fiction']",139000000,821708551,7.356,21481,tt0145487
+558,Spider-Man 2,2004-06-25,"['Action', 'Adventure', 'Science Fiction']",200000000,788976453,7.332,16960,tt0316654
+559,Spider-Man 3,2007-05-01,"['Action', 'Adventure', 'Science Fiction']",258000000,894983373,6.484,15810,tt0413300
+560,Secret Beyond the Door,1947-12-24,"['Mystery', 'Thriller', 'Drama', 'Romance']",1500000,0,6.5,165,tt0040766
+561,Constantine,2005-02-08,"['Fantasy', 'Action', 'Horror']",100000000,230900000,7.2,8567,tt0360486
+562,Die Hard,1988-07-15,"['Action', 'Thriller']",28000000,140767956,7.817,12672,tt0095016
+563,Starship Troopers,1997-11-07,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",105000000,121214377,7.116,5725,tt0120201
+564,The Mummy,1999-04-16,"['Adventure', 'Action', 'Fantasy']",80000000,415885488,6.996,10422,tt0120616
+565,The Ring,2002-10-18,"['Horror', 'Mystery']",48000000,249348933,6.709,6893,tt0298130
+567,Rear Window,1954-08-01,"['Thriller', 'Mystery', 'Drama']",1000000,37042336,8.335,7383,tt0047396
+568,Apollo 13,1995-06-30,"['Drama', 'History']",52000000,355237933,7.463,6131,tt0112384
+570,Fat Girl,2001-03-07,['Drama'],0,766000,6.2,262,tt0243255
+571,The Birds,1963-03-28,"['Horror', 'Thriller']",2500000,11500000,7.51,4587,tt0056869
+572,Next Door,2005-03-11,"['Mystery', 'Thriller', 'Horror']",2400000,0,6.405,243,tt0453383
+573,Frenzy,1972-05-25,"['Crime', 'Thriller', 'Horror']",2000000,12600000,7.093,1059,tt0068611
+574,The Man Who Knew Too Much,1956-05-16,"['Thriller', 'Mystery', 'Drama']",1200000,11300000,7.43,1609,tt0049470
+575,The Experiment,2001-03-08,"['Drama', 'Thriller']",0,13782896,7.424,1268,tt0250258
+576,The Wild Bunch,1969-06-19,['Western'],6244087,638641,7.59,1383,tt0065214
+577,To Die For,1995-09-22,"['Drama', 'Comedy', 'Crime']",20000000,21300000,6.589,925,tt0114681
+578,Jaws,1975-06-20,"['Horror', 'Thriller', 'Adventure']",7000000,470653000,7.686,11885,tt0073195
+579,Jaws 2,1978-06-16,"['Horror', 'Thriller']",20000000,187884000,6.042,2192,tt0077766
+580,Jaws: The Revenge,1987-07-17,"['Adventure', 'Thriller', 'Horror']",23000000,51881012,4.093,1215,tt0093300
+581,Dances with Wolves,1990-11-09,"['Adventure', 'Drama', 'Western']",22000000,424208848,7.839,4834,tt0099348
+582,The Lives of Others,2006-03-23,"['Drama', 'Thriller']",2000000,77672685,8.037,4280,tt0405094
+583,Life of Brian,1979-08-17,['Comedy'],4000000,20833252,7.764,5116,tt0079470
+584,2 Fast 2 Furious,2003-06-05,"['Action', 'Crime', 'Thriller']",76000000,236350661,6.522,8395,tt0322259
+585,"Monsters, Inc.",2001-11-01,"['Animation', 'Comedy', 'Family', 'Fantasy']",115000000,579700000,7.857,20295,tt0198781
+586,Wag the Dog,1997-12-25,"['Comedy', 'Drama']",15000000,64256513,6.936,1096,tt0120885
+587,Big Fish,2003-12-10,"['Adventure', 'Fantasy', 'Drama']",70000000,123200000,7.745,7957,tt0319061
+588,Silent Hill,2006-04-21,"['Horror', 'Mystery']",50000000,100605135,6.646,5104,tt0384537
+590,The Hours,2002-12-27,['Drama'],25000000,108846217,7.25,1912,tt0274558
+591,The Da Vinci Code,2006-05-17,"['Thriller', 'Mystery']",125000000,760006945,6.736,10336,tt0382625
+592,The Conversation,1974-04-12,"['Crime', 'Drama', 'Mystery']",1600000,4794457,7.499,2118,tt0071360
+593,Solaris,1972-03-20,"['Drama', 'Science Fiction', 'Mystery']",0,0,7.757,1907,tt0069293
+594,The Terminal,2004-06-17,"['Comedy', 'Drama']",60000000,219417255,7.4,8985,tt0362227
+595,To Kill a Mockingbird,1962-12-20,['Drama'],2000000,13129846,7.979,2963,tt0056592
+596,The Grapes of Wrath,1940-03-15,['Drama'],800000,1591000,7.803,1148,tt0032551
+597,Titanic,1997-12-18,"['Drama', 'Romance']",200000000,2264162353,7.9,27795,tt0120338
+598,City of God,2002-08-30,"['Drama', 'Crime']",3300000,30641770,8.4,8475,tt0317248
+599,Sunset Boulevard,1950-08-10,['Drama'],1752000,5000000,8.272,3036,tt0043014
+600,Full Metal Jacket,1987-06-26,"['Drama', 'War']",30000000,46357676,8.119,11774,tt0093058
+601,E.T. the Extra-Terrestrial,1982-06-11,"['Adventure', 'Science Fiction', 'Family']",10500000,797307407,7.518,12280,tt0083866
+602,Independence Day,1996-07-02,"['Action', 'Adventure', 'Science Fiction']",75000000,817400891,6.918,10758,tt0116629
+603,The Matrix,1999-03-31,"['Action', 'Science Fiction']",63000000,463517383,8.259,28811,tt0133093
+604,The Matrix Reloaded,2003-05-15,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",150000000,738599701,7.085,12345,tt0234215
+605,The Matrix Revolutions,2003-11-05,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",150000000,424988211,6.758,11158,tt0242653
+606,Out of Africa,1985-12-20,"['History', 'Romance', 'Drama']",31000000,227514205,7.147,1586,tt0089755
+607,Men in Black,1997-07-02,"['Action', 'Adventure', 'Comedy', 'Science Fiction']",90000000,589390539,7.23,15231,tt0119654
+608,Men in Black II,2002-07-03,"['Action', 'Comedy', 'Science Fiction']",140000000,445135288,6.392,10922,tt0120912
+609,Poltergeist,1982-06-04,['Horror'],10700000,121733131,7.164,3468,tt0084516
+612,Munich,2005-12-23,"['Drama', 'History', 'Thriller']",70000000,130982129,7.131,3103,tt0408306
+613,Downfall,2004-09-16,"['Drama', 'History', 'War']",16000000,92181574,7.864,4467,tt0363163
+614,Wild Strawberries,1957-08-28,['Drama'],0,0,8.07,1864,tt0050986
+615,The Passion of the Christ,2004-02-25,['Drama'],30000000,610063468,7.539,5354,tt0335345
+616,The Last Samurai,2003-12-05,"['Drama', 'Action', 'War']",140000000,456800000,7.61,7794,tt0325710
+617,Wild Things,1998-03-20,"['Mystery', 'Thriller', 'Drama']",20000000,67200000,6.389,2069,tt0120890
+618,The Birth of a Nation,1915-03-08,"['Drama', 'History', 'War']",100000,100000000,5.93,616,tt0004972
+619,The Bodyguard,1992-11-25,"['Action', 'Drama', 'Romance']",25000000,411006740,6.705,3357,tt0103855
+620,Ghostbusters,1984-06-08,"['Comedy', 'Fantasy']",30000000,296640120,7.497,10015,tt0087332
+621,Grease,1978-06-16,"['Romance', 'Comedy']",6000000,396271103,7.365,7841,tt0077631
+622,The Ninth Gate,1999-08-25,"['Mystery', 'Thriller', 'Horror']",38000000,58401898,6.499,3474,tt0142688
+623,A Fish Called Wanda,1988-07-15,"['Comedy', 'Crime']",7500000,188593712,7.216,2521,tt0095159
+624,Easy Rider,1969-06-26,"['Adventure', 'Drama']",400000,60000000,7.046,2233,tt0064276
+625,The Killing Fields,1984-11-23,"['Drama', 'History', 'War']",14400000,34700291,7.5,865,tt0087553
+626,Un Chien Andalou,1929-06-05,"['Fantasy', 'Horror', 'Thriller']",124797,0,7.396,1456,tt0020530
+627,Trainspotting,1996-02-23,"['Drama', 'Crime']",4000000,71981823,7.959,10695,tt0117951
+628,Interview with the Vampire,1994-11-11,"['Horror', 'Drama', 'Fantasy']",60000000,223664608,7.4,6625,tt0110148
+629,The Usual Suspects,1995-07-19,"['Drama', 'Crime', 'Thriller']",6000000,23300000,8.163,11779,tt0114814
+630,The Wizard of Oz,1939-08-21,"['Adventure', 'Fantasy', 'Family']",2777000,33754967,7.6,6299,tt0032138
+631,Sunrise: A Song of Two Humans,1927-11-04,"['Drama', 'Romance']",0,1636000,7.812,935,tt0018455
+632,Stalag 17,1953-05-29,"['Comedy', 'Drama', 'War']",1661530,10000000,7.7,689,tt0046359
+633,Soldier of Orange,1977-09-22,"['Drama', 'Thriller', 'War']",0,0,7.1,183,tt0076734
+634,Bridget Jones's Diary,2001-04-13,"['Comedy', 'Romance', 'Drama']",25000000,281929795,6.738,5642,tt0243155
+635,Angel Heart,1987-03-06,"['Horror', 'Mystery']",17000000,17185954,7.12,1807,tt0092563
+636,THX 1138,1971-03-11,"['Science Fiction', 'Drama']",777000,2437000,6.439,1115,tt0066434
+637,Life Is Beautiful,1997-12-20,"['Comedy', 'Drama']",20000000,230098753,8.436,14268,tt0118799
+638,Lost Highway,1997-01-15,"['Drama', 'Thriller', 'Mystery']",15000000,3897982,7.552,3061,tt0116922
+639,When Harry Met Sally...,1989-07-12,"['Comedy', 'Romance', 'Drama']",16000000,92823546,7.407,4753,tt0098635
+640,Catch Me If You Can,2002-12-16,"['Drama', 'Crime']",52000000,352114312,7.978,17614,tt0264464
+641,Requiem for a Dream,2000-10-06,"['Crime', 'Drama']",4500000,7390108,8.005,11331,tt0180093
+642,Butch Cassidy and the Sundance Kid,1969-09-23,"['Western', 'Crime', 'Drama']",6000000,102308889,7.6,2557,tt0064115
+643,Battleship Potemkin,1925-12-24,"['Drama', 'History', 'War']",0,45100,7.572,1339,tt0015648
+644,A.I. Artificial Intelligence,2001-06-29,"['Drama', 'Science Fiction', 'Adventure']",100000000,235926552,7.07,6888,tt0212720
+646,Dr. No,1962-10-07,"['Adventure', 'Action', 'Thriller']",1000000,59000000,6.989,4185,tt0055928
+647,Final Fantasy VII: Advent Children,2005-07-14,"['Animation', 'Action', 'Adventure', 'Fantasy', 'Science Fiction']",0,0,7.161,1289,tt0385700
+648,Beauty and the Beast,1946-10-29,"['Drama', 'Fantasy', 'Romance']",0,0,7.5,689,tt0038348
+649,Belle de Jour,1967-05-24,"['Drama', 'Romance']",0,0,7.3,1042,tt0061395
+650,Boyz n the Hood,1991-07-12,"['Drama', 'Crime']",6500000,57504069,7.642,2358,tt0101507
+651,M*A*S*H,1970-02-18,"['Comedy', 'Drama', 'War']",3500000,81600000,6.9,1198,tt0066026
+652,Troy,2004-05-13,"['Action', 'Adventure']",175000000,497409852,7.192,11553,tt0332452
+653,Nosferatu,1922-02-16,"['Horror', 'Fantasy']",0,27964,7.7,2536,tt0013442
+654,On the Waterfront,1954-06-22,"['Crime', 'Drama', 'Romance']",910000,9600631,7.849,1849,tt0047296
+655,"Paris, Texas",1984-07-16,['Drama'],1750000,2181987,8.1,2326,tt0087884
+657,From Russia with Love,1963-10-10,"['Action', 'Thriller', 'Adventure']",2000000,78900000,7.065,3471,tt0057076
+658,Goldfinger,1964-09-20,"['Adventure', 'Action', 'Thriller']",3000000,124900000,7.359,4097,tt0058150
+659,The Tin Drum,1979-05-02,"['Drama', 'History', 'War']",3000000,17000000,7.0,560,tt0078875
+660,Thunderball,1965-12-11,"['Adventure', 'Action', 'Thriller']",9000000,141200000,6.67,2728,tt0059800
+661,The Marriage of Maria Braun,1979-03-23,['Drama'],0,0,7.382,310,tt0079095
+662,La Jetée,1962-02-16,"['Drama', 'Romance', 'Science Fiction']",0,0,7.854,1048,tt0056119
+663,Saw IV,2007-10-25,"['Horror', 'Thriller', 'Crime']",10000000,139352653,6.171,4236,tt0890870
+664,Twister,1996-05-10,"['Action', 'Adventure', 'Drama']",92000000,494471524,6.576,4006,tt0117998
+665,Ben-Hur,1959-11-18,"['History', 'Drama', 'Adventure']",15000000,164000000,7.893,3274,tt0052618
+666,Central Station,1998-04-03,['Drama'],2900000,5596708,8.122,1078,tt0140888
+667,You Only Live Twice,1967-06-13,"['Action', 'Thriller', 'Adventure']",9500000,111600000,6.59,2570,tt0062512
+668,On Her Majesty's Secret Service,1969-12-18,"['Adventure', 'Action', 'Thriller']",7000000,82000000,6.562,2227,tt0064757
+669,Nanook of the North,1922-06-11,"['Documentary', 'Drama']",53000,0,7.078,335,tt0013427
+670,Oldboy,2003-11-21,"['Thriller', 'Mystery']",3000000,17500000,8.235,10241,tt0364569
+671,Harry Potter and the Philosopher's Stone,2001-11-16,"['Adventure', 'Fantasy']",125000000,1029374615,7.903,30288,tt0241527
+672,Harry Potter and the Chamber of Secrets,2002-11-13,"['Adventure', 'Fantasy']",100000000,876688482,7.708,24119,tt0295297
+673,Harry Potter and the Prisoner of Azkaban,2004-05-31,"['Adventure', 'Fantasy']",130000000,789804554,8.012,23683,tt0304141
+674,Harry Potter and the Goblet of Fire,2005-11-16,"['Adventure', 'Fantasy']",150000000,895921036,7.802,22673,tt0330373
+675,Harry Potter and the Order of the Phoenix,2007-07-08,"['Adventure', 'Fantasy']",150000000,938212738,7.673,21257,tt0373889
+676,Pearl Harbor,2001-05-21,"['Drama', 'War']",140000000,449220945,6.9,7197,tt0213149
+677,Olympia Part One: Festival of the Nations,1938-04-21,['Documentary'],550000,0,6.921,127,tt0030522
+678,Out of the Past,1947-11-25,"['Crime', 'Thriller']",0,0,7.7,666,tt0039689
+679,Aliens,1986-07-18,"['Action', 'Thriller', 'Science Fiction']",18500000,183316455,7.966,11212,tt0090605
+680,Pulp Fiction,1994-09-10,"['Thriller', 'Crime', 'Comedy']",8000000,213928762,8.48,30952,tt0110912
+681,Diamonds Are Forever,1971-12-14,"['Action', 'Thriller']",7200000,116019547,6.4,2448,tt0066995
+682,The Man with the Golden Gun,1974-12-04,"['Adventure', 'Action', 'Thriller']",7000000,97600000,6.465,2363,tt0071807
+685,Olympia Part Two: Festival of Beauty,1938-06-02,['Documentary'],550000,0,6.735,83,tt0030523
+686,Contact,1997-07-11,"['Drama', 'Science Fiction', 'Mystery']",90000000,171120329,7.449,5205,tt0118884
+687,Dead Man Walking,1995-12-29,['Drama'],11000000,39363635,7.31,1541,tt0112818
+688,The Bridges of Madison County,1995-06-02,"['Drama', 'Romance']",24000000,182000000,7.715,2441,tt0112579
+689,The Travelling Players,1975-07-01,"['Drama', 'War', 'History']",0,0,7.2,104,tt0073800
+690,Pickpocket,1959-12-16,"['Crime', 'Drama']",0,0,7.272,591,tt0053168
+691,The Spy Who Loved Me,1977-07-07,"['Adventure', 'Action', 'Thriller']",13500000,185438673,6.821,2322,tt0076752
+692,Pink Flamingos,1972-03-17,"['Comedy', 'Crime']",12000,6000000,6.124,590,tt0069089
+693,Meet the Fockers,2004-12-22,"['Comedy', 'Romance']",80000000,516642939,6.252,5311,tt0290002
+694,The Shining,1980-05-23,"['Horror', 'Thriller']",19000000,50312025,8.2,19427,tt0081505
+695,Short Cuts,1993-10-01,"['Drama', 'Comedy']",12000000,6110979,7.223,712,tt0108122
+696,Manhattan,1979-04-25,"['Comedy', 'Drama', 'Romance']",9000000,40194067,7.701,2679,tt0079522
+697,October (Ten Days that Shook the World),1928-05-11,"['Drama', 'History']",0,0,6.905,231,tt0018217
+698,Moonraker,1979-06-26,"['Action', 'Adventure', 'Thriller', 'Science Fiction']",34000000,210308099,6.2,2297,tt0079574
+699,For Your Eyes Only,1981-06-24,"['Adventure', 'Action', 'Thriller']",28000000,195300000,6.551,2161,tt0082398
+700,Octopussy,1983-06-05,"['Adventure', 'Action', 'Thriller']",27500000,187500000,6.361,2300,tt0086034
+701,Our Hospitality,1923-11-19,"['Comedy', 'Romance', 'Thriller']",0,0,7.495,329,tt0014341
+702,A Streetcar Named Desire,1951-09-18,"['Drama', 'Thriller']",1800000,8000000,7.618,1527,tt0044081
+703,Annie Hall,1977-04-19,"['Comedy', 'Drama', 'Romance']",4000000,43989445,7.712,4353,tt0075686
+704,A Hard Day's Night,1964-07-07,"['Comedy', 'Music']",560000,11000000,7.302,766,tt0058182
+705,All About Eve,1950-11-09,['Drama'],1400000,8402553,8.073,1764,tt0042192
+706,Effi Briest,1974-06-20,"['History', 'Drama']",0,0,6.625,52,tt0071458
+707,A View to a Kill,1985-05-24,"['Adventure', 'Action', 'Thriller']",30000000,152427960,6.256,2281,tt0090264
+708,The Living Daylights,1987-06-29,"['Action', 'Adventure', 'Thriller']",40000000,191185897,6.553,2104,tt0093428
+709,Licence to Kill,1989-06-13,"['Adventure', 'Action', 'Thriller']",32000000,156167015,6.4,2252,tt0097742
+710,GoldenEye,1995-11-16,"['Adventure', 'Action', 'Thriller']",60000000,352194034,6.904,4491,tt0113189
+711,Finding Forrester,2000-12-21,"['Drama', 'History']",43000000,80100000,7.125,1264,tt0181536
+712,Four Weddings and a Funeral,1994-03-09,"['Comedy', 'Drama', 'Romance']",4400000,245700832,6.772,3086,tt0109831
+713,The Piano,1993-05-18,"['Drama', 'Romance']",7000000,40247071,7.359,1694,tt0107822
+714,Tomorrow Never Dies,1997-12-11,"['Adventure', 'Action', 'Thriller']",110000000,333011068,6.391,3561,tt0120347
+742,Together,2000-08-25,"['Drama', 'Comedy', 'Romance']",0,0,7.025,278,tt0203166
+743,Train Birds,1998-07-09,"['Comedy', 'Romance', 'Crime']",0,0,5.98,25,tt0129659
+744,Top Gun,1986-05-16,"['Action', 'Drama', 'Romance']",15000000,356830601,7.072,9936,tt0092099
+745,The Sixth Sense,1999-08-06,"['Mystery', 'Thriller', 'Drama']",40000000,672800000,7.955,13351,tt0167404
+746,The Last Emperor,1987-10-04,"['Drama', 'History']",23800000,44000000,7.591,1994,tt0093389
+747,Shaun of the Dead,2004-04-09,"['Horror', 'Comedy']",6000000,39396175,7.546,9650,tt0365748
+750,Murder She Said,1961-09-26,"['Comedy', 'Crime', 'Drama', 'Mystery']",0,0,7.337,245,tt0055205
+751,Murder at the Gallop,1963-05-09,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller']",0,0,7.103,189,tt0057334
+752,V for Vendetta,2006-02-23,"['Action', 'Thriller', 'Science Fiction']",54000000,134686457,7.898,15978,tt0434409
+753,Faces,1968-11-24,['Drama'],275000,0,7.107,225,tt0062952
+754,Face/Off,1997-06-27,"['Action', 'Crime', 'Science Fiction']",80000000,245700000,7.061,6137,tt0119094
+755,From Dusk Till Dawn,1996-01-19,"['Horror', 'Action', 'Crime']",19000000,25800000,7.1,6717,tt0116367
+756,Fantasia,1940-11-13,"['Animation', 'Family', 'Fantasy']",2280000,76411819,7.348,3406,tt0032455
+757,Murder Most Foul,1964-03-01,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller']",0,0,7.099,176,tt0058383
+758,Murder Ahoy,1964-09-22,"['Drama', 'Thriller', 'Crime', 'Mystery', 'Comedy']",0,0,7.084,161,tt0058382
+759,Gentlemen Prefer Blondes,1953-07-15,"['Comedy', 'Romance']",2300000,5300000,7.32,1111,tt0045810
+760,The Mad Adventures of Rabbi Jacob,1973-10-17,['Comedy'],4500000,57000000,7.368,1088,tt0069747
+761,The Wing or the Thigh?,1976-10-27,['Comedy'],5133623,0,7.2,991,tt0074103
+762,Monty Python and the Holy Grail,1975-04-03,"['Adventure', 'Comedy', 'Fantasy']",400000,5763644,7.803,6633,tt0071853
+763,Braindead,1992-08-13,"['Horror', 'Comedy']",3000000,242623,7.4,1923,tt0103873
+764,The Evil Dead,1983-01-16,['Horror'],350000,29400000,7.3,4738,tt0083907
+765,Evil Dead II,1987-03-13,"['Horror', 'Comedy', 'Fantasy']",3500000,5932279,7.532,3671,tt0092991
+766,Army of Darkness,1992-10-31,"['Fantasy', 'Horror', 'Comedy']",11000000,21502976,7.257,3690,tt0106308
+767,Harry Potter and the Half-Blood Prince,2009-07-15,"['Adventure', 'Fantasy']",250000000,933959197,7.7,21222,tt0417741
+768,From Hell,2001-02-08,"['Horror', 'Mystery', 'Thriller']",35000000,74558115,6.7,3096,tt0120681
+769,GoodFellas,1990-09-12,"['Drama', 'Crime']",25000000,47072327,8.45,14792,tt0099685
+770,Gone with the Wind,1939-12-15,"['Drama', 'War', 'Romance']",4000000,402352579,7.903,4491,tt0031381
+771,Home Alone,1990-11-16,"['Comedy', 'Family']",18000000,476684675,7.466,12878,tt0099785
+772,Home Alone 2: Lost in New York,1992-11-15,"['Comedy', 'Family', 'Adventure']",18000000,358994850,6.793,10920,tt0104431
+773,Little Miss Sunshine,2006-07-26,"['Comedy', 'Drama']",8000000,100523351,7.691,8091,tt0449059
+774,Workers Leaving the Lumière Factory,1895-03-22,"['History', 'Documentary']",0,0,6.659,380,tt0000010
+775,A Trip to the Moon,1902-06-15,"['Adventure', 'Science Fiction', 'Comedy']",5985,0,7.876,2077,tt0000417
+776,The Rules of the Game,1939-07-09,"['Drama', 'Comedy', 'Romance']",8850000,273520,7.482,684,tt0031885
+777,Grand Illusion,1937-06-18,"['Drama', 'History', 'War']",0,172885,7.86,805,tt0028950
+778,Monsieur Hulot's Holiday,1953-02-25,['Comedy'],0,0,6.947,561,tt0046487
+779,Vampyr,1932-05-06,"['Horror', 'Fantasy', 'Mystery']",0,19,7.251,615,tt0023649
+780,The Passion of Joan of Arc,1928-04-21,"['Drama', 'History']",0,18121,7.962,1134,tt0019254
+781,Winter Sleepers,1997-10-30,"['Drama', 'Romance']",0,323041,6.9,60,tt0120522
+782,Gattaca,1997-07-09,"['Science Fiction', 'Drama']",36000000,12532777,7.567,7161,tt0119177
+783,Gandhi,1982-12-01,"['Drama', 'History']",22000000,77737889,7.6,2578,tt0083987
+784,Kolya,1996-05-15,"['Drama', 'Comedy']",1031764,7566841,7.396,222,tt0116790
+785,Kuhle Wampe or Who Owns the World?,1932-05-14,['Drama'],0,0,6.889,27,tt0023104
+786,Almost Famous,2000-09-15,"['Drama', 'Music']",60000000,47386287,7.503,3240,tt0181875
+787,Mr. & Mrs. Smith,2005-06-07,"['Action', 'Comedy', 'Drama', 'Thriller']",110000000,487287646,6.695,11529,tt0356910
+788,Mrs. Doubtfire,1993-11-24,"['Comedy', 'Drama', 'Family']",25000000,441286195,7.196,6810,tt0107614
+789,Closely Watched Trains,1966-11-18,"['Comedy', 'Drama', 'War']",0,0,7.2,278,tt0060802
+790,The Fog,1980-02-01,['Horror'],1000000,21448830,6.741,1815,tt0080749
+791,The Fog,2005-10-14,"['Horror', 'Mystery']",18000000,46201432,4.649,871,tt0432291
+792,Platoon,1986-12-19,"['Drama', 'War', 'Action']",6000000,138530565,7.747,5297,tt0091763
+793,Blue Velvet,1986-09-19,"['Mystery', 'Thriller', 'Crime']",6000000,8636706,7.607,3964,tt0090756
+794,The Omen,1976-06-25,"['Horror', 'Thriller']",2800000,60922980,7.404,2515,tt0075005
+795,City of Angels,1998-04-10,"['Drama', 'Fantasy', 'Romance']",55000000,198685114,6.831,2457,tt0120632
+796,Cruel Intentions,1999-03-05,"['Drama', 'Romance']",10500000,76347426,6.8,3695,tt0139134
+797,Persona,1966-10-18,['Drama'],0,250000,8.122,2492,tt0060827
+798,Annaluise & Anton,1953-08-26,"['Family', 'Drama', 'Comedy']",0,0,7.938,8,tt0046218
+799,Annaluise & Anton,1999-03-11,"['Family', 'Comedy', 'Drama']",0,0,7.2,32,tt0161935
+800,The Young and the Damned,1950-12-09,"['Drama', 'Crime']",0,0,8.054,561,tt0042804
+801,"Good Morning, Vietnam",1987-12-23,"['Comedy', 'Drama', 'War']",13000000,123922370,7.301,3108,tt0093105
+802,Lolita,1962-06-13,['Drama'],2000000,9250000,7.296,2305,tt0056193
+803,Night and Fog,1956-05-22,"['Documentary', 'History']",0,0,8.28,589,tt0048434
+804,Roman Holiday,1953-08-26,"['Romance', 'Comedy', 'Drama']",1500000,12000000,7.9,2337,tt0046250
+805,Rosemary's Baby,1968-06-12,"['Drama', 'Horror', 'Thriller']",3200000,33395426,7.816,4511,tt0063522
+806,The Omen,2006-06-06,"['Horror', 'Mystery', 'Thriller']",25000000,119975084,5.644,1243,tt0466909
+807,Se7en,1995-09-22,"['Crime', 'Mystery', 'Thriller']",33000000,327311859,8.382,23850,tt0114369
+808,Shrek,2001-05-18,"['Animation', 'Comedy', 'Fantasy', 'Adventure', 'Family']",60000000,489676241,7.779,19355,tt0126029
+809,Shrek 2,2004-05-19,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Romance']",150000000,932542741,7.331,13802,tt0298148
+810,Shrek the Third,2007-05-17,"['Fantasy', 'Adventure', 'Animation', 'Comedy', 'Family']",160000000,808310187,6.315,10015,tt0413267
+811,Silent Running,1972-03-09,"['Adventure', 'Science Fiction', 'Drama']",1000000,0,6.382,667,tt0067756
+812,Aladdin,1992-11-25,"['Animation', 'Family', 'Adventure', 'Fantasy', 'Romance']",28000000,504050219,7.657,12277,tt0103639
+813,Airplane!,1980-06-27,['Comedy'],3500000,83453539,7.304,5275,tt0080339
+814,An American Werewolf in London,1981-08-21,"['Comedy', 'Horror', 'Fantasy']",10000000,31973249,7.389,2806,tt0082010
+815,Animal Farm,1999-10-03,"['Drama', 'Comedy']",23000000,0,5.722,167,tt0204824
+816,Austin Powers: International Man of Mystery,1997-05-02,"['Comedy', 'Crime']",16500000,67711748,6.602,3939,tt0118655
+817,Austin Powers: The Spy Who Shagged Me,1999-06-08,"['Comedy', 'Adventure', 'Crime']",33000000,312016928,6.323,3810,tt0145660
+818,Austin Powers in Goldmember,2002-07-26,"['Comedy', 'Crime']",63000000,296938801,6.021,3551,tt0295178
+819,Sleepers,1996-10-18,"['Crime', 'Drama', 'Thriller']",44000000,165600000,7.6,4045,tt0117665
+820,JFK,1991-12-20,"['Drama', 'Thriller', 'History']",40000000,205405498,7.594,2504,tt0102138
+821,Judgment at Nuremberg,1961-12-18,"['Drama', 'History']",3000000,10000000,7.993,992,tt0055031
+822,The Music Room,1958-10-10,"['Drama', 'Music']",0,0,7.503,167,tt0051792
+823,Jin-Roh: The Wolf Brigade,1999-11-17,"['Animation', 'Thriller', 'Science Fiction']",0,94072,7.403,594,tt0193253
+824,Moulin Rouge!,2001-05-18,"['Drama', 'Romance', 'Music']",52500000,179213434,7.518,4953,tt0203009
+825,Playing by Heart,1998-12-30,"['Comedy', 'Drama', 'Romance']",20000000,3970078,6.646,257,tt0145734
+826,The Bridge on the River Kwai,1957-10-11,"['Drama', 'History', 'War']",2800000,44908000,7.819,2456,tt0050212
+827,Diabolique,1955-01-29,"['Thriller', 'Mystery']",0,0,7.878,1138,tt0046911
+828,The Day the Earth Stood Still,1951-09-18,"['Science Fiction', 'Thriller', 'Drama']",995000,1850000,7.451,1293,tt0043456
+829,Chinatown,1974-06-20,"['Crime', 'Mystery', 'Thriller']",6000000,30000000,7.906,4411,tt0071315
+830,Forbidden Planet,1956-03-23,"['Science Fiction', 'Adventure']",1900000,3250000,7.3,1102,tt0049223
+831,This Island Earth,1955-06-10,"['Science Fiction', 'Adventure', 'Horror']",800000,1700000,6.0,240,tt0047577
+832,M,1931-05-11,"['Drama', 'Thriller', 'Crime']",0,35274,8.1,2548,tt0022100
+833,Umberto D.,1952-01-20,['Drama'],0,71461,7.879,766,tt0045274
+834,Underworld: Evolution,2006-01-12,"['Fantasy', 'Action', 'Thriller']",50000000,111476513,6.607,4509,tt0401855
+835,F.P.1 Doesn't Answer,1932-12-22,['Science Fiction'],0,0,6.5,8,tt0022869
+836,Barren Lives,1963-08-22,"['Drama', 'Western']",0,0,7.41,100,tt0057654
+837,Videodrome,1983-02-04,"['Horror', 'Science Fiction', 'Mystery']",5952000,2120439,7.248,2574,tt0086541
+838,American Graffiti,1973-08-11,"['Comedy', 'Drama']",777000,140000000,7.053,1645,tt0069704
+839,Duel,1971-12-25,"['Action', 'Thriller', 'TV Movie']",450000,2544,7.42,2144,tt0067023
+840,Close Encounters of the Third Kind,1977-12-14,"['Science Fiction', 'Drama']",20000000,306889114,7.357,4858,tt0075860
+841,Dune,1984-12-14,"['Action', 'Science Fiction', 'Adventure']",40000000,31502434,6.196,3555,tt0087182
+842,The Assassination of Richard Nixon,2004-05-17,"['Drama', 'History', 'Thriller', 'Crime']",0,4426087,6.519,314,tt0364961
+843,In the Mood for Love,2000-09-29,"['Drama', 'Romance']",3000000,15867968,8.1,3387,tt0118694
+844,2046,2004-09-29,"['Drama', 'Science Fiction', 'Romance']",12000000,20205757,7.245,1123,tt0212712
+845,Strangers on a Train,1951-06-27,"['Crime', 'Thriller', 'Drama']",1200000,7000000,7.654,1941,tt0044079
+846,The X-Files,1998-06-19,"['Mystery', 'Science Fiction', 'Thriller']",66000000,189198313,6.924,1909,tt0120902
+847,Willow,1988-05-20,"['Fantasy', 'Adventure', 'Action']",35000000,57300000,7.013,2266,tt0096446
+848,Dragonslayer,1981-06-26,"['Fantasy', 'Adventure']",18000000,14110013,6.567,336,tt0082288
+849,Krull,1983-07-29,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",27000000,16916617,6.061,648,tt0085811
+850,A Christmas Story,1983-11-18,"['Comedy', 'Family']",3300000,20700000,7.236,1472,tt0085334
+851,Brief Encounter,1945-11-24,"['Drama', 'Romance']",1200000,0,7.705,734,tt0037558
+852,It Happened in Broad Daylight,1958-06-09,"['Crime', 'Thriller']",0,0,7.376,157,tt0051588
+853,Enemy at the Gates,2001-02-28,"['War', 'History']",68000000,96976270,7.427,4195,tt0215750
+854,The Mask,1994-07-29,"['Comedy', 'Fantasy', 'Crime', 'Romance']",23000000,351583407,6.996,11616,tt0110475
+855,Black Hawk Down,2001-12-28,"['Action', 'War', 'History']",92000000,172989651,7.4,6613,tt0265086
+856,Who Framed Roger Rabbit,1988-06-22,"['Fantasy', 'Animation', 'Comedy', 'Crime']",50600000,351500000,7.5,6360,tt0096438
+857,Saving Private Ryan,1998-07-24,"['War', 'Drama', 'History']",70000000,481840909,8.233,17823,tt0120815
+858,Sleepless in Seattle,1993-06-24,"['Comedy', 'Drama', 'Romance']",21000000,227799884,6.745,2698,tt0108160
+859,Dangerous Liaisons,1988-12-21,"['Drama', 'Romance']",14000000,34670720,7.207,1312,tt0094947
+860,WarGames,1983-06-03,"['Drama', 'Science Fiction', 'Thriller']",12000000,124600000,7.069,2261,tt0086567
+861,Total Recall,1990-06-01,"['Action', 'Adventure', 'Science Fiction']",65000000,261317921,7.328,6705,tt0100802
+862,Toy Story,1995-11-22,"['Family', 'Comedy', 'Animation', 'Adventure']",30000000,962301978,7.989,20571,tt0114709
+863,Toy Story 2,1999-10-30,"['Animation', 'Comedy', 'Family']",90000000,497375404,7.623,15398,tt0120363
+864,Cool Runnings,1993-10-01,"['Comedy', 'Adventure', 'Drama']",14000000,154856263,7.029,2364,tt0106611
+865,The Running Man,1987-11-13,"['Action', 'Thriller', 'Science Fiction']",27000000,38122105,6.543,2982,tt0093894
+866,Finding Neverland,2004-10-29,"['Drama', 'Fantasy']",25000000,116766556,7.315,3814,tt0308644
+867,Sliver,1993-05-21,"['Drama', 'Thriller']",40000000,116300000,5.57,840,tt0108162
+868,Tsotsi,2005-12-23,"['Crime', 'Drama']",3000000,9891303,6.937,364,tt0468565
+869,Planet of the Apes,2001-07-26,"['Thriller', 'Science Fiction', 'Action', 'Adventure']",100000000,362211740,5.777,4559,tt0133152
+870,Dolls,2002-10-12,"['Drama', 'Romance']",0,0,7.52,380,tt0330229
+871,Planet of the Apes,1968-02-07,"['Science Fiction', 'Adventure', 'Drama', 'Action']",5800000,32589624,7.7,4125,tt0063442
+872,Singin' in the Rain,1952-04-10,"['Comedy', 'Romance']",2540800,7200000,8.126,3627,tt0045152
+873,The Color Purple,1985-12-18,"['Drama', 'History']",15000000,146300000,7.724,2038,tt0088939
+874,A Man for All Seasons,1966-12-13,"['Drama', 'History']",3900000,28350000,7.3,516,tt0060665
+875,Shanghai Express,1932-02-12,"['Drama', 'Romance', 'War']",0,0,6.978,245,tt0023458
+877,Scarface,1932-04-09,"['Crime', 'Action', 'Drama', 'Thriller']",800000,600000,7.403,717,tt0023427
+878,The Punch Bowl,1944-01-28,"['Comedy', 'Family']",0,0,7.199,156,tt0036818
+879,Hook,1991-04-10,"['Adventure', 'Fantasy', 'Comedy', 'Family']",70000000,300854823,6.844,5884,tt0102057
+880,Antonia's Line,1995-09-21,"['Drama', 'Comedy']",900000,0,6.914,152,tt0112379
+881,A Few Good Men,1992-12-11,['Drama'],40000000,243240178,7.56,4338,tt0104257
+882,Hen in a Boat,1984-11-16,['Adventure'],0,0,6.75,4,tt0087273
+883,Coffee and Cigarettes,2004-03-12,"['Comedy', 'Drama']",0,7897645,6.911,1092,tt0379217
+884,Crash,1996-07-17,"['Thriller', 'Drama']",9000000,2671855,6.488,1437,tt0115964
+885,The Docks of New York,1928-09-16,"['Drama', 'Romance']",0,0,6.955,122,tt0018839
+886,The Cincinnati Kid,1965-10-15,['Drama'],0,15260000,6.981,317,tt0059037
+887,The Best Years of Our Lives,1946-11-22,"['Drama', 'Romance', 'War']",2100000,23650000,7.736,768,tt0036868
+888,The Flintstones,1994-05-27,"['Fantasy', 'Comedy', 'Family']",46000000,341631208,5.38,2689,tt0109813
+889,The Flintstones in Viva Rock Vegas,2000-04-28,"['Comedy', 'Family', 'Romance']",83000000,59468275,4.839,846,tt0158622
+890,Brother of Sleep,1995-09-08,['Drama'],0,97848,6.708,36,tt0114354
+891,All the President's Men,1976-04-09,"['Drama', 'Mystery', 'Thriller']",8500000,70600000,7.659,2162,tt0074119
+892,Delicatessen,1991-04-17,"['Comedy', 'Science Fiction', 'Fantasy']",4000000,1794187,7.3,1696,tt0101700
+893,Policewoman,2000-05-10,['Drama'],0,0,6.769,13,tt0246859
+894,Willenbrock,2005-03-17,"['Drama', 'Crime']",0,0,6.333,15,tt0396273
+895,Andrei Rublev,1966-12-16,"['Drama', 'History']",1300000,24173,7.943,981,tt0060107
+896,The World of Apu,1959-05-01,['Drama'],0,134241,8.118,292,tt0052572
+897,Aparajito,1956-10-11,['Drama'],0,170215,7.834,304,tt0048956
+898,Birdman of Alcatraz,1962-07-04,"['Drama', 'Crime', 'History']",2650000,3100000,7.479,354,tt0055798
+899,Broken Blossoms or The Yellow Man and the Girl,1919-05-13,"['Drama', 'Romance']",0,2400000,6.916,251,tt0009968
+900,Bringing Up Baby,1938-02-18,"['Comedy', 'Romance']",1073000,0,7.509,1124,tt0029947
+901,City Lights,1931-02-06,"['Comedy', 'Drama', 'Romance']",1500000,4250000,8.245,2551,tt0021749
+902,The City of Lost Children,1995-05-17,"['Fantasy', 'Science Fiction', 'Adventure']",18000000,1738611,7.246,1268,tt0112682
+903,Cool Hand Luke,1967-11-01,"['Drama', 'Crime']",3200000,16217773,7.734,1677,tt0061512
+904,The Pride of the Firm,1914-04-30,"['Comedy', 'Drama']",0,0,6.5,3,tt0006102
+905,Pandora's Box,1929-01-30,"['Drama', 'Crime', 'Romance']",0,885533,7.433,270,tt0018737
+906,The Three from the Filling Station,1930-09-15,"['Comedy', 'Drama']",0,0,6.136,22,tt0020842
+907,Doctor Zhivago,1965-12-22,"['Drama', 'Romance', 'War']",11000000,111858363,7.55,1318,tt0059113
+908,Schnitzel Paradise,2005-09-08,"['Romance', 'Comedy']",850000,0,5.847,36,tt0446460
+909,Meet Me in St. Louis,1944-11-28,"['Comedy', 'Drama', 'Romance', 'Family']",1707561,7566000,7.013,438,tt0037059
+910,The Big Sleep,1946-08-22,"['Mystery', 'Crime', 'Thriller']",250000,10682000,7.6,1203,tt0038355
+911,The Bank Dick,1940-11-29,['Comedy'],0,0,6.5,132,tt0032234
+912,The Thomas Crown Affair,1968-06-26,"['Crime', 'Romance', 'Drama', 'Thriller']",4300000,14000000,6.79,605,tt0063688
+913,The Thomas Crown Affair,1999-08-06,"['Drama', 'Crime', 'Romance']",48000000,124305181,6.757,1440,tt0155267
+914,The Great Dictator,1940-10-15,"['Comedy', 'War']",2000000,11000000,8.285,3815,tt0032553
+916,Bullitt,1968-10-17,"['Action', 'Crime', 'Thriller']",5500000,42300000,7.155,1339,tt0062765
+917,Mother India,1957-02-13,['Drama'],0,0,7.0,109,tt0050188
+918,Blind Date,1987-03-27,"['Comedy', 'Romance']",18000000,39321715,6.01,559,tt0092666
+919,Blood: The Last Vampire,2000-11-18,"['Animation', 'Fantasy', 'Horror', 'Action']",0,0,6.871,390,tt0275230
+920,Cars,2006-06-08,"['Animation', 'Adventure', 'Comedy', 'Family']",120000000,461983149,7.056,15566,tt0317219
+921,Cinderella Man,2005-06-02,"['Romance', 'Drama', 'History']",88000000,108539911,7.582,2494,tt0352248
+922,Dead Man,1995-12-23,"['Drama', 'Fantasy', 'Western']",9000000,1038000,7.306,1796,tt0112817
+923,Dawn of the Dead,1978-09-02,"['Horror', 'Science Fiction']",640000,55000000,7.5,2384,tt0077402
+924,Dawn of the Dead,2004-03-19,"['Horror', 'Science Fiction', 'Action']",26000000,102278712,7.089,4720,tt0363547
+925,Do the Right Thing,1989-06-14,['Drama'],6500000,37300000,7.774,2087,tt0097216
+926,Galaxy Quest,1999-12-25,"['Comedy', 'Science Fiction', 'Adventure']",45000000,90683916,7.101,2651,tt0177789
+927,Gremlins,1984-06-08,"['Fantasy', 'Horror', 'Comedy']",11000000,153083102,7.145,7167,tt0087363
+928,Gremlins 2: The New Batch,1990-06-15,"['Comedy', 'Horror', 'Fantasy']",50000000,41485808,6.528,3005,tt0099700
+929,Godzilla,1998-05-20,"['Science Fiction', 'Action', 'Thriller']",130000000,379014294,5.659,4370,tt0120685
+930,The Great Love,1942-06-12,"['Drama', 'Romance']",0,0,6.75,16,tt0034815
+931,Don't Look Now,1973-10-11,"['Thriller', 'Drama', 'Horror']",1500000,0,6.922,1225,tt0069995
+932,The Murderers Are Among Us,1946-10-15,"['Drama', 'Romance', 'Thriller']",0,0,6.8,74,tt0038769
+933,Hot Summer,1968-06-20,"['Comedy', 'Music']",0,0,5.958,12,tt0061756
+934,Rififi,1955-04-13,"['Crime', 'Thriller', 'Drama']",200000,460000,7.783,657,tt0048021
+935,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964-01-29,"['Comedy', 'War']",1800000,9500000,8.121,6337,tt0057012
+936,The Pink Panther,1963-12-18,"['Comedy', 'Crime']",0,10878107,6.851,1230,tt0057413
+938,For a Few Dollars More,1965-12-18,['Western'],600000,15000000,8.028,4618,tt0059578
+939,The Jazz Singer,1927-10-06,"['Drama', 'Music']",422000,2600000,6.104,259,tt0018037
+940,The Lady Vanishes,1938-10-07,"['Mystery', 'Thriller']",0,0,7.429,1062,tt0030341
+941,Lethal Weapon,1987-03-06,"['Action', 'Thriller', 'Crime']",15000000,120207127,7.304,5225,tt0093409
+942,Lethal Weapon 2,1989-07-07,"['Action', 'Thriller', 'Crime']",25000000,227853986,7.048,3885,tt0097733
+943,Lethal Weapon 3,1992-05-15,"['Action', 'Thriller', 'Crime']",35000000,321731527,6.728,3375,tt0104714
+944,Lethal Weapon 4,1998-07-10,"['Action', 'Crime', 'Thriller']",140000000,285444603,6.61,3079,tt0122151
+946,Letter from an Unknown Woman,1948-04-28,"['Drama', 'Romance']",0,0,7.774,350,tt0040536
+947,Lawrence of Arabia,1962-12-11,"['Adventure', 'History', 'War']",15000000,70000000,7.998,3594,tt0056172
+948,Halloween,1978-10-24,"['Horror', 'Thriller']",325000,70260597,7.557,6378,tt0077651
+949,Heat,1995-12-15,"['Crime', 'Drama', 'Action']",60000000,187400000,7.945,8719,tt0113277
+950,Ice Age: The Meltdown,2006-03-29,"['Animation', 'Family', 'Comedy', 'Adventure']",80000000,660998756,6.7,10563,tt0438097
+951,Kindergarten Cop,1990-12-21,['Comedy'],15000000,201957688,6.141,2910,tt0099938
+953,Madagascar,2005-05-25,"['Adventure', 'Animation', 'Comedy', 'Family']",75000000,542064525,6.932,12036,tt0351283
+954,Mission: Impossible,1996-05-22,"['Adventure', 'Action', 'Thriller']",80000000,457696391,7.03,10293,tt0117060
+955,Mission: Impossible II,2000-05-24,"['Adventure', 'Action', 'Thriller']",125000000,546388108,6.139,7836,tt0120755
+956,Mission: Impossible III,2006-04-25,"['Adventure', 'Action', 'Thriller']",150000000,398479497,6.766,7867,tt0317919
+957,Spaceballs,1987-06-24,"['Comedy', 'Science Fiction']",22700000,38120460,6.891,3562,tt0094012
+961,The General,1926-12-25,"['Comedy', 'War', 'Romance']",750000,1000000,7.914,1465,tt0017925
+962,The Gold Rush,1925-07-13,"['Adventure', 'Comedy', 'Drama']",923000,4000000,7.961,1906,tt0015864
+963,The Maltese Falcon,1941-10-18,"['Mystery', 'Crime', 'Thriller']",375000,1772000,7.703,1941,tt0033870
+964,The Phantom of the Opera,1925-06-29,['Horror'],0,2000000,7.1,418,tt0016220
+965,The Magnificent Ambersons,1942-07-10,"['Drama', 'Romance']",0,0,7.332,496,tt0035015
+966,The Magnificent Seven,1960-10-12,['Western'],2000000,19500000,7.498,2059,tt0054047
+967,Spartacus,1960-10-13,"['History', 'Drama', 'Adventure']",12000000,60000000,7.535,2461,tt0054331
+968,Dog Day Afternoon,1975-09-21,"['Crime', 'Drama', 'Thriller']",1800000,56665856,7.857,3514,tt0072890
+975,Paths of Glory,1957-10-25,"['War', 'Drama']",935000,1200000,8.251,3388,tt0050825
+976,Sweet Smell of Success,1957-07-04,['Drama'],3400000,2500000,7.61,605,tt0051036
+977,Tabu: A Story of the South Seas,1931-07-30,"['Romance', 'Drama', 'Adventure']",0,0,7.143,192,tt0022458
+978,Seven Years in Tibet,1997-09-12,"['Adventure', 'Drama', 'History']",70000000,131457682,7.164,3213,tt0120102
+979,Irreversible,2002-05-22,"['Drama', 'Thriller', 'Crime']",3500000,6500000,7.2,3441,tt0290673
+980,The Ox-Bow Incident,1943-03-11,['Western'],565000,0,7.703,439,tt0036244
+981,The Philadelphia Story,1940-12-05,"['Comedy', 'Romance']",914000,3300000,7.5,1023,tt0032904
+982,The Manchurian Candidate,1962-10-24,"['Thriller', 'Drama']",2200000,7700000,7.512,842,tt0056218
+983,The Man Who Would Be King,1975-12-03,"['Adventure', 'Drama']",8000000,12678,7.48,739,tt0073341
+984,Dirty Harry,1971-12-23,"['Action', 'Crime', 'Thriller']",4000000,35976000,7.5,2854,tt0066999
+985,Eraserhead,1977-09-28,"['Horror', 'Science Fiction']",100000,7100000,7.334,2844,tt0074486
+986,Chimes at Midnight,1965-12-22,"['Comedy', 'Drama', 'History', 'War']",800000,0,7.2,253,tt0059012
+987,The Front Page,1974-11-01,['Comedy'],4000000,15000000,7.298,397,tt0071524
+988,The China Syndrome,1979-03-16,"['Drama', 'Thriller']",5900000,51718367,7.122,539,tt0078966
+989,The Mortal Storm,1940-06-20,['Drama'],0,0,7.343,102,tt0032811
+990,The Hustler,1961-09-25,"['Drama', 'Romance']",2000000,7600000,7.7,1126,tt0054997
+991,The Man Who Fell to Earth,1976-03-18,"['Science Fiction', 'Drama', 'Fantasy']",1500000,0,6.5,624,tt0074851
+992,Sherlock Jr.,1924-04-17,"['Action', 'Comedy', 'Mystery']",0,0,8.038,1212,tt0015324
+993,Sleuth,1972-12-10,"['Thriller', 'Mystery', 'Crime']",3500000,5750000,7.699,750,tt0069281
+994,Straw Dogs,1971-11-25,"['Thriller', 'Drama', 'Crime']",2200000,3251794,7.2,1120,tt0067800
+995,Stagecoach,1939-03-02,['Western'],531374,1103757,7.598,1278,tt0031971
+996,Double Indemnity,1944-07-06,"['Crime', 'Thriller']",927262,2500000,8.087,2102,tt0036775
+1018,Mulholland Drive,2001-06-06,"['Thriller', 'Drama', 'Mystery']",15000000,20289986,7.8,7308,tt0166924
+1023,Adam's Apples,2005-04-15,"['Drama', 'Comedy', 'Crime']",3700000,0,7.5,824,tt0418455
+1024,Heavenly Creatures,1994-09-12,"['Drama', 'Fantasy']",5000000,3049135,6.956,1065,tt0110005
+1039,The Inheritors,1998-06-19,['Drama'],0,0,6.611,18,tt0141824
+1040,The Leopard,1963-03-27,['Drama'],0,0,7.716,981,tt0057091
+1049,Sommersby,1993-02-05,"['Drama', 'Thriller', 'Mystery', 'Romance']",30000000,140081992,6.365,438,tt0108185
+1050,Shower,1999-09-13,"['Comedy', 'Drama']",0,0,6.882,76,tt0215369
+1051,The French Connection,1971-10-09,"['Action', 'Crime', 'Thriller']",1800000,41200000,7.491,2216,tt0067116
+1052,Blow-Up,1966-12-18,"['Drama', 'Mystery', 'Thriller']",1800000,20000000,7.3,1422,tt0060176
+1058,Breathless,1983-05-13,"['Romance', 'Drama', 'Action']",7500000,19910002,5.883,278,tt0085276
+1059,The Hidden Fortress,1958-12-28,"['Drama', 'Action', 'Adventure']",0,57673,7.985,743,tt0051808
+1073,Arlington Road,1999-03-19,"['Crime', 'Drama', 'Thriller', 'Mystery']",31000000,41100000,7.039,1312,tt0137363
+1075,"Black Cat, White Cat",1998-06-01,"['Comedy', 'Romance', 'Crime']",0,353734,7.636,850,tt0118843
+1088,Whale Rider,2003-01-30,"['Drama', 'Family']",8000000,41400000,7.029,461,tt0298228
+1089,Point Break,1991-07-12,"['Action', 'Thriller', 'Crime']",24000000,83531958,7.152,4148,tt0102685
+1090,The Thirteenth Floor,1999-04-16,"['Thriller', 'Science Fiction', 'Mystery']",16000000,18564088,7.1,1624,tt0139809
+1091,The Thing,1982-06-25,"['Horror', 'Mystery', 'Science Fiction']",15000000,19629760,8.1,8283,tt0084787
+1092,The Third Man,1949-08-31,"['Thriller', 'Mystery']",0,1226098,7.882,2185,tt0041959
+1093,Elevator to the Gallows,1958-01-29,"['Crime', 'Drama', 'Thriller']",0,263404,7.611,731,tt0051378
+1103,Escape from New York,1981-05-23,"['Action', 'Thriller', 'Science Fiction']",6000000,50244700,7.044,3657,tt0082340
+1114,The Story of the Weeping Camel,2004-08-12,"['Documentary', 'Drama']",0,0,7.1,113,tt0373861
+1115,Ghosts,2005-09-15,['Drama'],0,0,6.081,37,tt0419773
+1116,The Wind That Shakes the Barley,2006-06-23,"['Drama', 'War']",6500000,22903165,7.318,931,tt0460989
+1123,Catch a Fire,2006-10-27,"['Action', 'Drama', 'Thriller']",14000000,5700000,6.287,155,tt0437232
+1124,The Prestige,2006-10-19,"['Drama', 'Mystery', 'Science Fiction']",40000000,109676311,8.211,18176,tt0482571
+1125,Dreamgirls,2006-12-25,"['Drama', 'Music']",70000000,154937680,6.714,1113,tt0443489
+1126,In My Father's Den,2004-06-11,"['Drama', 'Mystery', 'Thriller']",0,0,6.956,113,tt0385017
+1127,Princesses,2005-09-02,['Drama'],0,0,6.845,100,tt0434292
+1162,The Miracle Worker,1962-05-23,"['Drama', 'History']",500000,2500000,7.9,355,tt0056241
+1163,The Miracle Worker,2000-11-12,"['Drama', 'TV Movie']",0,0,7.225,40,tt0246786
+1164,Babel,2006-10-26,['Drama'],25000000,135330835,7.168,4194,tt0449467
+1165,The Queen,2006-09-15,"['Drama', 'History']",15000000,123384128,6.9,1465,tt0436697
+1213,The Talented Mr. Ripley,1999-12-25,"['Thriller', 'Crime', 'Drama']",40000000,128798265,7.2,4305,tt0134119
+1244,Eight Miles High,2007-02-01,"['Music', 'Drama', 'Comedy']",0,957744,6.135,48,tt0764639
+1245,The Remains of the Day,1993-11-05,"['Drama', 'Romance']",11500000,23240144,7.358,1552,tt0107943
+1246,Rocky Balboa,2006-12-20,"['Drama', 'Action']",24000000,155929020,6.886,3929,tt0479143
+1247,The Good Shepherd,2006-12-11,"['Drama', 'Thriller', 'History']",85000000,100266865,6.355,1351,tt0343737
+1248,Hannibal Rising,2007-02-06,"['Crime', 'Thriller', 'Horror']",75000000,82169884,6.269,2474,tt0367959
+1249,Hollywoodland,2006-08-31,"['Crime', 'Drama', 'Mystery']",0,16803753,6.1,468,tt0427969
+1250,Ghost Rider,2007-01-15,"['Thriller', 'Action', 'Fantasy']",110000000,228738393,5.623,6669,tt0259324
+1251,Letters from Iwo Jima,2006-12-09,"['Action', 'Drama', 'War']",19000000,68673228,7.502,2400,tt0498380
+1252,Lonely Hearts,2006-04-30,"['Drama', 'Thriller', 'Crime', 'Romance']",18000000,2520000,6.058,394,tt0441774
+1253,Breaking and Entering,2006-12-15,"['Drama', 'Romance']",0,8974829,6.106,277,tt0443456
+1254,"Don't Worry, I'm Fine",2006-09-06,['Drama'],0,0,7.202,615,tt0485241
+1255,The Host,2006-07-27,"['Horror', 'Drama', 'Science Fiction']",11000000,88489643,7.0,3250,tt0468492
+1256,Dead in 3 Days,2006-07-21,"['Horror', 'Thriller']",2000000,0,5.463,95,tt0808315
+1257,Because I Said So,2007-02-02,"['Romance', 'Comedy']",0,69485490,5.85,686,tt0490084
+1259,Notes on a Scandal,2006-12-25,"['Drama', 'Romance']",15000000,49814392,7.094,1017,tt0465551
+1260,Lotte from Gadgetville,2006-08-25,"['Adventure', 'Animation', 'Comedy', 'Family']",0,0,8.8,14,tt0447249
+1262,Stranger Than Fiction,2006-11-10,"['Drama', 'Comedy', 'Romance', 'Fantasy']",30000000,53653224,7.294,2638,tt0420223
+1263,Die Aufschneider,2007-02-08,['Comedy'],0,0,6.455,11,tt0449080
+1264,The Wild Soccer Bunch 4,2007-02-01,"['Comedy', 'Family', 'Adventure']",5833536,18873863,5.235,83,tt0811159
+1265,Bridge to Terabithia,2007-02-15,"['Adventure', 'Drama', 'Family']",60000000,137587063,7.353,5487,tt0398808
+1266,Street Kings,2008-04-10,"['Action', 'Crime', 'Drama', 'Thriller']",20000000,66476363,6.667,1810,tt0421073
+1267,Meet the Robinsons,2007-03-23,"['Animation', 'Comedy', 'Family', 'Science Fiction', 'Adventure']",150000000,169332978,6.947,3241,tt0396555
+1268,Mr. Bean's Holiday,2007-03-22,"['Family', 'Comedy']",25000000,232225908,6.404,3223,tt0453451
+1269,The Vexxer,2007-03-10,"['Comedy', 'Crime']",0,0,6.539,154,tt0446009
+1271,300,2007-03-07,"['Action', 'Adventure', 'War']",65000000,456082343,7.2,15119,tt0416449
+1272,Sunshine,2007-04-05,"['Science Fiction', 'Thriller']",50000000,34800000,6.973,4443,tt0448134
+1273,TMNT,2007-03-23,"['Adventure', 'Animation', 'Comedy', 'Family']",34000000,95608995,6.215,1277,tt0453556
+1277,Gloomy Sunday,1999-10-21,"['Drama', 'Romance']",0,585604,7.726,73,tt0155722
+1278,The Dreamers,2003-10-10,"['Drama', 'Romance']",15000000,15100000,7.178,3172,tt0309987
+1279,Samaritan Girl,2004-03-05,['Drama'],1000000,328161,6.921,272,tt0397619
+1280,3-Iron,2004-10-15,"['Drama', 'Romance', 'Crime']",0,3403957,7.817,1303,tt0423866
+1281,Bean,1997-07-03,"['Family', 'Adventure', 'Comedy']",18000000,251212670,6.48,2672,tt0118689
+1282,Dogtown and Z-Boys,2002-05-10,['Documentary'],0,0,7.049,173,tt0275309
+1283,Torrente: The Dumb Arm of the Law,1998-03-13,"['Comedy', 'Crime']",1800000,9735799,6.519,343,tt0120868
+1284,Torrente 2: Mission in Marbella,2001-03-30,"['Action', 'Comedy', 'Crime']",4000000,21000000,6.114,228,tt0257231
+1285,Torrente 3: The Protector,2005-09-30,"['Comedy', 'Crime']",5500000,21779366,5.418,200,tt0444505
+1294,Four Minutes,2006-06-23,"['Drama', 'Music']",0,0,6.795,149,tt0461694
+1358,A Brief History of Time,1991-10-01,['Documentary'],0,2279692,7.211,133,tt0103882
+1359,American Psycho,2000-04-13,"['Thriller', 'Drama', 'Crime']",7000000,34269748,7.401,12769,tt0144084
+1360,Frida,2002-08-29,"['Drama', 'Romance']",12000000,56298474,7.381,2222,tt0120679
+1361,The Return of the King,1980-05-11,"['Animation', 'Fantasy', 'Adventure']",0,0,6.402,229,tt0079802
+1362,The Hobbit,1977-11-27,"['Family', 'Fantasy', 'Animation', 'Adventure', 'TV Movie']",3000000,0,6.588,382,tt0077687
+1363,The Hi-Lo Country,1998-12-30,"['Drama', 'Romance', 'Western']",0,166000,6.049,102,tt0120699
+1364,Sex and Lucía,2001-08-24,"['Drama', 'Romance']",0,7640680,6.699,663,tt0254455
+1365,Monster's Ball,2001-12-26,"['Drama', 'Romance']",4000000,44900000,6.785,1127,tt0285742
+1366,Rocky,1976-12-03,['Drama'],1000000,117253345,7.799,8921,tt0075148
+1367,Rocky II,1979-06-15,"['Drama', 'Action']",7000000,200182160,7.295,4977,tt0079817
+1368,First Blood,1982-10-22,"['Action', 'Thriller', 'Drama']",15000000,125212904,7.518,7124,tt0083944
+1369,Rambo: First Blood Part II,1985-05-22,"['Action', 'Adventure', 'Thriller', 'War']",44000000,300400432,6.671,4483,tt0089880
+1370,Rambo III,1988-05-24,"['Action', 'Adventure', 'Thriller', 'War']",63000000,189015611,6.209,3601,tt0095956
+1371,Rocky III,1982-05-28,"['Drama', 'Action']",17000000,125052898,6.907,4654,tt0084602
+1372,Blood Diamond,2006-12-08,"['Drama', 'Thriller', 'Action']",100000000,171720398,7.6,8563,tt0450259
+1373,The Discovery of Heaven,2001-10-01,"['Drama', 'Fantasy']",0,0,6.556,36,tt0251052
+1374,Rocky IV,1985-11-21,"['Drama', 'Action']",31000000,300473716,7.091,4985,tt0089927
+1375,Rocky V,1990-11-16,"['Drama', 'Action']",42000000,119946358,5.773,3580,tt0100507
+1376,Sweet Sixteen,2002-09-07,"['Crime', 'Drama']",0,3961374,7.0,262,tt0313670
+1377,Houseboat,1958-11-19,"['Comedy', 'Romance']",0,3500000,6.401,202,tt0051745
+1378,Shortbus,2006-10-04,"['Romance', 'Comedy', 'Drama']",2000000,5557564,6.259,607,tt0367027
+1379,Lights in the Dusk,2006-02-03,['Drama'],1380000,1615018,6.8,169,tt0458242
+1380,Gleaming the Cube,1989-01-13,"['Crime', 'Thriller', 'Action']",10000000,2777280,6.0,147,tt0097438
+1381,The Fountain,2006-11-22,"['Drama', 'Adventure', 'Science Fiction', 'Romance']",35000000,15304890,6.902,3233,tt0414993
+1382,Me and You and Everyone We Know,2005-05-12,"['Comedy', 'Drama']",0,0,6.973,388,tt0415978
+1386,C'était un rendez-vous,1976-01-01,"['Action', 'Romance']",0,0,7.4,92,tt0169173
+1387,Superstar: The Karen Carpenter Story,1987-07-15,"['Drama', 'Music', 'History']",0,0,7.0,67,tt0094075
+1388,The Way Things Go,1987-06-01,['Documentary'],0,0,6.556,27,tt0094300
+1389,Out of Sight,1998-06-26,"['Romance', 'Comedy', 'Crime']",48000000,77745966,6.681,1456,tt0120780
+1391,Y Tu Mamá También,2001-06-08,"['Drama', 'Romance']",5000000,33600000,7.4,1831,tt0245574
+1392,Born into Brothels: Calcutta's Red Light Kids,2004-12-08,['Documentary'],350000,3529201,6.786,255,tt0388789
+1393,The Cave of the Yellow Dog,2005-07-27,['Drama'],0,0,7.438,80,tt0432325
+1394,Nostalgia,1983-05-01,"['Drama', 'Romance']",875000,311708,7.773,627,tt0086022
+1396,Mirror,1975-03-07,"['Drama', 'History']",825000,124367,7.9,1127,tt0072443
+1397,God's Ways,2006-11-25,['Documentary'],0,0,10.0,1,tt0985019
+1398,Stalker,1979-05-25,"['Science Fiction', 'Drama']",120000,0,8.085,2616,tt0079944
+1402,The Pursuit of Happyness,2006-12-14,['Drama'],55000000,307077295,7.882,10887,tt0454921
+1403,Duel at Diablo,1966-06-15,['Western'],0,0,6.4,122,tt0060355
+1404,Ae Fond Kiss...,2004-07-14,"['Drama', 'Romance']",0,6571302,6.49,148,tt0380366
+1405,Greed,1924-12-04,"['Drama', 'Crime']",665603,274827,7.297,207,tt0015881
+1406,City Slickers,1991-06-07,"['Comedy', 'Western']",27000000,179033791,6.458,914,tt0101587
+1407,La Vie en Rose,2007-02-14,"['Music', 'Drama']",25000000,86274793,7.366,1775,tt0450188
+1408,Cutthroat Island,1995-12-22,"['Action', 'Adventure', 'Comedy', 'Fantasy']",102000000,16000000,5.802,648,tt0112760
+1410,Dark Star,1974-03-30,"['Comedy', 'Science Fiction']",60000,0,5.995,679,tt0069945
+1411,The Rapture,1991-10-04,"['Mystery', 'Drama', 'Fantasy', 'Thriller']",3000000,1277404,5.729,94,tt0102757
+1412,"sex, lies, and videotape",1989-08-04,['Drama'],1200000,24741667,6.964,1084,tt0098724
+1413,M. Butterfly,1993-10-01,"['Romance', 'Drama', 'History']",17000000,1499795,6.575,253,tt0107468
+1414,Lovers of the Arctic Circle,1998-09-04,"['Drama', 'Mystery', 'Romance']",0,0,7.313,280,tt0133363
+1415,Party Monster,2003-09-05,"['Comedy', 'Drama', 'Crime', 'Thriller']",5000000,742898,5.801,204,tt0320244
+1416,The Coast Guard,2002-11-22,"['Drama', 'War']",0,0,6.2,101,tt0341384
+1417,Pan's Labyrinth,2006-10-11,"['Fantasy', 'Drama', 'War']",19000000,83258226,7.768,11759,tt0457430
+1418,Take My Eyes,2003-10-08,"['Romance', 'Drama']",0,0,7.201,221,tt0350193
+1419,Vollidiot,2007-04-11,"['Comedy', 'Drama']",0,0,4.636,70,tt0890888
+1420,Breakfast on Pluto,2005-11-16,"['Drama', 'Comedy']",0,3900000,7.193,453,tt0411195
+1421,The Man Who Loved Women,1977-04-27,"['Drama', 'Comedy', 'Romance']",0,0,7.115,221,tt0076155
+1422,The Departed,2006-10-04,"['Drama', 'Thriller', 'Crime']",90000000,291465000,8.158,16698,tt0407887
+1423,Flying Saucer Rock 'N' Roll,2006-03-16,"['Adventure', 'Comedy', 'Horror', 'Science Fiction']",1000,6,3.0,1,tt1344607
+1424,November,2004-01-18,"['Drama', 'Mystery', 'Thriller']",0,0,4.862,47,tt0368089
+1426,Maria am Wasser,2009-02-26,['Drama'],0,20143,3.4,4,tt0490174
+1427,Perfume: The Story of a Murderer,2006-09-13,"['Crime', 'Fantasy', 'Drama']",63700000,135039924,7.375,5171,tt0396171
+1428,Once Upon a Time in Mexico,2003-09-11,"['Action', 'Crime', 'Thriller', 'Western']",29000000,98769390,6.3,2489,tt0285823
+1429,25th Hour,2002-12-19,"['Crime', 'Drama']",5000000,23932055,7.309,2658,tt0307901
+1430,Bowling for Columbine,2002-10-09,"['Documentary', 'Drama']",4000000,35564473,7.516,1750,tt0310793
+1433,The Devil's Backbone,2001-04-20,"['Fantasy', 'Drama', 'Horror', 'Thriller']",4500000,6582065,7.307,1424,tt0256009
+1435,Tarnation,2003-10-19,"['Documentary', 'Drama']",218,1162014,6.803,89,tt0390538
+1436,The Warrior,2001-09-07,"['History', 'Drama', 'Action', 'War']",10000000,13000000,7.034,148,tt0275083
+1437,Abgefahren,2004-04-01,"['Action', 'Comedy']",0,955209,5.0,12,tt0388679
+1438,Regoch,2006-11-20,['Animation'],0,0,8.3,3,tt0940833
+1439,Anna and the King,1999-12-16,"['Drama', 'Romance', 'History']",75000000,113996937,6.795,840,tt0166485
+1440,Little Children,2006-10-06,"['Drama', 'Romance']",26000000,14821658,7.073,1200,tt0404203
+1441,The Contract,2006-04-05,"['Drama', 'Action', 'Thriller', 'Crime']",25000000,5549200,5.828,591,tt0445946
+1442,Full Metal Village,2007-04-19,['Documentary'],0,0,6.8,25,tt0954937
+1443,The Virgin Suicides,2000-04-21,"['Drama', 'Romance']",6000000,10409377,7.135,3711,tt0159097
+1444,Junebug,2005-08-03,"['Comedy', 'Drama']",1000000,0,6.531,262,tt0418773
+1448,Immortality,1998-11-27,"['Fantasy', 'Romance', 'Thriller', 'Horror']",0,0,5.743,111,tt0120894
+1450,Blood: The Last Vampire,2009-04-02,"['Action', 'Adventure', 'Horror', 'Science Fiction', 'Thriller']",30000000,5874530,5.917,441,tt0806027
+1452,Superman Returns,2006-06-28,"['Science Fiction', 'Action', 'Adventure']",223000000,391081192,5.829,4720,tt0348150
+1479,"Clean, Shaven",1995-04-14,"['Drama', 'Crime', 'Thriller']",68000,26351,6.477,107,tt0106579
+1480,Touch of Evil,1958-03-30,"['Crime', 'Thriller', 'Drama']",829000,2247500,7.742,1650,tt0052311
+1481,Metal Skin,1994-02-21,"['Action', 'Drama']",0,0,5.611,9,tt0110500
+1482,Laws of Gravity,1992-08-26,"['Crime', 'Drama']",38000,0,6.933,15,tt0104693
+1483,Begotten,1991-06-05,"['Fantasy', 'Horror']",33000,0,6.0,377,tt0101420
+1484,The Deathmaker,1995-11-23,['Drama'],0,0,6.92,44,tt0114704
+1485,Get Carter,1971-02-03,"['Crime', 'Thriller']",1814462,0,6.962,591,tt0067128
+1487,Hellboy,2004-04-02,"['Fantasy', 'Action']",66000000,99318987,6.678,7638,tt0167190
+1488,Mongolian Ping Pong,2005-06-11,"['Drama', 'Comedy']",0,119732,6.364,11,tt0461804
+1490,Singing Water,2007-01-01,['Drama'],0,0,0.0,0,
+1491,The Illusionist,2006-08-18,"['Fantasy', 'Drama', 'Thriller', 'Romance']",16500000,87892388,7.3,5494,tt0443543
+1492,1492: Conquest of Paradise,1992-08-09,"['Action', 'Adventure', 'Drama', 'History']",47000000,7191399,6.3,952,tt0103594
+1493,Miss Congeniality,2000-12-22,"['Comedy', 'Crime', 'Action']",45000000,212000000,6.537,4358,tt0212346
+1494,Curse of the Golden Flower,2006-12-14,"['Action', 'Drama', 'Fantasy']",45000000,78568977,6.9,852,tt0473444
+1495,Kingdom of Heaven,2005-05-03,"['Drama', 'Action', 'Adventure', 'History', 'War']",130000000,218366336,7.091,5254,tt0320661
+1496,Cool as Ice,1991-10-18,"['Romance', 'Music', 'Comedy']",6000000,1193062,5.125,208,tt0101615
+1497,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991-03-22,"['Science Fiction', 'Adventure', 'Action', 'Comedy', 'Family']",25000000,78656813,6.2,1291,tt0103060
+1498,Teenage Mutant Ninja Turtles,1990-03-30,"['Science Fiction', 'Action', 'Adventure', 'Comedy', 'Family']",13500000,201965915,6.709,2034,tt0100758
+1499,Teenage Mutant Ninja Turtles III,1993-03-17,"['Action', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Science Fiction']",21000000,42273609,5.5,942,tt0108308
+1523,The Last King of Scotland,2006-09-27,['Drama'],6000000,48600000,7.408,2461,tt0455590
+1534,Pathfinder,2007-01-11,"['Adventure', 'Action']",45000000,30800000,5.667,815,tt0446013
+1535,Spy Game,2001-11-18,"['Action', 'Crime', 'Thriller']",115000000,143049560,6.922,2452,tt0266987
+1537,Changing Lanes,2002-04-07,"['Thriller', 'Drama']",45000000,94935764,6.288,1262,tt0264472
+1538,Collateral,2004-08-04,"['Drama', 'Crime', 'Thriller']",65000000,220239925,7.248,6514,tt0369339
+1539,No Songs of Love,2005-10-26,"['Music', 'Drama', 'Romance']",0,0,5.733,15,tt0448009
+1540,Heading South,2006-01-25,"['Drama', 'Romance']",0,0,5.4,39,tt0381690
+1541,Thelma & Louise,1991-05-24,"['Drama', 'Crime', 'Adventure']",16000000,45361000,7.595,4007,tt0103074
+1542,Office Space,1999-02-19,['Comedy'],10000000,12800000,7.387,3537,tt0151804
+1543,Emma's Bliss,2006-07-16,"['Drama', 'Romance']",0,3743833,6.5,47,tt0424992
+1544,Imagine Me & You,2006-01-27,"['Drama', 'Comedy', 'Romance']",1000000,2500000,7.583,1138,tt0421994
+1546,Thumbsucker,2005-09-16,"['Comedy', 'Drama']",3000000,1919197,6.188,279,tt0318761
+1547,The Lost Boys,1987-07-31,"['Horror', 'Comedy', 'Thriller']",8500000,32222567,7.119,2398,tt0093437
+1548,Ghost World,2001-07-20,"['Comedy', 'Drama']",7000000,8800000,7.08,1637,tt0162346
+1549,Games of Love and Chance,2003-11-25,"['Romance', 'Drama']",0,0,6.7,156,tt0338977
+1550,Pieces of April,2003-10-17,"['Comedy', 'Drama']",300000,0,6.5,277,tt0311648
+1551,Flatliners,1990-08-10,"['Drama', 'Science Fiction', 'Horror']",26000000,61489265,6.516,1799,tt0099582
+1552,Parenthood,1989-07-31,"['Comedy', 'Drama']",20000000,126297830,6.655,750,tt0098067
+1553,The Beat That My Heart Skipped,2005-03-16,"['Drama', 'Crime']",6400000,9293785,6.9,505,tt0411270
+1554,Down by Law,1986-09-20,"['Crime', 'Drama', 'Comedy']",1100000,1529206,7.359,878,tt0090967
+1555,The Spanish Apartment,2002-06-19,"['Drama', 'Comedy', 'Romance']",5300000,3897799,7.105,1263,tt0283900
+1556,Funeral Parade of Roses,1969-09-13,['Drama'],0,0,7.5,255,tt0064068
+1557,23,1998-07-02,"['Drama', 'Thriller']",0,0,6.834,229,tt0126765
+1558,Learning to Lie,2003-07-02,"['Comedy', 'Drama']",0,0,6.25,18,tt0325734
+1559,Sweet Movie,1974-06-12,['Comedy'],520000,0,5.3,151,tt0072235
+1560,Singapore Sling,1990-12-06,"['Comedy', 'Horror', 'Drama']",0,0,6.6,82,tt0100623
+1561,Mouchette,1967-03-28,['Drama'],0,0,7.425,287,tt0061996
+1562,28 Weeks Later,2007-04-26,"['Horror', 'Thriller', 'Science Fiction']",15000000,72304846,6.592,5876,tt0463854
+1563,Sans Soleil,1983-03-02,['Documentary'],0,30878,7.453,277,tt0084628
+1564,Daybreak Express,1957-01-01,"['Documentary', 'Music']",0,0,7.2,50,tt0045673
+1566,The Bridge,1959-10-21,"['Drama', 'History', 'War']",0,0,7.576,204,tt0052654
+1567,I Stand Alone,1999-02-17,"['Drama', 'Thriller']",0,6955,7.387,608,tt0157016
+1568,Carne,1991-11-10,"['Drama', 'Thriller', 'Crime']",0,0,6.771,256,tt0218871
+1569,Pig,1999-01-03,"['Horror', 'Thriller']",0,0,5.32,25,tt1540987
+1571,Live Free or Die Hard,2007-06-20,"['Action', 'Thriller']",110000000,383531464,6.644,6525,tt0337978
+1572,Die Hard: With a Vengeance,1995-05-19,"['Action', 'Thriller']",90000000,366101666,7.284,6856,tt0112864
+1573,Die Hard 2,1990-07-03,"['Action', 'Thriller']",70000000,240031094,6.968,6605,tt0099423
+1574,Chicago,2002-12-10,"['Comedy', 'Crime', 'Drama']",45000000,306776732,7.132,2988,tt0299658
+1576,Resident Evil,2002-03-15,"['Horror', 'Action', 'Science Fiction']",33000000,102984862,6.674,7189,tt0120804
+1577,Resident Evil: Apocalypse,2004-09-10,"['Horror', 'Action', 'Science Fiction']",45000000,129342769,6.371,4956,tt0318627
+1578,Raging Bull,1980-11-14,"['Drama', 'History']",18000000,23380203,7.9,4905,tt0081398
+1579,Apocalypto,2006-12-07,"['Action', 'Drama', 'History']",40000000,120654337,7.668,6689,tt0472043
+1580,Rope,1948-02-01,"['Thriller', 'Crime', 'Drama']",1500000,2200000,7.929,3094,tt0040746
+1581,The Holiday,2006-12-05,"['Comedy', 'Romance']",85000000,205233866,7.1,5759,tt0457939
+1583,Lammbock,2001-08-23,['Comedy'],0,0,6.915,240,tt0258760
+1584,The School of Rock,2003-10-03,"['Comedy', 'Family', 'Music']",35000000,131098967,7.09,6399,tt0332379
+1585,It's a Wonderful Life,1946-12-20,"['Drama', 'Family', 'Fantasy']",3180000,9644124,8.278,5074,tt0038650
+1586,Secret Window,2004-03-12,"['Mystery', 'Thriller']",40000000,92900000,6.563,4033,tt0363988
+1587,What's Eating Gilbert Grape,1993-12-17,"['Romance', 'Drama']",11000000,10000000,7.658,4394,tt0108550
+1588,Bring It On,2000-08-25,['Comedy'],28000000,90449929,6.294,1921,tt0204946
+1589,The Boys & Girl from County Clare,2003-09-12,"['Romance', 'Comedy', 'Music']",8000000,151869,6.023,22,tt0337631
+1590,Copying Beethoven,2006-09-10,['Drama'],11000000,6191746,6.5,194,tt0424908
+1591,Nowhere in Africa,2001-12-11,['Drama'],0,0,7.023,195,tt0161860
+1592,Primal Fear,1996-04-03,"['Crime', 'Drama', 'Thriller']",30000000,102616183,7.66,4179,tt0117381
+1593,Night at the Museum,2006-12-20,"['Fantasy', 'Family', 'Comedy']",110000000,574480841,6.6,11224,tt0477347
+1594,A Shot in the Dark,1964-06-23,"['Comedy', 'Mystery', 'Crime']",0,12368234,7.188,683,tt0058586
+1595,Land of Plenty,2004-09-10,['Drama'],0,0,6.173,52,tt0382357
+1596,Population 436,2006-07-04,"['Horror', 'Thriller']",0,0,5.815,303,tt0462482
+1597,Meet the Parents,2000-10-06,"['Comedy', 'Romance']",55000000,330444045,6.699,6575,tt0212338
+1598,Cape Fear,1991-11-13,"['Drama', 'Crime', 'Thriller']",35000000,182300000,7.26,4031,tt0101540
+1599,I ♥ Huckabees,2004-09-10,"['Comedy', 'Romance']",22000000,20094909,6.3,734,tt0356721
+1600,The Double Life of Véronique,1991-05-15,"['Drama', 'Fantasy']",0,1999955,7.492,920,tt0101765
+1607,A Bronx Tale,1993-10-01,"['Drama', 'Crime']",22000000,17287898,7.909,3024,tt0106489
+1608,When Saturday Comes,1996-03-01,['Drama'],0,983481,5.75,30,tt0114917
+1609,There's Only One Jimmy Grimble,2000-08-25,['Comedy'],0,0,6.8,205,tt0238660
+1610,Fever Pitch,1997-04-04,"['Comedy', 'Romance']",0,0,6.443,271,tt0119114
+1611,The Miracle of Bern,2003-10-15,"['Drama', 'Comedy']",0,0,6.5,185,tt0326429
+1612,Football Rules Ok,2000-02-10,['Comedy'],0,0,5.481,25,tt0225824
+1613,The 51st State,2001-12-07,"['Thriller', 'Action', 'Comedy', 'Crime']",27000000,12881605,6.085,697,tt0227984
+1615,The Bunny Guards vs. the Forces of Evil,2002-06-20,['Comedy'],0,4508104,4.456,34,tt0293124
+1616,Erkan & Stefan 3,2005-05-19,['Comedy'],0,0,4.652,33,tt0427219
+1618,Still Crazy,1998-10-30,"['Comedy', 'Music']",0,524864,6.9,126,tt0149151
+1619,The Way of the Gun,2000-09-08,"['Action', 'Crime', 'Drama', 'Thriller']",8500000,19125401,6.369,518,tt0202677
+1620,Hitman,2007-11-21,"['Action', 'Thriller', 'Drama']",24000000,101276318,6.179,3777,tt0465494
+1621,Trading Places,1983-06-07,['Comedy'],15000000,90404800,7.229,3780,tt0086465
+1622,Lemming,2005-05-11,"['Drama', 'Thriller', 'Mystery']",0,793604,6.467,152,tt0415932
+1623,Brubaker,1980-06-20,"['Crime', 'Drama']",9000000,37121708,7.095,531,tt0080474
+1624,Liar Liar,1997-03-21,"['Comedy', 'Fantasy']",45000000,302710615,6.72,6427,tt0119528
+1626,Vivre Sa Vie,1962-09-20,['Drama'],64000,24517,7.697,721,tt0056663
+1627,The Wild Child,1970-02-26,"['Drama', 'History']",0,0,7.057,317,tt0064285
+1628,Jules and Jim,1962-01-23,"['Drama', 'Romance']",0,0,7.529,1074,tt0055032
+1629,La Chinoise,1967-08-30,"['Drama', 'Comedy']",0,30857,6.956,248,tt0061473
+1630,The People vs. Larry Flynt,1996-12-25,['Drama'],36000000,20300385,7.0,1305,tt0117318
+1631,A Real Young Girl,1976-06-01,"['Romance', 'Drama']",0,17245,5.235,155,tt0135024
+1632,Mississippi Burning,1988-12-08,"['Drama', 'Crime', 'Mystery', 'Thriller']",15000000,34604000,7.676,2028,tt0095647
+1633,Fried Green Tomatoes,1991-12-27,"['Drama', 'Comedy']",11000000,119418501,7.664,1529,tt0101921
+1634,Free Willy,1993-07-16,"['Family', 'Adventure', 'Drama']",20000000,153698625,6.216,2047,tt0106965
+1635,The Island,2005-07-21,"['Action', 'Thriller', 'Science Fiction']",126000000,162949164,6.694,6082,tt0399201
+1636,Bedazzled,2000-10-19,"['Fantasy', 'Comedy', 'Romance']",48000000,90383208,6.119,2190,tt0230030
+1637,Speed,1994-06-09,"['Action', 'Thriller']",30000000,350448145,7.159,7076,tt0111257
+1639,Speed 2: Cruise Control,1997-06-13,"['Action', 'Thriller']",160000000,164508066,4.597,1873,tt0120179
+1640,Crash,2005-05-06,['Drama'],6500000,98400000,7.212,4015,tt0375679
+1641,Forces of Nature,1999-03-12,"['Romance', 'Comedy']",75000000,93888180,5.5,614,tt0141098
+1642,The Net,1995-07-28,"['Crime', 'Drama', 'Mystery', 'Thriller', 'Action']",22000000,110627965,6.057,1586,tt0113957
+1643,Last Tango in Paris,1972-12-15,"['Drama', 'Romance']",1250000,36182181,6.9,1376,tt0070849
+1644,The Vanishing,1993-02-05,"['Thriller', 'Drama', 'Mystery', 'Horror']",0,14543394,6.17,584,tt0108473
+1645,A Time to Kill,1996-07-24,"['Crime', 'Drama', 'Thriller']",40000000,152266007,7.4,3098,tt0117913
+1646,Freedom Writers,2007-01-05,"['Crime', 'Drama']",21000000,43095175,7.934,2498,tt0463998
+1647,The Recruit,2003-01-31,"['Action', 'Thriller']",46000000,101200000,6.406,1994,tt0292506
+1648,Bill & Ted's Excellent Adventure,1989-02-17,"['Adventure', 'Comedy', 'Science Fiction']",10000000,40510984,6.847,2193,tt0096928
+1649,Bill & Ted's Bogus Journey,1991-07-19,"['Adventure', 'Comedy', 'Science Fiction']",20000000,38040268,6.305,1408,tt0101452
+1650,Haytabo,1971-01-01,"['Drama', 'Science Fiction']",5000,0,6.8,5,tt0263329
+1651,Mississippi Mermaid,1969-06-18,"['Romance', 'Drama', 'Crime', 'Thriller']",1600000,7356000,6.625,228,tt0064990
+1652,00 Schneider - Jagd auf Nihil Baxter,1994-12-21,"['Comedy', 'Crime']",0,0,6.4,59,tt0109000
+1653,The Motorcycle Diaries,2004-02-06,['Drama'],0,57663224,7.401,1472,tt0318462
+1654,The Dirty Dozen,1967-06-15,"['Action', 'Adventure', 'War']",5400000,45300000,7.6,1374,tt0061578
+1655,Praxis Dr. Hasenbein,1997-01-30,['Comedy'],0,0,6.5,35,tt0119932
+1656,The Legend of Zorro,2005-10-24,"['Action', 'Adventure', 'Western']",75000000,142400065,6.121,3176,tt0386140
+1658,2 or 3 Things I Know About Him,2005-04-07,"['Documentary', 'Drama']",0,0,6.625,8,tt0466634
+1659,Texas - Doc Snyder hält die Welt in Atem,1993-11-11,"['Comedy', 'Western']",0,0,5.969,48,tt0108317
+1660,Small Change,1976-03-17,"['Comedy', 'Drama']",0,0,7.157,169,tt0074152
+1661,Gigantic,1999-09-30,"['Drama', 'Comedy']",0,0,7.632,110,tt0177507
+1662,State of Grace,1990-09-14,"['Drama', 'Crime', 'Thriller']",7000000,1911542,7.0,436,tt0100685
+1663,The Squeaker,1963-04-26,"['Crime', 'Mystery']",0,0,6.5,44,tt0057718
+1665,Last Days,2005-06-12,['Drama'],5000000,1900000,5.588,431,tt0403217
+1666,The Bridge,2006-10-27,['Documentary'],25000,179780,6.776,230,tt0799954
+1667,March of the Penguins,2005-01-26,"['Documentary', 'Family']",8000000,127392693,7.074,1250,tt0428803
+1669,The Hunt for Red October,1990-03-02,"['Action', 'Thriller']",30000000,200512643,7.385,3772,tt0099810
+1670,The Horror of Blackwood Castle,1968-01-18,"['Crime', 'Horror', 'Thriller']",0,0,6.5,29,tt0061795
+1672,The Professional,1981-10-21,"['Action', 'Adventure', 'Thriller']",0,0,7.187,613,tt0082949
+1673,Comanche Station,1960-01-31,['Western'],0,0,6.68,122,tt0053729
+1675,Day for Night,1973-05-24,"['Comedy', 'Drama']",700000,850000,7.78,680,tt0070460
+1676,Will Penny,1967-12-19,"['Western', 'Romance']",1400000,0,6.648,122,tt0063811
+1677,Ray,2004-10-29,"['Drama', 'Music']",40000000,124700000,7.45,2311,tt0350258
+1678,Godzilla,1954-11-03,"['Thriller', 'Horror', 'Science Fiction']",60000,2250000,7.628,1170,tt0047034
+1679,Godzilla Raids Again,1955-04-24,"['Science Fiction', 'Horror', 'Action']",800000,1952653,6.011,348,tt0048127
+1680,King Kong vs. Godzilla,1962-08-11,"['Science Fiction', 'Fantasy', 'Action']",0,12550000,6.868,356,tt13364334
+1682,Mothra vs. Godzilla,1964-04-29,"['Drama', 'Action', 'Science Fiction']",0,10000000,7.035,357,tt0058379
+1683,The Reaping,2007-04-04,['Horror'],40000000,62771059,5.781,921,tt0444682
+1684,Prinzessinnenbad,2007-05-31,['Documentary'],0,0,5.808,13,tt0949502
+1685,Beneath the Planet of the Apes,1970-04-23,"['Adventure', 'Science Fiction', 'Mystery']",3000000,18999718,6.2,1525,tt0065462
+1686,Chelsea Girls,1966-09-15,['Drama'],3000,0,5.5,41,tt0061465
+1687,Escape from the Planet of the Apes,1971-05-20,"['Action', 'Science Fiction']",2500000,12348905,6.4,1277,tt0067065
+1688,Conquest of the Planet of the Apes,1972-06-29,"['Action', 'Science Fiction']",1700000,9700000,6.2,1129,tt0068408
+1689,Little Buddha,1993-12-01,"['Drama', 'History']",35000000,4900000,6.273,461,tt0107426
+1690,Hostel,2006-01-06,['Horror'],4800000,81979826,5.967,4084,tt0450278
+1691,Hostel: Part II,2007-06-07,['Horror'],10200000,35728183,5.862,2287,tt0498353
+1693,Monster Man,2003-07-30,"['Horror', 'Comedy']",0,0,6.088,137,tt0365513
+1694,Re-Animator,1985-10-18,"['Science Fiction', 'Comedy', 'Horror']",900000,2027771,7.051,1731,tt0089885
+1696,The Devil's Rejects,2005-07-22,"['Drama', 'Horror', 'Crime']",7000000,20901859,6.7,1608,tt0395584
+1697,Grave Decisions,2006-08-17,"['Drama', 'Comedy']",0,0,7.057,122,tt0780180
+1698,Anatomy,2000-02-03,"['Horror', 'Thriller']",0,0,6.075,335,tt0187696
+1699,Anatomy 2,2003-11-23,"['Horror', 'Thriller']",0,0,5.64,121,tt0312358
+1700,Misery,1990-11-30,"['Drama', 'Thriller']",20000000,61300000,7.753,5428,tt0100157
+1701,Con Air,1997-06-05,"['Action', 'Thriller', 'Crime']",75000000,224012234,6.785,4877,tt0118880
+1702,Death Machine,1995-05-02,"['Action', 'Horror', 'Science Fiction', 'Thriller']",0,1422749,5.84,144,tt0109575
+1705,Battle for the Planet of the Apes,1973-06-15,"['Action', 'Science Fiction']",1700000,8844595,5.7,1101,tt0069768
+1710,Copycat,1995-10-27,"['Thriller', 'Crime', 'Mystery']",20000000,32000000,6.484,1352,tt0112722
+1711,No Code of Conduct,1999-03-19,"['Action', 'Drama', 'Thriller']",12000000,0,5.417,36,tt0131502
+1712,Giant,1956-11-08,"['Drama', 'Western']",5400000,32855818,7.6,781,tt0049261
+1713,Jungle Fever,1991-06-07,"['Drama', 'Romance']",14000000,32482682,6.396,330,tt0102175
+1714,Fahrenheit 451,1966-09-07,"['Drama', 'Science Fiction']",1500000,2000000,7.113,1113,tt0060390
+1715,The Cider House Rules,1999-12-17,['Drama'],24000000,88500000,7.087,1334,tt0124315
+1716,The Last Metro,1980-09-17,"['Drama', 'Romance', 'War']",0,0,7.208,535,tt0080610
+1717,All the King's Men,2006-09-10,"['Drama', 'Thriller']",55000000,9450897,5.754,346,tt0405676
+1718,Santa Fe Trail,1940-12-20,['Western'],0,0,5.8,66,tt0033021
+1719,The Soft Skin,1964-04-20,"['Drama', 'Romance']",0,62261,7.147,224,tt0058458
+1720,Noi the Albino,2003-02-28,['Drama'],0,0,7.0,109,tt0351461
+1721,All the Way Boys,1972-12-22,"['Adventure', 'Action', 'Comedy']",0,0,6.815,438,tt0069095
+1722,Captain Corelli's Mandolin,2001-04-18,"['Drama', 'Romance', 'War']",57000000,62112895,5.945,588,tt0238112
+1723,The Front,1976-09-30,"['Comedy', 'Drama']",0,0,7.0,186,tt0074554
+1724,The Incredible Hulk,2008-06-12,"['Science Fiction', 'Action', 'Adventure']",150000000,264770996,6.261,13172,tt0800080
+1725,West Side Story,1961-12-13,"['Crime', 'Drama', 'Romance']",6000000,43700000,7.22,2100,tt0055614
+1726,Iron Man,2008-04-30,"['Action', 'Science Fiction', 'Adventure']",140000000,585174222,7.666,28872,tt0371746
+1727,Bird on a Wire,1990-05-18,"['Comedy', 'Romance', 'Adventure']",20000000,138697012,6.237,1077,tt0099141
+1729,The Forbidden Kingdom,2008-04-17,"['Action', 'Adventure', 'Fantasy']",55000000,127906624,6.655,1997,tt0865556
+1730,Inland Empire,2006-12-06,"['Horror', 'Thriller', 'Mystery', 'Drama', 'Fantasy']",15000000,4304157,6.979,1316,tt0460829
+1731,Helen,2009-11-26,['Drama'],8000000,34820,6.457,69,tt1012729
+1732,The Prisoner of Zenda,1979-08-17,"['Action', 'Adventure', 'Comedy']",10000000,15300000,5.738,40,tt0079753
+1734,The Mummy Returns,2001-05-04,"['Adventure', 'Action', 'Fantasy']",98000000,443280904,6.415,7924,tt0209163
+1735,The Mummy: Tomb of the Dragon Emperor,2008-07-01,"['Adventure', 'Action', 'Fantasy']",145000000,403449830,5.521,4946,tt0859163
+1736,Shoppen,2007-05-02,"['Comedy', 'Drama']",0,0,6.0,31,tt0805613
+1738,Next,2007-04-25,"['Action', 'Science Fiction', 'Thriller']",70000000,76066841,6.147,3398,tt0435705
+1739,Weißer Holunder,1957-08-29,"['Romance', 'Comedy', 'Music']",0,0,7.0,4,tt0051185
+1740,Naked,2002-09-02,"['Comedy', 'Drama']",0,5744968,5.42,44,tt0300237
+1770,Michael Collins,1996-10-25,"['War', 'Drama', 'Thriller', 'History']",25000000,16900000,6.869,535,tt0117039
+1771,Captain America: The First Avenger,2011-07-22,"['Action', 'Adventure', 'Science Fiction']",140000000,370569774,7.013,23286,tt0458339
+1772,City of Hope,1991-10-11,['Drama'],0,0,6.651,43,tt0101588
+1773,American Madness,1932-08-15,"['Drama', 'Crime']",0,0,6.898,49,tt0022626
+1774,The Big One,1997-09-06,['Documentary'],0,720074,6.707,88,tt0124295
+1775,Canadian Bacon,1995-06-08,['Comedy'],11000000,178104,5.745,269,tt0109370
+1776,Jesus Camp,2006-09-15,['Documentary'],0,1013596,7.011,392,tt0486358
+1777,Fahrenheit 9/11,2004-06-25,['Documentary'],6000000,222400000,7.084,1568,tt0361596
+1778,The Backyard,2002-03-08,['Documentary'],0,3200,7.333,12,tt0309326
+1779,Roger & Me,1989-09-01,"['Documentary', 'History', 'Comedy']",160000,6706368,7.097,326,tt0098213
+1781,An Inconvenient Truth,2006-05-24,['Documentary'],1000000,46243000,6.944,1007,tt0497116
+1782,Afterwards,2008-10-01,"['Drama', 'Mystery', 'Thriller']",15400000,0,5.512,147,tt0940580
+1783,To End All Wars,2001-09-02,"['Drama', 'War', 'Action']",14000000,0,6.406,191,tt0243609
+1785,May Fools,1990-01-24,"['Comedy', 'Drama']",0,1576702,6.899,99,tt0097884
+1786,Au Revoir les Enfants,1987-10-07,"['Drama', 'War']",3000000,4542825,7.527,754,tt0092593
+1787,Les Biches,1968-03-22,"['Drama', 'Romance']",0,0,6.056,98,tt0062728
+1788,Footloose,1984-02-17,"['Drama', 'Romance']",8200000,80035402,6.695,2278,tt0087277
+1789,The Gazebo,1959-12-18,"['Comedy', 'Crime']",0,0,6.936,39,tt0052837
+1790,Heaven with a Gun,1969-05-20,['Western'],0,0,5.481,26,tt0064409
+1791,The Piano Teacher,2001-09-05,"['Drama', 'Romance']",6200000,6766708,7.258,1346,tt0254686
+1792,Stuck on You,2003-12-10,['Comedy'],55000000,65784503,5.365,748,tt0338466
+1793,Max Dugan Returns,1983-03-25,"['Comedy', 'Drama', 'Family']",0,17613720,6.568,59,tt0085919
+1802,La Cérémonie,1995-08-30,"['Drama', 'Thriller']",0,10882920,7.3,416,tt0112769
+1803,Angel,1984-01-13,"['Action', 'Crime', 'Thriller', 'Horror']",3000000,0,6.034,131,tt0086896
+1807,Elephant,2003-09-20,"['Crime', 'Drama']",3000000,10000000,7.011,2175,tt0363589
+1808,Velvet Goldmine,1998-08-28,"['Drama', 'Music']",9000000,4300000,6.892,558,tt0120879
+1809,The Rules of Attraction,2002-10-11,"['Drama', 'Romance', 'Comedy']",4000000,11832822,6.17,637,tt0292644
+1810,Viva Zapata!,1952-02-07,"['History', 'Drama', 'Western']",0,0,6.841,251,tt0045296
+1811,Nowhere,1997-05-09,"['Comedy', 'Drama', 'Science Fiction']",0,194201,6.72,235,tt0119809
+1812,Trick,1999-07-23,"['Comedy', 'Romance']",450000,2049595,6.9,111,tt0162710
+1813,The Devil's Advocate,1997-10-17,"['Horror', 'Drama', 'Mystery']",57000000,153000000,7.5,7066,tt0118971
+1814,Schroeder's Wonderful World,2007-05-03,"['Comedy', 'Drama']",0,41848,5.667,3,tt0496566
+1815,The Big Sleep,1978-03-13,"['Crime', 'Mystery']",0,0,5.8,105,tt0077234
+1816,A Chorus Line,1985-12-10,"['Drama', 'Music']",25000000,14202899,6.226,206,tt0088915
+1817,Phone Booth,2003-01-06,"['Thriller', 'Crime']",13000000,97837138,6.879,4350,tt0183649
+1818,Shoot the Piano Player,1960-11-25,"['Drama', 'Thriller', 'Crime']",0,0,7.185,457,tt0054389
+1819,"You, Me and Dupree",2006-07-13,"['Comedy', 'Romance']",54000000,130628903,5.622,1481,tt0463034
+1824,50 First Dates,2004-02-13,"['Comedy', 'Romance']",75000000,196482882,6.9,7940,tt0343660
+1825,Over the Top,1987-02-13,"['Action', 'Drama']",25000000,16057580,6.471,1932,tt0093692
+1826,Russian Dolls,2005-06-15,"['Comedy', 'Drama', 'Romance']",13000000,23727301,6.641,750,tt0409184
+1829,The Story of Adèle H.,1975-10-08,"['Drama', 'History']",0,763000,6.917,242,tt0073114
+1830,Lord of War,2005-09-16,"['Crime', 'Drama', 'Thriller']",50000000,72600000,7.348,5562,tt0399295
+1831,The Next Best Thing,2000-03-03,"['Comedy', 'Drama', 'Romance']",25000000,24362772,5.24,206,tt0156841
+1832,Dogma,1999-10-04,"['Fantasy', 'Comedy', 'Adventure']",10000000,33535478,6.942,2977,tt0120655
+1833,Rent,2005-11-17,"['Drama', 'Romance']",40000000,31670620,6.823,608,tt0294870
+1834,"Murder, My Sweet",1944-12-14,"['Crime', 'Drama', 'Mystery', 'Thriller']",0,0,7.2,268,tt0037101
+1835,"Farewell, My Lovely",1975-08-08,"['Crime', 'Mystery', 'Thriller', 'Drama']",2500000,2000000,6.656,192,tt0072973
+1836,In My Skin,2002-12-04,"['Drama', 'Horror']",2000000,31046,6.0,155,tt0337961
+1837,The Secret,2000-11-01,"['Romance', 'Drama']",0,166721,7.241,133,tt0227458
+1838,We Shall Overcome,2006-03-24,['Drama'],0,0,7.182,43,tt0425235
+1839,Alias,1999-01-01,"['Drama', 'Horror']",0,0,6.55,10,tt0220967
+1840,The Brasher Doubloon,1947-02-06,"['Mystery', 'Crime']",0,0,6.0,39,tt0039217
+1841,Lady in the Lake,1946-12-19,"['Mystery', 'Thriller', 'Crime']",1026000,2657000,6.068,117,tt0039545
+1842,The Legend of Boggy Creek,1972-08-01,"['Adventure', 'Mystery', 'Horror', 'Thriller']",160000,22000000,5.0,78,tt0068837
+1843,Dig!,2004-05-14,"['Documentary', 'Music']",0,228828,6.782,71,tt0388888
+1844,Entrapment,1999-04-29,"['Romance', 'Drama', 'Mystery']",66000000,212404400,6.237,2311,tt0137494
+1845,2 Days in Paris,2007-02-09,"['Comedy', 'Romance']",0,19776159,6.256,438,tt0841044
+1846,Marlowe,1969-09-19,"['Crime', 'Mystery', 'Drama']",0,0,6.132,95,tt0064638
+1847,The Long Goodbye,1973-03-08,"['Mystery', 'Drama', 'Crime']",1700000,959000,7.413,814,tt0070334
+1848,Poodle Springs,1998-07-25,"['TV Movie', 'Crime', 'Mystery']",0,0,5.5,25,tt0145400
+1849,Nine Hours to Rama,1963-02-21,"['History', 'Drama', 'Crime', 'Thriller']",3610000,0,6.222,9,tt0057362
+1850,Man on the Moon,1999-12-22,"['Comedy', 'Drama', 'History']",82000000,47434430,7.217,2055,tt0125664
+1851,The Amazing Captain Nemo,1978-05-12,"['Science Fiction', 'Fantasy', 'Adventure', 'TV Movie']",0,0,5.5,19,tt0077156
+1852,World Trade Center,2006-08-09,"['Drama', 'History', 'Thriller']",65000000,163200000,6.124,1881,tt0469641
+1853,In the Realms of the Unreal,2004-01-15,['Documentary'],0,0,7.214,42,tt0390123
+1854,...But Johnny!,1973-05-02,['Comedy'],0,0,5.333,6,tt0069660
+1855,Le avventure e gli amori di Miguel Cervantes,1967-11-02,['Adventure'],0,0,7.7,8,tt0060227
+1857,The Transformers: The Movie,1986-08-08,"['Animation', 'Science Fiction', 'Action', 'Adventure', 'Family']",6000000,10024103,7.1,641,tt0092106
+1858,Transformers,2007-06-27,"['Adventure', 'Science Fiction', 'Action']",150000000,709709780,6.846,12565,tt0418279
+1859,Ninotchka,1939-11-16,"['Comedy', 'Romance']",1365000,2279000,7.524,452,tt0031725
+1860,And the Violins Stopped Playing,1988-01-01,"['War', 'Drama']",0,0,7.5,8,tt0096815
+1861,Take The Bridge,2008-01-25,['Drama'],0,0,6.125,4,tt0427925
+1862,Berlin Tunnel 21,1981-03-25,"['Drama', 'Thriller', 'TV Movie']",0,0,6.7,8,tt0082059
+1863,Sunflower,1970-03-14,"['Drama', 'War']",0,0,7.516,183,tt0065782
+1864,Hello-Goodbye,1970-07-12,"['Comedy', 'Romance']",0,0,4.962,13,tt0065828
+1865,Pirates of the Caribbean: On Stranger Tides,2011-05-15,"['Adventure', 'Action', 'Fantasy']",379000000,1046721266,6.574,15272,tt1298650
+1868,Ankle Bone,1968-12-19,"['Crime', 'Drama']",0,0,4.933,15,tt0062686
+1870,Fantomas Unleashed,1965-12-08,"['Comedy', 'Crime', 'Adventure', 'Fantasy']",0,0,6.737,585,tt0059168
+1871,Fantomas,1964-11-04,"['Comedy', 'Crime', 'Adventure']",0,0,6.824,836,tt0058089
+1872,Rise: Blood Hunter,2007-04-28,"['Action', 'Adventure', 'Horror', 'Thriller']",0,2850927,5.334,308,tt0389328
+1873,Beyond Rangoon,1995-08-25,"['History', 'Thriller', 'Drama']",23000000,14700000,6.5,88,tt0112495
+1874,Goodbye Bafana,2007-02-11,"['History', 'Drama']",30000000,0,6.855,165,tt0438859
+1875,Fantomas vs. Scotland Yard,1967-03-16,"['Comedy', 'Crime', 'Adventure', 'Fantasy']",0,0,6.715,586,tt0060400
+1876,The Penalty King,2006-11-07,['Comedy'],400000,0,6.667,3,tt0382222
+1877,Doctor Mordrid,1992-11-02,"['Fantasy', 'Action', 'Horror', 'Science Fiction', 'Thriller']",2000000,0,5.1,68,tt0104115
+1878,Fear and Loathing in Las Vegas,1998-05-22,"['Adventure', 'Drama', 'Comedy']",18500000,10700000,7.2,5195,tt0120669
+1879,Guess Who's Coming to Dinner,1967-12-11,"['Drama', 'Romance']",4000000,56666667,7.6,939,tt0061735
+1880,Red Dawn,1984-08-10,"['Thriller', 'War', 'Drama']",17000000,38400000,6.285,925,tt0087985
+1881,Les yeux dans les Bleus,1998-07-14,['Documentary'],0,0,7.478,46,tt0309093
+1882,The Men,1950-08-25,['Drama'],0,0,7.036,96,tt0042727
+1883,Malcolm X,1992-11-18,"['Drama', 'History']",34000000,48169908,7.551,2001,tt0104797
+1884,The Ewok Adventure,1984-12-21,"['Adventure', 'Family', 'Fantasy', 'Science Fiction', 'TV Movie']",3000000,0,5.8,434,tt0087225
+1885,The Karate Kid,1984-06-22,"['Action', 'Drama', 'Family']",8000000,91138075,7.23,4888,tt0087538
+1887,Marie Antoinette,2006-05-24,"['Drama', 'History']",40000000,60917189,6.69,3017,tt0422720
+1888,The Fortune Cookie,1966-10-19,['Comedy'],3705000,6800000,7.2,362,tt0060424
+1889,Make Your Bets Ladies,1965-04-05,"['Comedy', 'Thriller']",0,0,5.5,4,tt0059248
+1890,Children of a Lesser God,1986-09-13,"['Drama', 'Romance']",0,31853080,6.919,353,tt0090830
+1891,The Empire Strikes Back,1980-05-20,"['Adventure', 'Action', 'Science Fiction']",18000000,538400000,8.393,18891,tt0080684
+1892,Return of the Jedi,1983-05-25,"['Adventure', 'Action', 'Science Fiction']",32350000,572700000,7.912,17345,tt0086190
+1893,Star Wars: Episode I - The Phantom Menace,1999-05-19,"['Adventure', 'Action', 'Science Fiction']",115000000,1046515409,6.582,16245,tt0120915
+1894,Star Wars: Episode II - Attack of the Clones,2002-05-15,"['Adventure', 'Action', 'Science Fiction']",120000000,649398328,6.6,14721,tt0121765
+1895,Star Wars: Episode III - Revenge of the Sith,2005-05-17,"['Adventure', 'Action', 'Science Fiction']",113000000,850000000,7.475,15334,tt0121766
+1896,Salvador (Puig Antich),2006-05-23,"['Drama', 'History']",0,0,6.868,72,tt0445691
+1899,The Chinese Botanist's Daughters,2006-04-26,['Drama'],3910000,0,6.4,64,tt0425985
+1900,Traffic,2000-12-27,"['Thriller', 'Drama', 'Crime']",48000000,207515725,7.088,2510,tt0181865
+1901,In Good Company,2004-12-29,"['Comedy', 'Drama', 'Romance']",0,61314565,6.1,705,tt0385267
+1902,Open Your Eyes,1997-12-19,"['Drama', 'Thriller', 'Science Fiction']",2900000,370720,7.458,1250,tt0125659
+1903,Vanilla Sky,2001-12-14,"['Mystery', 'Romance', 'Science Fiction']",68000000,203388341,6.8,4854,tt0259711
+1904,Memoirs of a Geisha,2005-12-06,"['Drama', 'Romance', 'History']",85000000,162242962,7.637,3462,tt0397535
+1905,Die Bettwurst,1971-09-01,"['Romance', 'TV Movie']",14370,0,5.393,14,tt0065465
+1906,Solo Sunny,1980-01-18,"['Drama', 'Music']",0,0,6.2,40,tt0079924
+1907,The Beach,2000-02-03,"['Drama', 'Adventure', 'Romance', 'Thriller']",40000000,144056873,6.486,4828,tt0163978
+1908,Inherit the Wind,1960-07-07,['Drama'],2000000,2000000,7.655,491,tt0053946
+1909,Don Juan DeMarco,1994-10-12,"['Romance', 'Drama', 'Comedy']",25000000,68792531,6.75,825,tt0112883
+1910,SommerHundeSöhne,2005-09-08,"['Comedy', 'Drama']",1100000,0,5.667,12,tt0441795
+1911,The 13th Warrior,1999-08-13,"['Adventure', 'History', 'Action']",120000000,61698899,6.714,2145,tt0120657
+1912,Reclaim Your Brain,2007-09-11,"['Comedy', 'Drama']",2500000,0,6.685,100,tt0810868
+1913,The Sea Inside,2004-09-03,['Drama'],12806000,43731621,7.566,1050,tt0369702
+1914,FC Venus,2006-04-26,"['Comedy', 'Romance']",0,1631657,5.892,37,tt0487027
+1915,"Manta, Manta",1991-10-03,"['Comedy', 'Action']",0,0,5.773,172,tt0102397
+1917,Who Killed Bambi?,2003-12-24,['Thriller'],0,0,5.988,40,tt0326036
+1918,Or (My Treasure),2004-06-29,['Drama'],0,214585,6.58,25,tt0388311
+1919,Away from Her,2007-05-04,"['Drama', 'Romance']",3000000,9194283,7.04,249,tt0491747
+1920,Crime of Passion,1956-12-28,"['Drama', 'Crime', 'Thriller']",0,0,6.1,57,tt0050271
+1921,Sweet November,2001-02-16,"['Drama', 'Romance']",40000000,65754228,6.871,1494,tt0230838
+1922,Irina Palm,2007-02-13,['Drama'],4500000,10610835,6.918,184,tt0762110
+1923,Twin Peaks: Fire Walk with Me,1992-06-03,"['Drama', 'Mystery', 'Horror']",10000000,4237427,7.4,2365,tt0105665
+1924,Superman,1978-12-14,"['Science Fiction', 'Action', 'Adventure']",55000000,300478449,7.168,4440,tt0078346
+1925,Agnes and His Brothers,2004-10-13,"['Comedy', 'Drama']",0,1517732,6.153,36,tt0389738
+1926,September 11,2002-09-04,['Drama'],0,1266063,6.413,126,tt0328802
+1927,Hulk,2003-06-19,"['Science Fiction', 'Adventure', 'Action', 'Drama']",137000000,245360480,5.604,6476,tt0286716
+1930,The Amazing Spider-Man,2012-06-23,"['Action', 'Adventure', 'Science Fiction']",215000000,758725893,6.763,19145,tt0948470
+1931,Stomp the Yard,2007-05-16,"['Drama', 'Music']",13000000,75511123,7.168,560,tt0775539
+1933,The Others,2001-08-02,"['Horror', 'Mystery', 'Thriller']",17000000,210002906,7.618,7428,tt0230600
+1934,Shakespeare in Love,1998-12-11,"['Romance', 'History', 'Comedy', 'Drama']",25000000,289317794,6.823,3282,tt0138097
+1935,Me and My Sister,2004-11-21,"['Drama', 'Comedy']",4277280,10467048,5.638,76,tt0410639
+1936,River of No Return,1954-04-30,"['Adventure', 'Western']",2195000,3820291,6.702,495,tt0047422
+1937,Bonjour Tristesse,1958-01-15,"['Drama', 'Romance']",0,13200000,6.718,149,tt0051429
+1938,Angel Face,1953-01-02,"['Drama', 'Crime']",0,0,7.101,193,tt0044357
+1939,Laura,1944-10-11,"['Drama', 'Mystery']",1020000,2000000,7.631,944,tt0037008
+1940,Porgy and Bess,1959-06-24,"['Music', 'Drama', 'Romance']",7000000,3500000,6.3,27,tt0053182
+1941,Exodus,1960-12-15,"['Drama', 'War']",4000000,20000000,6.659,239,tt0053804
+1942,Bunny Lake Is Missing,1965-10-03,"['Mystery', 'Thriller']",0,0,7.241,224,tt0058997
+1943,Rosebud,1975-03-24,"['Action', 'Thriller']",0,0,5.105,19,tt0073637
+1944,The Door in the Floor,2004-07-18,['Drama'],7500000,6715067,6.103,234,tt0348593
+1945,Nell,1994-12-23,"['Drama', 'Thriller']",31000000,106683817,6.532,565,tt0110638
+1946,eXistenZ,1999-04-14,"['Action', 'Thriller', 'Science Fiction']",15000000,2856712,6.791,2287,tt0120907
+1947,An Unfinished Life,2005-09-09,['Drama'],30000000,18618284,6.823,724,tt0350261
+1948,Crank,2006-08-31,"['Action', 'Thriller', 'Crime']",12000000,42900000,6.673,4383,tt0479884
+1949,Zodiac,2007-03-02,"['Crime', 'Mystery', 'Thriller']",65000000,84785914,7.532,11935,tt0443706
+1950,Lucky You,2007-05-01,"['Drama', 'Romance']",55000000,8461686,5.7,293,tt0338216
+1951,Manderlay,2005-06-03,['Drama'],14200000,674918,6.914,417,tt0342735
+1954,The Butterfly Effect,2004-01-17,"['Science Fiction', 'Thriller']",13000000,96800000,7.579,8538,tt0289879
+1955,The Elephant Man,1980-10-09,"['Drama', 'History']",5000000,26000000,8.052,4063,tt0080678
+1956,Gerry,2002-09-20,"['Drama', 'Adventure', 'Mystery']",3500000,255000,6.098,367,tt0302674
+1957,Enough,2002-05-21,"['Drama', 'Thriller']",38000000,51800000,6.646,1270,tt0278435
+1958,8 Women,2002-02-06,"['Comedy', 'Thriller', 'Mystery']",8000000,42400000,6.898,1095,tt0283832
+1959,Swept from the Sea,1998-01-23,"['Drama', 'Romance']",0,0,6.404,78,tt0120257
+1961,My Name Is Bruce,2007-10-01,"['Comedy', 'Horror', 'Fantasy']",1500000,173066,5.799,378,tt0489235
+1962,Love in Thoughts,2004-02-12,"['Drama', 'History', 'Crime']",0,0,6.3,66,tt0325733
+1963,The Bow,2005-05-12,['Drama'],950000,2032404,6.889,230,tt0456470
+1964,A Friend of Mine,2006-10-05,['Drama'],0,0,6.663,80,tt0441762
+1965,A Perfect Murder,1998-06-05,"['Crime', 'Thriller', 'Drama']",60000000,128038368,6.551,1609,tt0120787
+1966,Alexander,2004-11-21,"['War', 'History', 'Action', 'Adventure', 'Drama', 'Romance']",155000000,167298192,5.961,3615,tt0346491
+1967,Ask the Dust,2006-02-02,"['Romance', 'Drama']",0,2500000,5.5,169,tt0384814
+1968,Fools Rush In,1997-02-14,"['Comedy', 'Drama', 'Romance']",20000000,42000000,6.5,625,tt0119141
+1969,Bandidas,2006-01-18,"['Action', 'Comedy', 'Western', 'Crime']",35000000,18381890,6.052,1200,tt0416496
+1970,The Grudge,2004-10-22,"['Horror', 'Mystery', 'Thriller']",10000000,183474602,5.944,3302,tt0391198
+1975,The Grudge 2,2006-10-12,"['Horror', 'Thriller']",20000000,39143839,5.599,1164,tt0433386
+1976,Jezebel,1938-03-26,"['Drama', 'Romance']",1250000,0,7.002,225,tt0030287
+1977,The Grudge 3,2009-05-12,"['Mystery', 'Horror', 'Thriller']",5000000,38610009,5.447,681,tt1053859
+1978,Stage Fright,1950-02-23,['Thriller'],1450000,1900000,6.82,378,tt0042994
+1979,Fantastic Four: Rise of the Silver Surfer,2007-06-13,"['Science Fiction', 'Adventure', 'Action']",130000000,301913131,5.636,8598,tt0486576
+1980,Bra Boys,2007-03-15,"['Documentary', 'Comedy']",1582036,0,4.75,14,tt0951318
+1984,1984,1956-03-06,"['Science Fiction', 'Drama']",0,0,6.493,147,tt0048918
+1985,The Constant Gardener,2005-08-31,"['Drama', 'Mystery', 'Thriller']",25000000,82468097,6.985,1776,tt0387131
+1986,Live and Become,2005-03-30,['Drama'],5650000,3691534,7.396,206,tt0388505
+1987,Benny's Video,1992-11-06,"['Crime', 'Drama']",0,0,6.9,404,tt0103793
+1988,A Mighty Heart,2007-06-22,"['Drama', 'Thriller', 'History']",16000000,18928871,6.388,358,tt0829459
+1989,My Blueberry Nights,2007-11-28,"['Drama', 'Romance']",10000000,21800000,6.407,869,tt0765120
+1990,Paranoid Park,2007-07-12,"['Drama', 'Crime']",3000000,4545747,6.513,623,tt0842929
+1991,Death Proof,2007-05-22,"['Action', 'Thriller']",25000000,31126421,6.839,5812,tt1028528
+1992,Planet Terror,2007-04-06,"['Horror', 'Action', 'Thriller']",23000000,11446172,6.692,3973,tt1077258
+1993,Golden Door,2006-09-22,"['History', 'Drama', 'Romance']",10000000,7228273,6.5,149,tt0465188
+1994,The Most Dangerous Game,1932-09-16,"['Thriller', 'Adventure', 'Horror', 'Action']",219869,443000,6.905,328,tt0023238
+1995,Lara Croft: Tomb Raider,2001-06-15,"['Adventure', 'Action', 'Fantasy']",115000000,274703340,5.915,6686,tt0146316
+1996,Lara Croft: Tomb Raider - The Cradle of Life,2003-07-21,"['Adventure', 'Action', 'Fantasy']",95000000,160099222,5.762,4633,tt0325703
+1997,Two Brothers,2004-04-07,"['Adventure', 'Drama', 'Family']",74500000,62172050,7.2,907,tt0338512
+1998,Holy Lola,2004-11-24,['Drama'],0,2854386,5.833,30,tt0384177
+1999,In the Bedroom,2001-11-23,"['Drama', 'Thriller']",1700000,44800000,6.93,421,tt0247425
+2000,"Aguirre, the Wrath of God",1972-12-29,"['History', 'Adventure', 'Drama']",370000,37041,7.445,1303,tt0068182
+2001,We Own the Night,2007-10-12,"['Drama', 'Crime', 'Thriller']",21000000,55033767,6.685,1571,tt0498399
+2002,The Last Mistress,2007-05-30,"['Drama', 'Romance']",6000000,1831577,5.796,76,tt0437526
+2003,Anatomy of Hell,2004-01-28,['Drama'],0,345000,4.8,158,tt0348529
+2004,Kebab Connection,2004-04-21,"['Comedy', 'Action', 'Romance']",0,0,6.6,76,tt0177882
+2005,Sister Act,1992-05-28,"['Music', 'Comedy']",31000000,231605150,6.836,3540,tt0105417
+2006,"Bell, Book and Candle",1958-12-25,"['Comedy', 'Fantasy', 'Romance']",0,0,6.561,263,tt0051406
+2007,Lorenzo's Oil,1992-12-30,['Drama'],30000000,7300000,7.106,586,tt0104756
+2008,The Promise,2005-12-15,"['Fantasy', 'Drama', 'Action', 'Thriller', 'Romance']",0,30995924,5.6,133,tt0417976
+2009,"4 Months, 3 Weeks and 2 Days",2007-08-24,['Drama'],852510,1185783,7.54,854,tt1032846
+2010,The Mourning Forest,2007-05-29,['Drama'],0,0,6.76,52,tt1016205
+2011,Persepolis,2007-06-27,"['Animation', 'Drama']",7300000,22783990,7.879,2250,tt0808417
+2012,Silent Light,2007-10-12,"['Drama', 'Romance']",0,0,6.9,130,tt0841925
+2013,The Diving Bell and the Butterfly,2007-05-23,"['Drama', 'History']",14000020,19777647,7.573,1319,tt0401383
+2014,The Edge of Heaven,2007-09-27,['Drama'],3800000,17804565,7.233,369,tt0880502
+2015,Secret Sunshine,2007-05-23,['Drama'],2900000,11581469,7.213,246,tt0817225
+2016,Days of Glory,2006-09-27,"['Drama', 'History', 'War']",14500000,22963701,6.659,416,tt0444182
+2017,No Good Deed,2002-06-28,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",12000000,1440653,5.4,223,tt0292610
+2018,The Wedding Planner,2001-01-26,"['Comedy', 'Romance']",35000000,94700000,5.928,1868,tt0209475
+2019,Hard Target,1993-04-27,"['Action', 'Thriller', 'Crime']",18000000,74189677,6.513,1394,tt0107076
+2020,The Bachelor,1999-11-05,"['Comedy', 'Romance']",51000000,36911617,5.145,334,tt0120596
+2021,Jack & Sarah,1995-06-02,"['Comedy', 'Drama', 'Romance']",0,218626,6.75,58,tt0113448
+2022,Mr. Deeds,2002-06-28,"['Comedy', 'Romance']",50000000,171269565,5.933,2605,tt0280590
+2023,Hidalgo,2004-02-04,"['Western', 'Adventure']",100000000,108103450,6.913,1401,tt0317648
+2024,The Patriot,2000-06-28,"['Drama', 'History', 'War', 'Action']",110000000,215294342,7.2,4499,tt0187393
+2025,A Few Days with Me,1988-08-14,"['Comedy', 'Drama']",0,335,5.898,49,tt0095943
+2026,Hostage,2005-03-09,"['Action', 'Thriller', 'Crime']",52000000,77944725,6.364,1823,tt0340163
+2028,Say Anything...,1989-04-14,"['Romance', 'Comedy', 'Drama']",16000000,20036737,7.002,1168,tt0098258
+2029,Tanguy,2001-11-21,['Comedy'],0,24272365,5.962,509,tt0274155
+2030,Confessions of Felix Krull,1957-04-24,"['Drama', 'Crime', 'Comedy', 'Adventure']",0,0,6.364,11,tt0050179
+2031,Resurrection,1958-10-21,['Drama'],0,0,8.0,2,tt0051382
+2032,Transit,2006-06-04,"['Comedy', 'Drama', 'War']",0,0,5.1,14,tt0416111
+2033,Infinity,1996-10-04,"['Drama', 'Romance']",0,195170,6.6,19,tt0116635
+2034,Training Day,2001-10-05,"['Action', 'Crime', 'Drama']",45000000,104900000,7.531,6859,tt0139654
+2035,Touch and Die,1991-01-01,"['TV Movie', 'Thriller']",0,0,5.0,4,tt0103108
+2036,Avalanche Express,1979-09-27,"['Action', 'Thriller']",0,0,4.765,49,tt0078812
+2037,Aphrodite,1982-07-07,['Drama'],0,0,4.636,22,tt0083572
+2038,Iron Eagle III,1992-01-09,"['Action', 'Thriller']",0,0,4.11,73,tt0103617
+2039,Moonstruck,1987-12-16,"['Comedy', 'Drama', 'Romance']",15000000,122100000,6.842,1146,tt0093565
+2042,Savior,1998-06-01,"['History', 'Drama', 'War']",10000000,0,7.111,194,tt0120070
+2043,Along Came a Spider,2001-04-06,"['Crime', 'Mystery', 'Thriller', 'Action']",60000000,105200000,6.35,2131,tt0164334
+2044,The Lake House,2006-06-16,"['Romance', 'Drama', 'Fantasy']",40000000,114830111,7.038,3078,tt0410297
+2045,Unforgettable,1996-02-23,"['Thriller', 'Mystery', 'Science Fiction']",18000000,0,5.626,123,tt0118040
+2046,The Gift,2000-12-22,"['Horror', 'Drama', 'Thriller', 'Mystery']",10000000,12008642,6.489,1449,tt0219699
+2047,The Real McCoy,1993-09-10,"['Action', 'Crime', 'Drama', 'Thriller']",24000000,6484246,5.698,273,tt0107927
+2048,"I, Robot",2004-07-15,"['Action', 'Science Fiction']",120000000,347234916,6.972,13029,tt0343818
+2049,How to Cook Your Life,2007-05-10,['Documentary'],0,0,5.6,8,tt0943512
+2054,Mr. Holland's Opus,1995-12-29,"['Drama', 'Music']",31000000,106300000,6.956,471,tt0113862
+2055,Open Range,2003-08-11,['Western'],22000000,68296293,7.22,1264,tt0316356
+2056,The Station Agent,2003-12-05,"['Drama', 'Comedy']",500000,8701337,7.34,839,tt0340377
+2057,Original Sin,2001-05-08,"['Thriller', 'Drama', 'Mystery', 'Romance', 'History']",42000000,35402320,6.136,926,tt0218922
+2058,Addicted to Love,1997-05-23,"['Comedy', 'Romance']",0,34673095,6.178,457,tt0118556
+2059,National Treasure,2004-11-19,"['Adventure', 'Action', 'Mystery']",100000000,347500000,6.653,7078,tt0368891
+2060,Spoiled Children,1977-09-07,"['Drama', 'Comedy']",0,0,6.2,20,tt0075933
+2061,Pusher,1996-08-30,"['Action', 'Crime', 'Drama']",965000,0,7.022,920,tt0117407
+2062,Ratatouille,2007-06-28,"['Animation', 'Comedy', 'Family', 'Fantasy']",150000000,623726000,7.847,18981,tt0382932
+2064,While You Were Sleeping,1995-04-21,"['Romance', 'Comedy']",17000000,182100000,7.032,2066,tt0114924
+2065,Could This Be Love?,2007-02-08,"['Drama', 'Comedy', 'Romance']",5621000,6699197,6.188,32,tt0488565
+2067,Mission to Mars,2000-03-10,"['Science Fiction', 'Adventure', 'Mystery']",90000000,110983407,6.038,1653,tt0183523
+2069,The Whole Nine Yards,2000-02-18,"['Comedy', 'Crime']",41300000,106371651,6.469,2142,tt0190138
+2070,Love in 4 Easy Lessons,1976-12-03,['Comedy'],0,0,3.7,9,tt0075255
+2071,Shattered,1991-10-11,"['Mystery', 'Thriller']",22000000,11500000,6.158,238,tt0102900
+2072,Cyberjack,1995-09-19,['Science Fiction'],2000000,0,5.368,19,tt0112763
+2074,Flirting with Disaster,1996-03-22,['Comedy'],7000000,14702438,6.176,276,tt0116324
+2075,Prizzi's Honor,1985-06-14,"['Romance', 'Comedy', 'Crime']",0,26657534,6.42,445,tt0089841
+2076,Swindle,2002-04-01,"['Action', 'Crime', 'Drama', 'Thriller']",0,0,4.632,19,tt0190938
+2077,The Rink,1916-12-04,['Comedy'],0,0,6.597,154,tt0007264
+2078,The Pawnshop,1916-10-02,['Comedy'],0,0,6.66,122,tt0007162
+2079,The Count,1916-09-04,['Comedy'],0,0,6.258,88,tt0006548
+2080,X-Men Origins: Wolverine,2009-04-28,"['Adventure', 'Action', 'Science Fiction']",150000000,373062864,6.297,11570,tt0458525
+2082,Halloween,2007-08-31,['Horror'],15000000,80460948,6.241,2637,tt0373883
+2083,Guitar Men: The Darkest Secret of Rock 'n Roll,2007-06-28,"['Comedy', 'Fantasy', 'Thriller', 'Action']",270000,0,6.2,3,tt1328622
+2084,Birthday Girl,2001-09-06,"['Comedy', 'Crime', 'Thriller']",13000000,16171098,5.894,450,tt0188453
+2085,Romeo Must Die,2000-03-22,"['Action', 'Crime', 'Thriller']",25000000,91036760,6.301,1411,tt0165929
+2086,Nick of Time,1995-11-22,"['Thriller', 'Crime', 'Action']",33000000,8175346,6.237,836,tt0113972
+2087,The Getaway,1994-02-11,"['Action', 'Adventure', 'Crime', 'Thriller']",37000000,30057974,5.8,403,tt0109890
+2088,Romeo Is Bleeding,1993-09-13,"['Crime', 'Drama', 'Romance']",11500000,3275585,6.201,224,tt0107983
+2089,Cutaway,2000-08-26,"['Action', 'Thriller', 'TV Movie']",9000000,37,5.012,42,tt0211792
+2090,The Heist,2000-04-17,"['Action', 'Thriller']",2800000,0,5.4,4,tt0211407
+2091,The Badge,2002-09-07,"['Crime', 'Thriller']",6000000,0,5.679,56,tt0286493
+2092,Wish You Were Here,2005-02-01,"['Thriller', 'Drama']",0,0,4.136,11,tt0418329
+2093,Amsterdamned,1988-02-11,"['Action', 'Horror', 'Thriller']",98003,0,6.384,211,tt0094651
+2094,Roustabout,1964-11-11,"['Music', 'Romance']",0,6600000,6.0,59,tt0058534
+2095,Desert Saints,2002-03-10,"['Action', 'Romance', 'Thriller']",0,0,5.8,60,tt0167116
+2096,Tycus,1999-06-22,"['Action', 'Science Fiction']",0,0,4.529,17,tt0156146
+2097,"Gappa, the Triphibian Monster",1967-04-22,"['Horror', 'Science Fiction', 'Action']",0,0,5.6,52,tt0061550
+2098,Viva Las Vegas,1964-02-08,"['Music', 'Romance', 'Comedy']",1000000,9400000,6.12,163,tt0058725
+2099,Raw Deal,1986-06-04,"['Action', 'Crime', 'Thriller']",8500000,16209459,5.854,949,tt0091828
+2100,The Last Castle,2001-10-19,"['Action', 'Drama', 'Thriller']",72000000,27642707,7.163,1491,tt0272020
+2101,The Brother from Space,1988-06-21,['Science Fiction'],0,0,4.0,5,tt0380368
+2102,Solar Crisis,1992-08-06,['Science Fiction'],55000000,0,4.395,38,tt0100649
+2103,Solaris,2002-11-27,"['Drama', 'Science Fiction', 'Mystery']",47000000,30002758,5.956,1524,tt0307479
+2104,Requiem,2001-12-28,"['Action', 'Horror', 'Thriller']",0,307070,5.438,16,tt0286917
+2105,American Pie,1999-07-09,"['Comedy', 'Romance']",11000000,235483004,6.618,8575,tt0163651
+2106,Hot Enough for June,1964-03-10,"['Comedy', 'Thriller']",0,0,5.7,25,tt0059282
+2107,L.A. Story,1991-02-08,"['Comedy', 'Fantasy', 'Romance']",0,28900000,6.508,398,tt0102250
+2108,The Breakfast Club,1985-02-15,"['Comedy', 'Drama']",1000000,51530442,7.715,8744,tt0088847
+2109,Rush Hour,1998-09-18,"['Action', 'Comedy', 'Crime']",33000000,244721064,7.085,5929,tt0120812
+2110,Wasabi,2001-10-31,"['Drama', 'Action', 'Comedy']",15300000,10366360,6.657,1483,tt0281364
+2111,Balzac and the Little Chinese Seamstress,2002-05-16,"['Drama', 'Romance']",0,0,6.8,77,tt0291032
+2112,Payback,1999-02-05,"['Action', 'Drama', 'Crime', 'Thriller']",90000000,161626121,6.836,2092,tt0120784
+2114,Final Fantasy: The Spirits Within,2001-07-02,"['Action', 'Adventure', 'Animation', 'Fantasy', 'Science Fiction']",137000000,85131830,6.2,1664,tt0173840
+2115,Light of Day,1987-02-06,"['Music', 'Drama']",0,10489617,5.5,60,tt0093415
+2116,Out of Time,2003-10-03,"['Thriller', 'Crime', 'Drama']",50000000,55495563,6.378,1361,tt0313443
+2117,Sophie Scholl: The Final Days,2005-02-13,"['Drama', 'History']",0,0,7.121,475,tt0426578
+2118,L.A. Confidential,1997-09-19,"['Crime', 'Mystery', 'Thriller']",35000000,126216940,7.808,5751,tt0119488
+2119,Days of Thunder,1990-06-27,"['Adventure', 'Action', 'Drama']",60000000,157920733,6.4,1803,tt0099371
+2120,Cedric,2006-01-01,"['Animation', 'Family']",0,0,0.0,0,
+2122,The Whole Ten Yards,2004-04-07,"['Comedy', 'Thriller', 'Crime']",40000000,26155781,5.74,1065,tt0327247
+2123,"Me, Myself & Irene",2000-06-22,['Comedy'],51000000,149270999,6.631,4398,tt0183505
+2124,Color of Night,1994-08-19,"['Romance', 'Mystery', 'Thriller']",40000000,19700000,5.762,652,tt0109456
+2125,Wedlock,1991-05-10,"['Action', 'Science Fiction', 'Thriller', 'Crime', 'TV Movie']",6000000,0,5.78,200,tt0103239
+2126,"I Love You, Baby",2000-04-20,"['Drama', 'Comedy', 'Thriller', 'Romance']",0,0,9.0,1,tt0240601
+2131,Hostile Waters,1997-10-18,"['TV Movie', 'Drama', 'Thriller', 'War']",0,0,6.064,39,tt0119320
+2132,Totally Blonde,2001-12-21,['Comedy'],0,0,3.5,13,tt0200954
+2133,The Perfect Storm,2000-06-29,"['Drama', 'Adventure', 'Action', 'Thriller']",130000000,328718434,6.49,2669,tt0177971
+2134,The Time Machine,1960-05-25,"['Thriller', 'Adventure', 'Fantasy', 'Science Fiction', 'Romance']",750000,5902,7.371,953,tt0054387
+2135,The Time Machine,2002-03-04,"['Science Fiction', 'Adventure', 'Action']",80000000,123729176,6.359,2675,tt0268695
+2136,Hangin' Out,1983-02-03,['Comedy'],0,0,4.1,20,tt0083999
+2137,The Storm Riders,1998-07-18,"['Action', 'Adventure', 'Fantasy']",0,0,6.5,111,tt0165499
+2138,Berlin Snuff - Straßen der Gewalt,1995-01-01,"['Comedy', 'Horror']",0,0,7.0,4,tt0298754
+2139,Cleopatra Jones and the Casino of Gold,1975-07-11,"['Action', 'Adventure', 'Drama']",0,0,5.793,29,tt0072791
+2140,Kiss of the Dragon,2001-07-06,"['Action', 'Crime', 'Thriller']",25000000,64437847,6.948,1415,tt0271027
+2141,James Dean,2001-08-04,"['Drama', 'TV Movie']",0,0,6.782,117,tt0240628
+2142,Cop Land,1997-08-15,"['Crime', 'Drama', 'Thriller']",15000000,63706632,6.812,1874,tt0118887
+2143,Carla's Song,1996-10-30,"['War', 'Drama', 'Romance']",0,25845,6.784,97,tt0115832
+2144,One Night at McCool's,2001-04-19,"['Comedy', 'Crime']",18000000,13500000,5.858,392,tt0203755
+2145,Feel the Motion,1985-07-05,"['Comedy', 'Music']",0,0,3.364,11,tt0089162
+2147,The Flickering Flame,1996-12-18,['Documentary'],0,0,6.3,7,tt0130700
+2148,The Cotton Club,1984-12-14,"['Crime', 'Drama']",58000000,25928721,6.472,454,tt0087089
+2149,Body of Evidence,1993-01-15,"['Drama', 'Thriller', 'Romance']",30000000,38000000,4.977,352,tt0106453
+2151,Man with the Screaming Brain,2005-04-03,"['Comedy', 'Horror', 'Science Fiction']",0,0,5.1,100,tt0365478
+2152,Dixie Chicks: Shut Up and Sing,2006-10-27,"['Music', 'Documentary']",0,0,6.677,48,tt0811136
+2153,The Driver,1978-06-08,"['Crime', 'Thriller', 'Action']",4000000,4900000,7.2,541,tt0077474
+2154,The Dark Side of the Moon,1990-05-30,"['Horror', 'Action', 'Thriller', 'Science Fiction']",1200000,0,5.163,101,tt0099364
+2155,Reindeer Games,2000-02-25,"['Thriller', 'Action', 'Crime']",42000000,32168970,5.699,752,tt0184858
+2156,Net Games,2003-02-02,"['Thriller', 'Romance']",0,0,4.917,12,tt0330203
+2157,Lost in Space,1998-04-03,"['Science Fiction', 'Adventure', 'Action']",80000000,136159423,5.446,1380,tt0120738
+2160,Voyage to the Bottom of the Sea,1961-07-12,"['Adventure', 'Drama', 'Science Fiction']",1580000,7000000,5.673,147,tt0055608
+2161,Fantastic Voyage,1966-08-24,"['Science Fiction', 'Adventure']",5115000,12000000,6.668,515,tt0060397
+2162,Chill Factor,1999-09-01,"['Action', 'Comedy', 'Thriller']",34000000,11263966,4.905,153,tt0163579
+2163,Breakdown,1997-05-02,"['Crime', 'Mystery', 'Thriller', 'Action']",36000000,50159144,6.945,1160,tt0118771
+2164,Stargate,1994-10-28,"['Action', 'Adventure', 'Science Fiction']",55000000,196567262,7.034,3984,tt0111282
+2165,Liberty Stands Still,2002-01-18,"['Thriller', 'Action', 'Drama']",11000000,595214,5.331,168,tt0280870
+2166,The Revengers' Comedies,1998-06-09,"['Comedy', 'Crime', 'Romance']",0,0,5.8,23,tt0120013
+2168,2:37,2006-05-26,['Drama'],850000,0,6.6,153,tt0472582
+2169,Manta - Der Film,1991-09-18,['Comedy'],0,0,4.844,45,tt0102396
+2170,Une glace avec deux boules...,1982-03-17,"['Comedy', 'Drama']",0,0,3.667,6,tt0083143
+2171,Wet Hot American Summer,2001-07-27,['Comedy'],5000000,295206,6.2,923,tt0243655
+2172,Pathfinder,1987-09-03,['Adventure'],0,0,6.9,89,tt0093668
+2173,Big Wind on Campus,2000-01-01,['Comedy'],0,0,3.4,9,tt0245724
+2175,Wirklich alles?!,2002-11-30,['Documentary'],0,0,7.0,1,tt0433263
+2176,The Glass House,2001-09-14,"['Drama', 'Thriller']",30000000,23619609,5.975,1138,tt0221218
+2177,Falco - L.I.V.E Donauinsel + Stadthalle Wien,2004-01-01,['Music'],0,0,9.0,2,tt2296759
+2178,The Battle of The Alamo,1996-03-09,"['Documentary', 'History']",0,0,8.0,1,tt0115635
+2179,Tenacious D in The Pick of Destiny,2006-11-22,"['Comedy', 'Music', 'Fantasy', 'Adventure']",22000000,13405595,6.802,1862,tt0365830
+2180,Heartbreak Hotel,2006-03-24,"['Drama', 'Comedy']",0,0,4.952,21,tt0785002
+2181,The Small White Mouse,1964-05-14,"['Music', 'Comedy', 'Romance']",0,0,6.8,5,tt0058134
+2182,Attack of the Killer Tomatoes!,1978-10-04,"['Comedy', 'Horror', 'Science Fiction']",100420,567000,5.114,352,tt0080391
+2183,The Hindenburg Disaster: Probable Cause,2001-01-01,['Documentary'],0,0,9.0,1,tt0418729
+2184,Maus und Katz,1993-12-10,['Thriller'],0,0,7.0,1,tt0107532
+2185,Big Trouble,2002-04-05,"['Comedy', 'Crime']",40000000,8493890,6.1,341,tt0246464
+2186,Within the Woods,1979-05-31,['Horror'],1600,0,6.006,86,tt0078503
+2187,Alles nur Tarnung,1996-11-14,['Comedy'],0,0,4.0,5,tt0115516
+2188,The Corrs: Live at Lansdowne Road,2000-11-10,['Music'],0,0,7.7,12,tt0267391
+2189,Tomboy,1985-01-25,"['Comedy', 'Romance']",0,14100000,4.914,58,tt0090184
+2191,Stranded,2001-09-24,['Science Fiction'],4000000,0,5.48,51,tt0283015
+2192,Temple of the White Elephant,1964-03-28,"['Action', 'Adventure', 'Drama']",0,0,7.333,3,tt0128447
+2193,My Tutor,1983-03-04,"['Comedy', 'Drama', 'Romance']",0,22587834,5.118,85,tt0085980
+2194,No Regrets,2001-11-15,"['Comedy', 'Drama']",0,0,6.174,23,tt0290015
+2195,Beste Zeit,2007-07-26,"['Drama', 'Action', 'Thriller']",0,0,6.059,17,tt0991269
+2196,Death at a Funeral,2007-08-17,"['Comedy', 'Drama']",9000000,46789413,6.917,1983,tt0795368
+2197,Sounds of Sand,2007-05-02,"['Drama', 'War']",5000000,0,6.1,13,tt0889222
+2198,"Himmel, Scheich und Wolkenbruch",1976-01-26,['Comedy'],0,0,4.667,3,tt0079296
+2199,My Mom's a Werewolf,1989-05-11,"['Comedy', 'Horror']",750000,0,4.8,42,tt0097938
+2200,Jacob the Liar,1974-12-22,"['History', 'Drama', 'Comedy']",0,0,6.9,29,tt0071688
+2202,Lassie Come Home,1943-12-01,"['Family', 'Adventure', 'Drama']",666000,4517000,6.729,144,tt0036098
+2203,Für ein paar Filme mehr...,2017-01-01,['Documentary'],0,0,4.0,1,
+2204,Alice in the Cities,1974-05-17,['Drama'],0,0,7.709,363,tt0069687
+2205,Real Men Don't Eat Gummi Bears,1989-08-17,['Comedy'],0,0,9.0,1,tt0097464
+2206,Richy Guitar,1985-06-07,"['Music', 'Comedy']",0,0,6.472,18,tt0090381
+2207,16 Blocks,2006-03-01,"['Action', 'Adventure', 'Crime', 'Thriller']",55000000,65664721,6.461,2175,tt0450232
+2209,Bird Waking Weather,1976-02-13,"['Drama', 'Comedy', 'Romance']",0,0,4.5,10,tt0074645
+2210,Earth Girls Are Easy,1988-09-08,"['Comedy', 'Science Fiction', 'Romance']",10000000,3916303,5.6,419,tt0097257
+2211,Aimée & Jaguar,1999-02-11,"['Drama', 'History', 'Romance']",0,927107,6.8,115,tt0130444
+2212,Nightwatch,1997-01-31,"['Drama', 'Horror', 'Thriller']",10000000,1179002,6.085,451,tt0119791
+2213,Zerschmetterte Träume - Eine Liebe in Fesseln,1998-09-09,"['Drama', 'TV Movie']",0,0,4.667,3,tt0168267
+2214,Heimliche Ehen,1956-01-27,"['Drama', 'Comedy']",0,0,9.0,1,tt0049298
+2215,Star-Crossed Lovers,1962-06-08,"['Drama', 'Romance', 'War']",0,0,8.833,3,tt0056161
+2216,Five Cartridges,1960-11-03,"['War', 'Drama']",0,0,7.6,9,tt0053846
+2217,...And Your Love Too,1962-09-27,"['Drama', 'Romance']",0,0,6.0,6,tt0055716
+2218,Die Hosen des Ritters von Bredow,1973-08-30,['Drama'],0,0,4.0,3,tt0070192
+2219,Her Third,1972-03-16,"['Romance', 'Drama']",0,0,6.583,6,tt0068508
+2220,Janus Head,1972-09-01,['Drama'],0,0,9.0,1,tt0068758
+2221,Eddie Cochran & Friends: C'mon Everybody,2004-01-01,"['Music', 'Documentary']",0,0,6.5,1,
+2222,Christine,1963-10-13,['Drama'],0,0,8.0,1,tt0056933
+2223,Preludio 11,1964-03-19,"['War', 'Drama']",0,0,7.0,1,tt0058490
+2225,Alaska - Foxes,1964-07-24,"['Action', 'Drama']",0,0,7.4,4,tt0057830
+2226,A Lord of Alexander Square,1967-03-03,['Comedy'],0,0,6.625,4,tt0061919
+2227,Naked Among Wolves,1963-04-10,"['Drama', 'War']",0,0,6.3,25,tt0056271
+2228,Carnations in Aspic,1976-09-24,['Comedy'],0,0,7.0,7,tt0074957
+2229,The Flight,1977-10-12,"['Drama', 'Thriller']",0,0,8.333,3,tt0076040
+2231,Kit & Co.,1974-12-15,"['Adventure', 'Western', 'Comedy']",0,0,6.0,4,tt0071720
+2232,The Legend of Paul and Paula,1973-03-14,"['Drama', 'Romance']",0,0,5.844,32,tt0070299
+2233,Love's Confusion,1959-11-13,"['Drama', 'Comedy', 'Romance']",0,0,4.667,6,tt0053415
+2234,At a French Fireside,1962-09-17,['Drama'],0,0,8.75,2,tt0055748
+2235,"Earth, Wind & Fire",2004-01-01,['Music'],0,0,4.2,2,
+2236,Bob Dylan - TV Live & Rare 1963 - 1975,2004-01-01,['Documentary'],0,0,10.0,1,
+2237,Sunday Drivers,1963-08-30,"['Drama', 'Comedy']",0,0,6.5,4,tt0057519
+2238,Juke Box Revival - Rock'n'Roll Vol. 2,2003-01-01,['Documentary'],0,0,0.0,0,
+2239,Hallam Foe,2007-08-30,"['Drama', 'Comedy', 'Thriller']",8000000,2149799,6.672,192,tt0466816
+2240,Unterm Birnbaum,1973-11-16,"['Crime', 'Drama']",0,0,6.25,4,tt0072345
+2241,Sonnenallee,1999-10-07,['Comedy'],0,12891924,6.708,132,tt0177242
+2242,Julia lebt,1963-09-30,['Drama'],0,0,8.0,1,tt0057211
+2244,The Beach Boys - California Surfin,2004-01-01,['Documentary'],0,0,0.0,0,tt2514600
+2245,"Green Lights, Blue Skies",2002-01-01,"['Documentary', 'Music']",0,0,0.0,0,
+2246,Malice,1993-09-29,['Thriller'],20000000,46405336,6.289,541,tt0107497
+2247,The Shadows - The Final Tour,2004-11-29,"['Music', 'Documentary']",0,0,7.3,3,tt2979874
+2249,Right Under My Eyes,2002-06-23,"['Drama', 'TV Movie']",0,0,4.5,4,tt0328494
+2250,The Adventures of Werner Holt,1965-02-04,"['Drama', 'History']",0,0,7.8,18,tt0057816
+2251,Unfaithful,2002-05-10,"['Thriller', 'Drama', 'Romance']",50000000,119137784,6.724,1800,tt0250797
+2252,Eastern Promises,2007-09-14,"['Thriller', 'Crime', 'Mystery']",51500000,56106607,7.344,3854,tt0765443
+2253,Valkyrie,2008-12-25,"['Drama', 'Thriller', 'War']",75000000,200276000,6.961,4219,tt0985699
+2254,Entlassen auf Bewährung,1965-06-17,"['Drama', 'Crime']",0,0,7.75,2,tt0233654
+2255,Chasing Amy,1997-04-04,"['Comedy', 'Drama', 'Romance']",250000,12021272,6.7,1604,tt0118842
+2257,Chronicle of a Murder,1965-02-25,['Drama'],0,0,7.0,2,tt0059033
+2258,Utz,1992-03-15,['Drama'],0,0,5.833,6,tt0105712
+2259,The House of the Spirits,1993-10-21,"['Romance', 'Drama']",25000000,6265311,6.941,753,tt0107151
+2260,Capturing the Friedmans,2003-05-30,"['Documentary', 'Crime']",0,4076990,7.149,375,tt0342172
+2261,Wattstax,1973-02-04,"['Music', 'Documentary']",0,0,6.81,21,tt0070902
+2262,Veronika Voss,1982-05-13,['Drama'],0,0,7.204,162,tt0084654
+2263,Music Box,1989-12-22,"['Drama', 'Thriller', 'Mystery']",0,6263883,7.1,188,tt0100211
+2264,Lola,1981-08-20,['Drama'],0,0,6.937,143,tt0082671
+2265,Momo,1986-07-16,"['Comedy', 'Fantasy', 'Science Fiction', 'Family', 'Mystery']",0,0,7.0,79,tt0091537
+2266,Paris Je T'aime,2006-06-21,"['Drama', 'Romance']",13000000,17489601,6.768,865,tt0401711
+2267,The Last Mimzy,2007-02-09,"['Drama', 'Science Fiction', 'Adventure']",0,27308918,6.34,503,tt0768212
+2268,The Golden Compass,2007-12-04,"['Adventure', 'Fantasy']",180000000,372234864,6.086,4942,tt0385752
+2269,Day Watch,2006-01-01,"['Fantasy', 'Action', 'Adventure', 'Horror', 'Thriller']",4200000,42918532,6.113,620,tt0409904
+2270,Stardust,2007-08-10,"['Adventure', 'Fantasy', 'Romance', 'Family']",70000000,137500000,7.292,4591,tt0486655
+2274,The Seeker: The Dark Is Rising,2007-10-05,"['Adventure', 'Drama', 'Fantasy', 'Family', 'Thriller']",45000000,31852619,5.443,458,tt0484562
+2275,The General's Daughter,1999-06-18,"['Thriller', 'Mystery', 'Crime']",60000000,149700000,6.413,1079,tt0144214
+2277,Bicentennial Man,1999-12-17,"['Drama', 'Romance', 'Science Fiction']",100000000,87423861,7.273,4070,tt0182789
+2280,Big,1988-06-03,"['Fantasy', 'Drama', 'Comedy']",18000000,151927281,7.196,4185,tt0094737
+2282,A Nos Amours,1983-11-16,"['Drama', 'Romance']",0,0,6.83,227,tt0086650
+2284,Mr. Magorium's Wonder Emporium,2007-11-16,"['Family', 'Fantasy', 'Comedy']",65000000,69500000,6.257,1344,tt0457419
+2285,A Love in Germany,1983-10-26,['Drama'],0,0,5.5,8,tt0085843
+2286,Crusade in Jeans,2006-11-15,"['Adventure', 'Fantasy', 'History']",0,0,5.9,67,tt0381111
+2287,Rize,2005-01-15,['Documentary'],0,0,6.81,50,tt0436724
+2288,Closer,2004-12-03,"['Drama', 'Romance']",27000000,115505027,6.829,3824,tt0376541
+2289,Cold Mountain,2003-12-24,"['War', 'History', 'Adventure', 'Romance']",79000000,173013509,6.935,2031,tt0159365
+2290,Jakob the Liar,1999-09-16,"['Comedy', 'Drama', 'History']",45000000,4956701,6.674,419,tt0120716
+2291,Jacob's Ladder,1990-11-02,"['Drama', 'Mystery', 'Horror']",25000000,26118851,7.357,2001,tt0099871
+2292,Clerks,1994-10-19,['Comedy'],27575,3158707,7.368,2871,tt0109445
+2293,Mallrats,1995-10-20,"['Romance', 'Comedy']",6000000,2122561,6.76,1445,tt0113749
+2294,Jay and Silent Bob Strike Back,2001-08-22,"['Comedy', 'Adventure', 'Action']",22000000,33788161,6.4,1805,tt0261392
+2295,Clerks II,2006-07-21,['Comedy'],5000000,26986174,6.9,1547,tt0424345
+2296,Kein Mann für Camp Detrick,1970-10-03,['Crime'],0,0,7.0,1,tt0385806
+2297,Kafka,1991-11-15,"['Drama', 'Mystery', 'Science Fiction']",11000000,0,6.4,163,tt0102181
+2298,The Film Narrator,1993-11-25,['Drama'],0,0,9.0,1,tt0107324
+2299,The Light,2004-11-03,['Drama'],0,5584679,6.8,45,tt0388562
+2300,Space Jam,1996-11-15,"['Family', 'Animation', 'Science Fiction', 'Fantasy', 'Comedy']",80000000,250200000,6.808,6581,tt0117705
+2302,Avalon,1990-10-05,['Drama'],0,0,6.66,94,tt0099073
+2303,Conversation with the Beast,1997-02-20,['Comedy'],0,0,10.0,1,tt0115943
+2304,The Wounded Man,1983-05-25,"['Romance', 'Crime', 'Thriller']",0,0,5.692,39,tt0084085
+2306,God Does Not Believe in Us Anymore,1982-05-16,"['Drama', 'War']",0,0,7.2,8,tt0083554
+2307,A Pyromaniac's Love Story,1995-04-28,"['Comedy', 'Drama', 'Romance']",0,345972,5.294,17,tt0114210
+2309,Inkheart,2008-12-11,"['Adventure', 'Family', 'Fantasy']",60000000,62803180,6.307,2331,tt0494238
+2310,Beowulf,2007-11-05,"['Adventure', 'Action', 'Animation']",160000000,195735876,5.924,3166,tt0442933
+2311,Hurenglück,1991-01-27,"['Thriller', 'TV Movie']",0,0,9.0,2,tt0099813
+2312,In the Name of the King: A Dungeon Siege Tale,2007-11-29,"['Adventure', 'Fantasy']",60000000,13097915,4.783,962,tt0460780
+2313,Prime,2005-09-21,"['Comedy', 'Drama', 'Romance']",22000000,67900000,6.0,857,tt0387514
+2314,The Long Run,2001-05-04,['Drama'],0,0,6.722,9,tt0218411
+2316,The Story of an African Farm,2004-10-08,"['Drama', 'Family']",0,0,5.75,6,tt0388441
+2318,Pilgrim,2000-03-31,"['Thriller', 'Action', 'Mystery']",0,0,6.05,20,tt0203053
+2319,The Dust Factory,2004-10-15,"['Fantasy', 'Family', 'Adventure']",0,12,5.8,48,tt0329030
+2320,Executive Decision,1996-03-15,"['Action', 'Adventure', 'Drama', 'Thriller']",55000000,121969216,6.35,1072,tt0116253
+2321,Married to the Mob,1988-08-19,"['Comedy', 'Crime', 'Romance']",10000000,21486757,6.006,343,tt0095593
+2322,Sneakers,1992-09-09,"['Comedy', 'Crime', 'Drama']",23000000,105232691,6.915,1102,tt0105435
+2323,Field of Dreams,1989-04-21,"['Drama', 'Fantasy']",15000000,84431625,7.118,1759,tt0097351
+2324,Local Color,2008-11-14,['Drama'],3250000,32788,6.219,32,tt0472126
+2325,Leningrad,2009-01-01,"['War', 'Drama']",0,0,5.475,101,tt0432314
+2330,Taxi,1998-04-08,"['Action', 'Comedy', 'Crime', 'Adventure']",8700000,44218015,6.731,2819,tt0152930
+2331,Jesus,1999-12-05,"['Adventure', 'Drama', 'TV Movie']",17000000,0,6.786,84,tt0199232
+2332,Taxi 2,2000-03-25,"['Action', 'Comedy', 'Adventure', 'Crime']",10500000,64433844,6.279,1958,tt0183869
+2333,Buddenbrooks,2008-12-25,"['Drama', 'History']",0,12627016,5.824,35,tt1058601
+2334,Taxi 3,2003-01-29,"['Action', 'Comedy', 'Crime']",14500000,64497208,5.763,1712,tt0295721
+2335,Taxi 4,2007-02-10,"['Action', 'Comedy', 'Crime']",17500000,65114802,5.614,1380,tt0804540
+2336,King Kongs Faust,1985-04-26,['Comedy'],0,0,8.0,1,tt0087560
+2337,Va Banque,1986-01-28,"['Comedy', 'Crime']",0,0,9.0,1,tt0092145
+2346,Still Life,2006-11-16,"['Drama', 'Romance']",0,0,7.22,175,tt0859765
+2348,Holy Matrimony,1994-04-08,"['Comedy', 'Crime']",0,616938,5.3,62,tt0110044
+2349,Erbsen auf halb 6,2004-03-04,"['Drama', 'Comedy', 'Romance']",0,0,6.578,32,tt0366416
+2355,Reign Over Me,2007-03-22,['Drama'],20000000,22222308,7.219,1252,tt0490204
+2357,10 Items or Less,2006-09-11,"['Comedy', 'Drama']",400,1,6.23,287,tt0499603
+2358,Oh Marbella!,2003-01-01,"['Comedy', 'Crime']",0,0,3.875,8,tt0338300
+2359,Sicko,2007-05-18,"['Documentary', 'Comedy', 'Drama']",9000000,24538513,7.357,812,tt0386032
+2360,Saving Grace,2000-01-24,"['Crime', 'Comedy']",10000000,26330482,6.53,461,tt0195234
+2361,The Lark Farm,2007-05-04,"['History', 'Drama']",10000000,1600000,6.2,26,tt0854672
+2362,Westworld,1973-08-15,"['Adventure', 'Science Fiction', 'Western']",1200000,10000000,6.777,1525,tt0070909
+2363,The Cousins,1959-03-11,['Drama'],0,0,6.845,103,tt0052708
+2370,Topaz,1969-12-17,"['Drama', 'Thriller']",4000000,6000000,6.006,434,tt0065112
+2371,Teheran '43,1981-07-08,"['Action', 'Drama', 'Thriller']",0,0,6.4,33,tt0081609
+2373,My Uncle Benjamin,1969-11-28,"['Comedy', 'History']",0,0,6.1,51,tt0122617
+2374,Le radeau de la Méduse,1998-07-15,"['Drama', 'History']",0,0,6.75,4,tt0164839
+2375,Prêtres interdits,1973-11-22,"['Drama', 'History']",0,0,6.0,3,tt0174143
+2376,Le Pion,1978-10-25,"['Comedy', 'Drama']",0,0,6.5,16,tt0078086
+2377,Bonsoir,1994-01-19,['Comedy'],0,0,4.143,7,tt0165113
+2378,The Island of Thirty Coffins,1979-09-21,"['Adventure', 'Drama', 'Thriller']",0,0,5.8,10,tt0169519
+2379,The Witness,1969-01-01,['Drama'],0,0,9.0,1,tt0176254
+2380,Home Sweet Home,1974-01-09,"['Comedy', 'Drama']",0,0,5.667,9,tt0173904
+2381,Lenin in Paris,1981-11-01,"['History', 'Drama']",0,0,4.423,13,tt0081043
+2382,Hearth Fires,1972-05-24,['Drama'],0,0,6.3,15,tt0173821
+2383,The Bear,1988-10-21,"['Adventure', 'Drama', 'Family']",25000000,138241022,7.127,541,tt0095800
+2385,Agent trouble,1987-08-19,['Thriller'],0,0,5.569,29,tt0092521
+2386,The Collector of Brains,1981-01-07,"['TV Movie', 'Horror', 'Science Fiction']",0,0,6.667,6,tt0190718
+2387,Tableau d'honneur,1992-08-26,['Comedy'],0,0,10.0,1,tt0105514
+2388,À San Remo,2004-04-15,['Drama'],0,0,7.0,1,tt0367266
+2389,Sous le signe de Monte-Cristo,1968-12-11,"['Adventure', 'History']",0,0,6.8,13,tt0174227
+2390,L'Homme qui n'était pas là,1987-05-06,['Thriller'],0,0,10.0,1,tt0173907
+2391,A Captain's Honor,1982-12-29,"['Drama', 'History', 'War']",0,0,6.1,12,tt0084089
+2392,Special Killers,1973-08-11,['Crime'],0,0,5.0,4,tt0071309
+2393,The Boat on the Grass,1971-04-16,"['Comedy', 'Drama']",0,0,5.125,8,tt0065454
+2394,Without Family,2000-12-12,"['Drama', 'Family']",0,0,6.917,24,tt0261964
+2395,Asterix at the Olympic Games,2008-01-25,"['Fantasy', 'Adventure', 'Comedy', 'Family']",97250400,131856927,5.2,2135,tt0463872
+2397,Fallout,1998-01-01,"['Action', 'Science Fiction']",0,0,4.8,5,tt0150500
+2398,Les Anneaux de Bicêtre,1977-01-05,['Drama'],0,0,10.0,2,tt0175445
+2399,Hitchhiker: Windows,1990-11-23,['Thriller'],0,0,0.0,0,tt0602217
+2400,Eugénie Grandet,1994-02-12,"['Drama', 'TV Movie', 'History']",0,0,4.4,5,tt0173806
+2401,Cape of the North,1976-04-03,"['Drama', 'Romance']",0,0,9.0,1,tt0173960
+2402,Scénarios sur la drogue,2000-05-16,"['Drama', 'TV Movie']",0,0,6.0,4,tt0240886
+2405,Joseph,1995-04-10,"['Adventure', 'Drama', 'TV Movie']",10000000,0,8.262,235,tt0113483
+2410,A Spiral of Mist,1977-09-08,['Drama'],0,0,4.556,9,tt0147530
+2411,Rendezvous in Paris,1982-12-11,['Drama'],0,0,7.333,3,tt0176090
+2412,Célimène et le cardinal,2006-08-22,['Comedy'],0,0,0.0,0,tt0932662
+2414,Evil Pleasure,1975-01-01,['Crime'],0,0,3.667,3,tt0174003
+2415,La Passion de Camille et Lucile Desmoulins,1978-01-01,"['Drama', 'History']",0,0,9.0,1,tt0176007
+2416,André Chénier and the Young Captive,1978-01-25,"['History', 'TV Movie']",0,0,8.0,1,tt0358355
+2417,Une petite fille dans les tournesols,1984-12-05,"['Drama', 'TV Movie', 'Crime', 'Mystery', 'Thriller']",0,0,7.0,1,tt0174311
+2428,The Greatest Story Ever Told,1965-04-09,"['Drama', 'History']",20000000,15500000,6.387,222,tt0059245
+2429,Trop c'est trop,1975-06-05,['Drama'],0,0,6.25,4,tt0072323
+2430,The Choice,1976-01-10,['Drama'],0,0,9.0,1,tt0181384
+2431,Lise and Laura,1982-03-26,"['Drama', 'History', 'TV Movie']",0,0,9.0,1,tt0173986
+2433,The Young Girls of Rochefort,1967-03-08,"['Romance', 'Comedy', 'Drama']",0,0,7.664,675,tt0062873
+2435,Solo mía,2001-10-31,"['Drama', 'Thriller', 'Romance']",0,0,5.478,23,tt0303120
+2436,Double Dragon,1994-11-04,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Science Fiction']",3500000,2341309,4.58,400,tt0106761
+2437,Le bahut va craquer,1981-05-06,['Comedy'],0,0,4.2,5,tt0155522
+2438,The Country Girl,1954-12-15,['Drama'],0,0,7.026,96,tt0046874
+2440,Joint Security Area,2000-09-09,"['Drama', 'Thriller', 'Mystery']",12500000,20300000,7.8,882,tt0260991
+2441,Cows,1992-02-26,"['Drama', 'Mystery', 'Romance', 'War']",0,0,6.5,73,tt0103186
+2442,The Final Cut,1995-11-05,['Action'],0,551281,5.9,23,tt0113063
+2443,The Spider Woman,1943-12-10,"['Mystery', 'Crime', 'Thriller']",0,0,6.991,107,tt0037303
+2444,The Red Squirrel,1993-04-21,"['Drama', 'Comedy']",0,0,6.474,96,tt0106305
+2447,The Nativity Story,2006-11-30,['Drama'],35000000,46400000,6.9,264,tt0762121
+2448,Le Bonheur des autres,1990-10-30,['Comedy'],0,0,8.0,1,tt0312496
+2449,Porté disparu,1995-07-06,"['Drama', 'Thriller']",0,0,9.0,1,tt0193426
+2452,Mamie Rose,1976-02-18,['Comedy'],0,0,6.0,2,tt0174004
+2453,Harley Davidson and the Marlboro Man,1991-08-23,"['Action', 'Thriller']",23000000,7434726,6.29,510,tt0102005
+2454,The Chronicles of Narnia: Prince Caspian,2008-05-15,"['Adventure', 'Family', 'Fantasy']",225000000,419665568,6.638,6934,tt0499448
+2455,Confidentially Yours,1983-08-10,"['Comedy', 'Crime', 'Mystery']",0,0,7.07,228,tt0086551
+2456,La Mandragore,1972-11-09,['Comedy'],0,0,8.0,1,tt0219164
+2457,Children of Paradise,1945-03-15,"['Drama', 'Romance']",0,1457,8.047,471,tt0037674
+2459,Pardon Mon Affaire,1976-09-22,"['Comedy', 'Romance']",0,0,6.954,229,tt0076852
+2460,Earth,1996-05-20,"['Drama', 'Romance']",0,0,6.945,55,tt0117909
+2462,Hibernatus,1969-09-10,"['Comedy', 'Science Fiction']",0,0,6.702,528,tt0064425
+2463,Running Out of Time,1999-09-23,"['Drama', 'Action', 'Thriller', 'Crime']",225000,1866462,7.327,173,tt0216165
+2464,Firetrap,2001-03-16,"['Action', 'Crime', 'Thriller']",0,0,5.125,24,tt0243907
+2469,Tie Me Up! Tie Me Down!,1990-01-22,"['Comedy', 'Romance', 'Drama']",0,3125224,6.8,726,tt0101026
+2470,Belle Époque,1992-12-04,"['Comedy', 'Drama', 'Romance']",0,0,6.678,214,tt0103791
+2486,Eragon,2006-12-14,"['Fantasy', 'Action', 'Adventure', 'Family']",100000000,250425512,5.141,3527,tt0449010
+2487,Lady Snowblood,1973-12-01,"['Action', 'Crime', 'Drama']",0,0,7.518,440,tt0158714
+2493,The Princess Bride,1987-09-25,"['Adventure', 'Fantasy', 'Family']",16000000,30900000,7.7,5301,tt0093779
+2501,The Bourne Identity,2002-06-14,"['Action', 'Mystery', 'Thriller']",60000000,214034224,7.5,10408,tt0258463
+2502,The Bourne Supremacy,2004-07-23,"['Action', 'Drama', 'Thriller']",75000000,288500217,7.335,8426,tt0372183
+2503,The Bourne Ultimatum,2007-08-03,"['Action', 'Drama', 'Mystery', 'Thriller']",70000000,442824138,7.444,8616,tt0440963
+2516,Our Mother's House,1967-09-14,"['Drama', 'Thriller']",800000,0,7.212,52,tt0062089
+2517,Nobody Knows,2004-08-07,['Drama'],0,0,8.014,684,tt0408664
+2525,The Bible: In the Beginning...,1966-09-28,"['Adventure', 'History', 'Drama']",16500000,34900000,7.335,303,tt0060164
+2526,Moses the Lawgiver,1976-03-26,['History'],6000000,0,5.727,11,tt0072547
+2527,This Man Must Die,1969-09-04,"['Thriller', 'Drama', 'Crime']",0,0,7.335,194,tt0064861
+2528,Madame Bovary,1991-03-03,['Drama'],0,1942423,6.247,152,tt0102368
+2536,The Tender Age,1968-06-03,['Drama'],0,0,8.0,2,tt0062642
+2537,The Basque Ball: Skin Against Stone,2003-10-03,"['Documentary', 'History']",0,0,6.5,23,tt0382898
+2538,"Hi, Are You Alone?",1995-10-28,['Comedy'],0,0,5.283,30,tt0113312
+2539,Spanglish,2004-12-17,"['Drama', 'Comedy', 'Romance']",80000000,55470154,6.055,1425,tt0371246
+2546,Zazie dans le Métro,1960-10-28,"['Comedy', 'Fantasy']",0,0,6.555,192,tt0054494
+2565,Joe Versus the Volcano,1990-03-09,"['Comedy', 'Romance', 'Adventure']",25000000,39400000,5.817,604,tt0099892
+2566,Time to Leave,2005-11-24,['Drama'],0,0,6.5,133,tt0417189
+2567,The Aviator,2004-12-17,['Drama'],110000000,213719942,7.2,6017,tt0338751
+2574,The Lovers,1958-11-05,"['Romance', 'Drama']",0,0,6.6,140,tt0052556
+2575,The Tailor of Panama,2001-02-11,"['Drama', 'Thriller']",21000000,28000000,6.002,569,tt0236784
+2576,The Diary of Anne Frank,1959-03-18,"['Drama', 'History']",3000000,0,7.188,381,tt0052738
+2577,Code 46,2003-09-02,"['Drama', 'Science Fiction', 'Thriller']",7500000,0,6.155,413,tt0345061
+2587,"Brother Sun, Sister Moon",1972-03-03,"['Drama', 'History']",3000000,0,7.049,143,tt0069824
+2588,Chaotic Ana,2007-08-24,"['Comedy', 'Drama']",6500000,0,6.02,75,tt0456340
+2593,The Fire Within,1963-10-15,['Drama'],0,0,7.6,251,tt0057058
+2594,Monsieur Batignole,2002-03-06,"['Comedy', 'Drama']",0,0,6.982,251,tt0291400
+2604,Born on the Fourth of July,1989-12-20,"['Drama', 'War']",14000000,161001698,7.004,1950,tt0096969
+2605,Short Circuit,1986-05-09,"['Science Fiction', 'Comedy', 'Family']",10000000,40697761,6.652,1684,tt0091949
+2608,Maid to Order,1987-07-10,"['Comedy', 'Fantasy']",0,9868521,5.516,63,tt0093476
+2609,"Planes, Trains and Automobiles",1987-11-26,['Comedy'],15000000,49500000,7.254,2321,tt0093748
+2610,Shopgirl,2005-10-21,"['Comedy', 'Drama', 'Romance']",10284523,11588205,5.767,288,tt0338427
+2611,Only the Lonely,1991-05-24,"['Comedy', 'Romance']",0,25092802,6.2,203,tt0102598
+2612,Mr. Destiny,1990-10-12,"['Fantasy', 'Comedy', 'Science Fiction', 'Romance']",20000000,15379253,6.29,236,tt0100201
+2613,Prelude to a Kiss,1992-07-10,"['Drama', 'Comedy', 'Romance']",0,22697691,5.622,127,tt0105165
+2614,Innerspace,1987-07-01,"['Action', 'Comedy', 'Science Fiction']",27000000,25900000,6.824,1464,tt0093260
+2616,Uncle Buck,1989-08-16,"['Comedy', 'Drama', 'Family']",15000000,79300000,6.819,1411,tt0098554
+2617,The Great Outdoors,1988-06-17,['Comedy'],24000000,43455230,6.447,642,tt0095253
+2619,Splash,1984-03-09,"['Comedy', 'Romance', 'Fantasy']",8000000,69800000,6.263,1539,tt0088161
+2620,Armed and Dangerous,1986-08-15,"['Action', 'Comedy', 'Crime']",12000000,15945534,5.672,221,tt0090660
+2621,Return to Me,2000-04-07,"['Romance', 'Comedy']",24000000,36600000,6.679,489,tt0122459
+2623,An Officer and a Gentleman,1982-07-28,"['Drama', 'Romance']",7500000,129795554,7.026,1238,tt0084434
+2625,Mr. Jones,1993-10-08,"['Drama', 'Romance']",0,8000000,5.791,182,tt0107611
+2636,The Specialist,1994-10-07,"['Action', 'Thriller']",45000000,170362582,5.95,1508,tt0111255
+2637,The Mothman Prophecies,2002-01-25,"['Drama', 'Horror', 'Mystery']",32000000,55305279,6.229,1319,tt0265349
+2639,Deconstructing Harry,1997-12-12,"['Comedy', 'Drama']",20000000,10686841,7.246,1073,tt0118954
+2640,Heathers,1989-03-31,"['Comedy', 'Crime']",3000000,1166207,7.3,1952,tt0097493
+2642,Two Weeks Notice,2002-12-19,"['Romance', 'Comedy']",60000000,199043242,6.365,2285,tt0313737
+2644,Aces Go Places,1982-01-16,"['Action', 'Comedy']",0,0,6.5,92,tt0084955
+2645,Aces Go Places II,1983-02-06,"['Action', 'Comedy']",0,0,6.3,62,tt0086646
+2646,Aces Go Places III: Our Man from Bond Street,1984-01-25,"['Action', 'Comedy']",0,0,5.7,47,tt0088457
+2647,Aces Go Places IV: You Never Die Twice,1986-01-30,"['Action', 'Comedy']",0,0,5.6,43,tt0092268
+2648,Aces Go Places V: The Terracotta Hit,1989-01-28,"['Action', 'Comedy', 'Crime']",0,2552034,5.4,32,tt0098681
+2649,The Game,1997-09-12,"['Drama', 'Thriller', 'Mystery']",50000000,109423648,7.577,7605,tt0119174
+2652,Hard Candy,2006-04-14,"['Drama', 'Thriller']",950000,7000000,6.805,2871,tt0424136
+2654,In the Mouth of Madness,1995-02-03,"['Horror', 'Mystery', 'Drama', 'Thriller', 'Fantasy']",8000000,8946600,7.2,2010,tt0113409
+2655,What Lies Beneath,2000-07-21,"['Drama', 'Horror', 'Mystery', 'Thriller']",100000000,291420351,6.437,2092,tt0161081
+2657,Pleasantville,1998-09-17,"['Fantasy', 'Comedy', 'Drama']",60000000,49800000,7.27,1967,tt0120789
+2661,Batman,1966-07-30,"['Action', 'Comedy', 'Crime']",1377800,3900000,6.373,1099,tt0060153
+2662,House of 1000 Corpses,2003-04-11,['Horror'],7000000,17949758,6.196,1836,tt0251736
+2665,Airplane II: The Sequel,1982-12-10,['Comedy'],15000000,27150534,6.078,1314,tt0083530
+2666,Dark City,1998-02-27,"['Mystery', 'Science Fiction']",27000000,27200000,7.332,3352,tt0118929
+2667,The Blair Witch Project,1999-07-14,"['Horror', 'Mystery']",60000,248639099,6.4,5674,tt0185937
+2668,Sleepy Hollow,1999-11-19,"['Fantasy', 'Thriller', 'Mystery', 'Horror']",100000000,206071526,7.195,7600,tt0162661
+2669,The Bounty,1984-05-04,"['Action', 'Drama', 'History']",25000000,8613462,6.757,670,tt0086993
+2671,Ring,1998-01-31,"['Horror', 'Thriller']",1200000,19400000,7.103,1746,tt0178868
+2672,Il y a longtemps que je t'aime,1974-07-24,"['Comedy', 'Drama']",0,0,9.0,1,tt0174771
+2674,Volpone,1978-12-08,['Comedy'],0,0,7.0,1,tt0176298
+2675,Signs,2002-08-02,"['Thriller', 'Science Fiction', 'Horror']",72000000,408200000,6.732,6571,tt0286106
+2687,Memoirs of an Invisible Man,1992-02-28,"['Science Fiction', 'Comedy', 'Romance', 'Thriller']",40000000,14358033,5.905,679,tt0104850
+2690,Irma la Douce,1963-01-30,"['Romance', 'Comedy']",5000000,25200000,7.384,493,tt0057187
+2692,The Red Elvis,2007-02-13,['Documentary'],0,0,7.2,4,tt0949770
+2694,Tuya's Marriage,2006-09-21,"['Drama', 'Romance']",0,0,6.8,40,tt0949564
+2696,Gucha!,2006-11-14,"['Comedy', 'Drama']",0,0,7.0,8,tt0906014
+2698,Evan Almighty,2007-06-09,"['Fantasy', 'Comedy', 'Family']",175000000,174440724,5.59,4671,tt0413099
+2700,Esther,1999-03-29,"['Adventure', 'Drama', 'TV Movie']",0,0,6.813,40,tt0168331
+2701,Abraham,1993-12-12,"['Adventure', 'Drama', 'TV Movie']",10000000,0,7.125,56,tt0109036
+2702,Earth and Ashes,2004-05-13,['Drama'],0,0,5.9,11,tt0420715
+2703,Genesis: The Creation and the Flood,1994-09-16,"['Adventure', 'Drama', 'Fantasy', 'History', 'TV Movie']",10000000,0,6.406,32,tt0109884
+2707,Saint Paul,2000-12-03,"['Adventure', 'Drama', 'TV Movie']",25000000,0,6.889,36,tt0270621
+2712,Jacob,1994-12-04,"['Adventure', 'Drama', 'TV Movie']",10000000,0,6.787,61,tt0110175
+2718,Number One,1973-05-28,['Crime'],0,0,7.833,3,tt0174077
+2721,Z,1969-02-26,"['Thriller', 'Crime', 'Drama']",0,83305,7.805,653,tt0065234
+2722,The Other Side of the Bed,2002-04-27,"['Drama', 'Romance']",0,0,6.0,120,tt0301524
+2728,Postal,2007-10-18,"['Comedy', 'Action', 'Thriller']",15000000,146741,4.653,406,tt0486640
+2731,Indochine,1992-04-15,"['Drama', 'Romance']",0,29600000,6.992,242,tt0104507
+2732,Nemesis,2010-10-27,"['Drama', 'Science Fiction', 'Thriller']",0,0,4.2,2,tt0800353
+2734,David,1997-03-23,"['Adventure', 'Drama', 'TV Movie']",15000000,0,6.619,67,tt0118933
+2735,Monsieur seul,1974-08-12,['Crime'],0,0,9.0,1,tt0174934
+2740,Dark Side of the Moon,2002-10-16,['Documentary'],0,0,7.073,48,tt0344160
+2742,Naked Lunch,1991-12-27,"['Crime', 'Drama']",16000000,2641357,6.996,1259,tt0102511
+2747,"fl 19,99",1998-10-08,"['Comedy', 'Drama']",0,0,7.0,1,tt0126911
+2748,Journey to Italy,1954-09-08,"['Drama', 'Romance']",0,0,7.241,346,tt0046511
+2749,15 Minutes,2001-03-01,"['Action', 'Crime', 'Thriller']",60000000,56359980,5.921,840,tt0179626
+2750,24 Hour Party People,2002-02-13,"['Comedy', 'Drama', 'Music']",0,2802899,6.975,538,tt0274309
+2751,3 Misses,1998-11-18,"['Animation', 'Comedy']",0,0,6.125,8,tt0239206
+2752,40 Days and 40 Nights,2002-03-01,"['Comedy', 'Romance']",17000000,95146283,5.47,1265,tt0243736
+2753,The Assault,1986-02-06,"['War', 'Drama', 'Thriller']",0,512400,6.848,46,tt0090576
+2754,Abel,1986-02-27,"['Comedy', 'Drama']",0,0,6.444,45,tt0090579
+2755,About Schmidt,2002-12-12,"['Drama', 'Comedy']",30000000,105834556,6.866,1413,tt0257360
+2756,The Abyss,1989-08-09,"['Adventure', 'Thriller', 'Science Fiction']",43000000,90000098,7.359,3609,tt0096754
+2757,Adaptation.,2002-12-06,"['Comedy', 'Crime', 'Drama']",19000000,32800000,7.328,2890,tt0268126
+2758,Addams Family Values,1993-11-19,"['Comedy', 'Family', 'Fantasy']",47000000,48919043,6.988,3420,tt0106220
+2759,"The Adventures of Priscilla, Queen of the Desert",1994-08-10,"['Drama', 'Comedy']",2000000,29700000,7.3,961,tt0109045
+2760,The Lodger: A Story of the London Fog,1927-02-14,"['Crime', 'Thriller', 'Mystery']",14670,83568,7.162,357,tt0017075
+2761,Secret Agent,1936-05-11,"['Thriller', 'Mystery', 'Romance']",0,0,6.088,176,tt0028231
+2762,Young and Innocent,1937-02-17,"['Thriller', 'Romance', 'Mystery']",0,0,6.55,261,tt0029811
+2764,All Stars,1997-05-01,"['Drama', 'Comedy']",0,0,6.75,32,tt0118588
+2767,The Lovers on the Bridge,1991-10-16,"['Drama', 'Romance']",28000000,0,7.419,395,tt0101318
+2768,American Gigolo,1980-02-01,"['Crime', 'Drama', 'Mystery']",5000000,52700000,6.187,748,tt0080365
+2769,An American in Paris,1951-09-26,"['Music', 'Romance', 'Comedy']",5635000,6981000,6.999,674,tt0043278
+2770,American Pie 2,2001-08-10,"['Comedy', 'Romance']",30000000,287553595,6.27,5467,tt0252866
+2771,American Splendor,2003-08-15,"['Comedy', 'Drama']",2000000,6003587,7.147,563,tt0305206
+2772,Florida - Der Sonnenstaat,2005-01-01,['Documentary'],0,0,0.0,0,
+2773,Ägypten - Nil und Pyramiden,2005-01-01,['Documentary'],0,0,0.0,0,
+2774,Nationalparks der USA,2005-01-01,['Documentary'],0,0,0.0,0,
+2775,Karibik Träume,2005-01-01,['Documentary'],0,0,0.0,0,
+2776,Die Inseln Hawaii,2005-01-01,['Documentary'],0,0,0.0,0,
+2777,Birdcage Inn,1998-10-31,['Drama'],0,0,6.414,70,tt0190268
+2778,Clifford,1994-04-01,['Comedy'],19000000,7411659,5.096,120,tt0109447
+2779,The Curse of the Jade Scorpion,2001-08-24,"['Comedy', 'Crime', 'Romance']",33000000,18914307,6.609,852,tt0256524
+2784,A Mad Idea,1932-05-12,['Comedy'],0,0,7.0,2,tt0023600
+2786,Pierrot le Fou,1965-11-05,"['Drama', 'Romance', 'Crime']",300000,0,7.3,968,tt0059592
+2787,Pitch Black,2000-02-18,"['Thriller', 'Science Fiction', 'Action']",23000000,53187659,6.873,4970,tt0134847
+2788,Reality Bites,1994-02-18,"['Drama', 'Romance', 'Comedy']",11500000,33351557,6.5,818,tt0110950
+2789,The Chronicles of Riddick,2004-06-11,"['Action', 'Science Fiction']",105000000,115772733,6.562,4654,tt0296572
+2790,Below the Earth's Surface,2008-06-02,"['Action', 'Thriller']",0,0,5.5,21,tt1232001
+2791,The Chronicles of Riddick: Dark Fury,2004-06-15,"['Animation', 'Action', 'Science Fiction', 'Thriller']",0,0,6.063,360,tt0407658
+2792,The Testament of Cornelius Gulden,1932-11-03,['Comedy'],0,0,6.667,3,tt0130309
+2793,Voglia di Volare,1984-12-02,['Adventure'],0,0,7.0,1,tt0175405
+2796,A Midsummer Night's Dream,1969-12-25,['Comedy'],0,0,10.0,2,tt0176164
+2797,Nous ne l'avons pas assez aimée,1980-11-18,['Drama'],0,0,9.0,1,tt0175971
+2798,Oscar,1967-10-11,['Comedy'],0,0,7.3,549,tt0062083
+2800,Rumor Has It...,2005-12-22,"['Comedy', 'Romance']",70000000,88900000,5.685,1281,tt0398375
+2802,De Arm Van Jezus,2003-01-24,"['Drama', 'History']",0,0,8.0,1,tt0352178
+2804,De IJzeren Hond,2004-01-01,[],0,0,0.0,0,
+2805,Tears of the Black Tiger,2000-09-29,"['Romance', 'Comedy', 'Action', 'Western']",0,0,6.5,43,tt0269217
+2807,Jongens van de Landbouwschool,2007-01-01,['Documentary'],0,0,0.0,0,
+2813,Violette Nozière,1978-05-24,"['Crime', 'Drama', 'Thriller']",0,0,6.7,89,tt0078467
+2814,"Saturday, Sunday and Monday",1990-10-12,['Comedy'],0,0,7.4,27,tt0098244
+2815,Les Oiseaux de la lune,1974-04-28,['Comedy'],0,0,9.0,1,tt0175987
+2817,Same Old Song,1997-11-12,"['Drama', 'Comedy', 'Romance']",0,0,7.028,160,tt0119828
+2819,Groupe Flag: Vrai ou faux,2005-09-23,['Crime'],0,0,0.0,0,tt0593207
+2820,Deed Poll,2004-12-05,['Thriller'],4500,0,2.6,7,tt0451035
+2821,Glastage,2007-04-21,['Drama'],0,0,2.0,2,tt1319566
+2824,Die Mondvögel,1963-04-02,['Comedy'],0,0,10.0,1,tt0057319
+2830,My Boss's Daughter,2003-08-21,"['Comedy', 'Romance']",14000000,0,5.056,744,tt0270980
+2832,Identity,2003-04-25,"['Mystery', 'Thriller']",28000000,90259536,7.179,4550,tt0309698
+2837,Fou comme François,1979-01-10,"['Comedy', 'Drama']",0,0,5.5,2,tt0174654
+2840,La Grotte aux loups,1980-08-29,"['Crime', 'TV Movie', 'Drama', 'Mystery']",0,0,9.0,1,tt0175688
+2841,A Very Long Engagement,2004-10-27,"['Drama', 'Romance', 'War']",47000000,0,7.324,1371,tt0344510
+2844,Riot at the Rite,2005-10-18,"['Drama', 'History']",0,0,8.0,2,tt0473080
+2845,La silla,2006-08-02,['Drama'],0,0,10.0,1,tt0468869
+2846,Zwischen Flieder wandern und singen,2003-01-01,['Drama'],0,0,10.0,1,tt0448183
+2847,Scherzo,2002-12-01,['Drama'],0,0,0.0,0,
+2848,Coda,2004-02-02,['Drama'],0,0,4.0,3,tt0411236
+2849,Prélude,2004-12-05,['Drama'],0,0,0.0,0,
+2851,Pulsar,2005-10-09,['Drama'],0,0,0.0,0,
+2852,Stuart Dee,2005-10-09,['Comedy'],0,0,2.5,1,tt2363395
+2854,Before The Concert,2007-01-01,['Music'],0,0,0.0,0,
+2855,The Man with the Objective Lens,1961-10-05,"['Comedy', 'Science Fiction']",0,0,5.5,6,tt0055137
+2856,Half Past Ten,2008-12-01,['Drama'],8000,0,3.3,3,tt1533792
+2857,Der Mann im Keller,2008-06-02,"['Comedy', 'Thriller']",0,0,0.0,0,tt1236474
+2858,Blues,2009-01-01,['Drama'],0,0,0.0,0,tt2585880
+2859,Forever Never Anywhere,2007-03-09,['Comedy'],0,0,6.417,24,tt0976042
+2860,Claire's Knee,1970-12-11,"['Drama', 'Romance']",0,0,7.284,303,tt0065772
+2861,A Good Marriage,1982-05-19,"['Drama', 'Romance', 'Comedy']",0,0,6.79,93,tt0082053
+2863,Signals: A Space Adventure,1970-12-17,['Science Fiction'],0,0,5.2,16,tt0066379
+2882,Hunting & Gathering,2007-03-21,"['Romance', 'Drama']",0,0,6.499,453,tt0792965
+2887,And the Band Played On,1993-09-11,"['Drama', 'TV Movie']",0,0,6.4,114,tt0106273
+2890,André Hazes: She Believes in Me,2000-01-27,['Documentary'],0,0,7.3,13,tt0222718
+2891,An Angel at My Table,1990-09-20,"['Drama', 'History']",0,0,6.979,194,tt0099040
+2892,Angel Baby,1995-10-26,"['Drama', 'Romance']",0,0,6.8,27,tt0112362
+2893,Eolomea,1972-09-21,"['Drama', 'Science Fiction']",0,0,5.4,35,tt0068542
+2894,The Lady and the Duke,2001-09-07,"['Drama', 'History', 'Romance', 'War']",0,0,6.4,39,tt0239234
+2895,The Apostle,1997-12-19,['Drama'],5000000,19868354,6.282,163,tt0118632
+2896,Agitator,2001-10-28,"['Crime', 'Drama', 'Action']",0,0,6.4,46,tt0305240
+2897,Around the World in 80 Days,1956-10-17,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance']",6000000,42000000,6.7,607,tt0048960
+2898,As Good as It Gets,1997-12-19,"['Drama', 'Comedy', 'Romance']",50000000,314178011,7.399,4258,tt0119822
+2899,Asterix & Obelix: Mission Cleopatra,2002-01-30,"['Family', 'Fantasy', 'Comedy', 'Adventure']",58500000,131116046,7.4,3847,tt0250223
+2900,The Astronaut's Wife,1999-08-27,"['Drama', 'Science Fiction', 'Thriller']",75000000,19598588,5.597,1019,tt0138304
+2901,Atash,2001-01-11,['Drama'],0,0,9.0,1,tt0324011
+2903,Au petit Marguery,1995-11-08,"['Drama', 'Romance']",0,0,6.6,7,tt0112410
+2907,The Addams Family,1991-11-22,"['Comedy', 'Fantasy']",30000000,191502426,7.082,5202,tt0101272
+2908,Visiting Van Gogh,1985-10-10,"['Fantasy', 'Science Fiction', 'Adventure']",0,0,3.0,3,tt0090714
+2909,In the Dust of the Stars,1976-07-01,['Science Fiction'],0,0,4.682,22,tt0074671
+2911,The Last Drop,2006-04-13,"['Action', 'Crime', 'History', 'War']",0,0,4.19,50,tt0398029
+2912,The Butcher,1970-02-27,"['Thriller', 'Crime', 'Drama']",0,0,7.1,293,tt0064106
+2914,Chemistry and Love,1948-06-01,"['Comedy', 'Science Fiction', 'Romance']",0,0,6.214,7,tt0236097
+2922,Baby Blue,2001-01-25,['Thriller'],0,0,6.5,4,tt0252253
+2923,B. Monkey,1999-07-15,"['Romance', 'Crime', 'Drama']",0,50832,5.8,91,tt0120594
+2924,Backdraft,1991-05-24,"['Drama', 'Thriller', 'Action', 'Crime']",75000000,152368585,6.662,1632,tt0101393
+2925,The First Wives Club,1996-09-20,['Comedy'],26000000,116400000,6.7,850,tt0116313
+2926,The Three Musketeers,1973-12-11,"['Action', 'Adventure', 'Romance']",4500000,22018000,6.7,379,tt0072281
+2927,Moon 44,1990-02-15,['Science Fiction'],0,0,5.061,156,tt0097910
+2928,Michael,1996-12-25,"['Comedy', 'Drama', 'Fantasy']",20000000,119700000,5.712,706,tt0117038
+2929,Frankenstein,1910-03-18,"['Horror', 'Science Fiction', 'Fantasy']",0,0,6.083,240,tt0001223
+2956,The Artificial Man,1916-08-18,"['Horror', 'Science Fiction', 'Drama']",0,0,6.2,10,tt0006820
+2957,The Mysterious Book,1916-11-27,"['Horror', 'Science Fiction']",0,0,7.667,3,tt0130001
+2958,The Love Tragedy of the Homunculus,1916-12-11,"['Horror', 'Science Fiction']",0,0,7.0,4,tt0130002
+2959,License to Wed,2007-07-04,['Comedy'],35000000,69307224,5.691,948,tt0762114
+2960,The Revenge of the Homunculus,1917-03-05,"['Horror', 'Science Fiction']",0,0,7.4,8,tt0007240
+2961,The Destruction of Mankind,1917-12-03,"['Horror', 'Science Fiction']",0,0,7.0,3,tt0130004
+2962,The End of the Homunculus,1918-01-01,"['Horror', 'Science Fiction']",0,0,5.4,5,tt0130005
+2963,The Impossible Voyage,1904-10-29,"['Adventure', 'Comedy', 'Fantasy', 'Science Fiction']",7500,0,7.267,212,tt0000499
+2964,A Trip to Mars,1918-02-22,"['Science Fiction', 'Adventure', 'Fantasy']",0,0,6.371,35,tt0008100
+2965,"20,000 Leagues Under the Sea",1997-03-23,"['Adventure', 'Action', 'Science Fiction', 'TV Movie']",0,0,5.857,28,tt0118247
+2967,Alraune,1918-01-01,"['Science Fiction', 'Horror']",0,0,0.0,0,tt0008826
+2968,Sacrifice,1918-01-01,"['Horror', 'Science Fiction']",0,0,0.0,0,tt0008825
+2969,A Daughter Of Destiny,1928-01-25,"['Drama', 'Fantasy', 'Science Fiction', 'Horror']",0,0,6.413,23,tt0017621
+2970,Alraune,1930-03-02,"['Science Fiction', 'Horror']",0,0,6.056,9,tt0020635
+2971,Unnatural,1952-10-22,"['Drama', 'Science Fiction', 'Romance', 'Horror']",0,0,5.5,20,tt0044344
+2972,The Golem: How He Came into the World,1920-10-29,"['Fantasy', 'Horror']",0,0,7.0,249,tt0011237
+2973,Aelita: Queen of Mars,1924-09-24,"['Science Fiction', 'Drama', 'Fantasy']",0,0,6.0,83,tt0014646
+2974,The Hands of Orlac,1924-09-24,"['Horror', 'Thriller', 'Mystery']",0,0,6.877,118,tt0015202
+2976,Hairspray,2007-07-19,"['Comedy', 'Romance', 'Drama']",75000000,90450008,6.667,2683,tt0427327
+2977,Becoming Jane,2007-03-02,"['Romance', 'Drama']",16500000,39380831,7.3,1283,tt0416508
+2978,Ghostbusters II,1989-06-16,"['Comedy', 'Fantasy']",37000000,215394738,6.603,5005,tt0097428
+2981,The Lost World,1925-02-02,"['Adventure', 'Fantasy', 'Drama', 'Romance', 'Horror', 'Science Fiction', 'Thriller']",0,0,6.7,173,tt0016039
+2982,The Lost World,1960-07-13,"['Adventure', 'Fantasy', 'Science Fiction']",0,0,5.825,117,tt0054038
+2983,The Lost World,1992-01-01,"['Adventure', 'Fantasy', 'Science Fiction']",0,0,5.222,27,tt0104759
+2984,A Countess from Hong Kong,1967-01-05,"['Comedy', 'Romance']",3500000,2000000,6.002,203,tt0061523
+2985,Tiger by the Tail,1970-01-01,"['Drama', 'Thriller']",0,0,5.286,7,tt0063696
+2986,Satan's Harvest,1970-02-01,"['Action', 'Crime']",0,0,5.5,8,tt0059680
+2987,Mr. Kingstreet's War,1973-05-01,"['Drama', 'History']",0,0,6.333,3,tt0070416
+2988,The Harrad Experiment,1973-05-11,"['Drama', 'Romance']",400000,0,3.7,17,tt0070157
+2989,Roar,1981-10-30,"['Adventure', 'Comedy', 'Horror', 'Thriller']",17000000,2000000,5.819,135,tt0083001
+2990,Pacific Heights,1990-09-28,"['Thriller', 'Drama', 'Mystery']",18000000,55000000,6.3,437,tt0100318
+2991,A Diary of a Murderess,1975-05-04,"['Thriller', 'Drama']",0,0,5.458,12,tt0070031
+2992,Appetite,1998-08-12,"['Horror', 'Thriller']",0,0,3.958,12,tt0149698
+2993,One on Top of the Other,1969-08-15,"['Mystery', 'Thriller']",0,0,6.411,96,tt0065148
+2994,Danger: Diabolik,1968-01-24,"['Action', 'Comedy', 'Crime', 'Thriller']",400000,0,6.3,262,tt0062861
+2995,Masquerade,1965-04-13,"['Comedy', 'Adventure', 'Thriller']",0,0,5.028,18,tt0059433
+2996,The Lost World,1998-08-01,"['Science Fiction', 'TV Movie']",0,0,6.0,1,tt0938313
+2997,The Lost World,1998-10-13,"['TV Movie', 'Adventure', 'Science Fiction']",0,0,4.7,22,tt0138581
+2998,Zabriskie Point,1970-03-26,['Drama'],7000000,1000000,6.993,456,tt0066601
